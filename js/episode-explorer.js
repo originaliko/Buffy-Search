@@ -10,11 +10,15 @@ function buildColorMap(characters) {
   return map;
 }
 
-// Render placeholder dots using line_count from stats (before dialogues load)
+// Render placeholder dots (gray) using line_count from stats
 function renderPlaceholderDots(container, lineCount) {
-  container.innerHTML = Array.from({length: lineCount},
-    () => `<div class="dot" style="background:#5C5C7A"></div>`
-  ).join('');
+  container.innerHTML = '';
+  for (let i = 0; i < lineCount; i++) {
+    const dot = document.createElement('div');
+    dot.className = 'dot';
+    dot.style.background = OTHER_COLOR;
+    container.appendChild(dot);
+  }
 }
 
 // Render real dots from dialogue data
@@ -94,9 +98,10 @@ export function initExplorer(stats) {
   }
 
   function showEpisode(epId) {
+    console.log("showepisode", epId);
     const ep = episodes.find(e => e.id === epId);
     if (!ep) return;
-
+    console.log("ep", ep);
     if (dialoguesData) {
       renderDots(dotGrid, dialoguesData[epId] || [], colorMap);
     } else {
@@ -137,9 +142,22 @@ export function initExplorer(stats) {
   // Episode dropdown change
   epSelect.addEventListener('change', () => showEpisode(epSelect.value));
 
-  // Initial render: season 1, episode 1, gray placeholder dots (no fetch)
+  // Initial render: season 1, episode 1, placeholder dots
   populateDropdown(seasons[0]);
   seasonBtns[0]?.classList.add('active');
   const firstEp = (bySeason[seasons[0]] || [])[0];
   if (firstEp) showEpisode(firstEp.id);
+
+  // Start loading dialogues immediately in background so colored dots appear without user interaction
+  isLoading = true;
+  loadDialogues()
+    .then(data => {
+      dialoguesData = data;
+      isLoading = false;
+      showEpisode(epSelect.value || (firstEp?.id ?? ''));
+    })
+    .catch(err => {
+      isLoading = false;
+      dotGrid.innerHTML = `<p class="error-msg">${err.message.replace(/&/g,'&amp;').replace(/</g,'&lt;')}</p>`;
+    });
 }
