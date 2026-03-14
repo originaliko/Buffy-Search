@@ -10,6 +10,9 @@ import { initFirstLast }     from './firstlast.js';
 import { initSearch }        from './search.js';
 
 // ── Shared lazy-load promise for dialogues.json ──────────────────────────────
+// Note: episode-explorer.js and search.js import this function from main.js,
+// creating a circular ES module dependency. This is safe because loadDialogues()
+// is only called inside event handlers (never at module evaluation time).
 let _dialoguesPromise = null;
 
 export function loadDialogues() {

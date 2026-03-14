@@ -132,7 +132,7 @@ export function initExplorer(stats) {
           })
           .catch(err => {
             isLoading = false;
-            dotGrid.innerHTML = `<p class="error-msg">${err.message}</p>`;
+            dotGrid.innerHTML = `<p class="error-msg">${err.message.replace(/&/g,'&amp;').replace(/</g,'&lt;')}</p>`;
           });
       }
     });
