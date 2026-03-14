@@ -119,3 +119,134 @@ def accumulate_episode(rows, ep_id, alias_map, stats):
                     )
 
         stats["ep_line_count"][ep_id] = stats["ep_line_count"].get(ep_id, 0) + 1
+
+
+def build_stats_json(stats, episode_meta):
+    """Assemble the stats.json structure from accumulated stats."""
+    total_lines = sum(stats["char_lines"].values())
+    peak = max(episode_meta.values(), key=lambda e: e.get("rating") or 0)
+    lowest = min(episode_meta.values(), key=lambda e: e.get("rating") or 9999)
+    top_speaker_name = max(stats["char_lines"], key=stats["char_lines"].get) if stats["char_lines"] else ""
+
+    characters_out = []
+    for name in CHARACTERS:
+        total = stats["char_lines"].get(name, 0)
+        appeared = len(stats["char_episodes"].get(name, set()))
+        characters_out.append({
+            "name": name,
+            "color": CHARACTERS[name]["color"],
+            "total_lines": total,
+            "episodes_appeared": appeared,
+            "lines_per_appearance": round(total / appeared) if appeared else 0,
+        })
+
+    episodes_out = []
+    for ep_id, meta in sorted(episode_meta.items()):
+        top_char_in_ep = ""
+        if stats["ep_top_speaker"].get(ep_id):
+            top_char_in_ep = max(stats["ep_top_speaker"][ep_id],
+                                 key=stats["ep_top_speaker"][ep_id].get)
+        episodes_out.append({
+            "id": ep_id,
+            "season": meta["season"],
+            "episode": meta["episode"],
+            "title": meta["title"],
+            "air_date": meta["air_date"],
+            "rating": meta.get("rating"),
+            "line_count": stats["ep_line_count"].get(ep_id, 0),
+            "top_speaker": top_char_in_ep,
+        })
+
+    catchphrases_out = []
+    for phrase in CATCHPHRASES:
+        total = stats["phrase_totals"].get(phrase, 0)
+        by_char = stats["phrase_by_char"].get(phrase, {})
+        top_char = max(by_char, key=by_char.get) if by_char else ""
+        catchphrases_out.append({
+            "phrase": phrase,
+            "total": total,
+            "top_character": top_char,
+            "by_character": dict(sorted(by_char.items(), key=lambda x: -x[1])),
+        })
+    catchphrases_out.sort(key=lambda x: -x["total"])
+
+    first_last_out = []
+    for name in CHARACTERS:
+        entry = {"character": name}
+        if name in stats["char_first"]:
+            fl = stats["char_first"][name]
+            ep = episode_meta.get(fl["ep_id"], {})
+            entry["first"] = {"line": fl["line"], "episode_id": fl["ep_id"],
+                              "episode_title": ep.get("title", "")}
+        if name in stats["char_last"]:
+            ll = stats["char_last"][name]
+            ep = episode_meta.get(ll["ep_id"], {})
+            entry["last"] = {"line": ll["line"], "episode_id": ll["ep_id"],
+                             "episode_title": ep.get("title", "")}
+        first_last_out.append(entry)
+
+    return {
+        "meta": {
+            "total_lines": total_lines,
+            "total_episodes": len(episode_meta),
+            "total_seasons": 7,
+            "peak_rating": {"value": peak.get("rating"), "episode": peak["id"],
+                            "title": peak["title"]},
+            "lowest_rating": {"value": lowest.get("rating"), "episode": lowest["id"],
+                              "title": lowest["title"]},
+            "top_speaker": {"character": top_speaker_name,
+                            "lines": stats["char_lines"].get(top_speaker_name, 0)},
+        },
+        "episodes": episodes_out,
+        "characters": characters_out,
+        "catchphrases": catchphrases_out,
+        "first_last": first_last_out,
+    }
+
+
+def main():
+    root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+    csv_glob = os.path.join(root, "dataset", "transcripts", "*.csv")
+    meta_path = os.path.join(root, "dataset", "episodes_data", "buffy_episodes.json")
+    out_stats = os.path.join(root, "data", "stats.json")
+    out_dialogues = os.path.join(root, "data", "dialogues.json")
+
+    with open(meta_path, encoding="utf-8") as f:
+        raw_meta = json.load(f)
+    episode_meta = {ep["id"]: ep for ep in raw_meta["episodes"]}
+
+    stats = {
+        "dialogues": {},
+        "char_lines": {},
+        "char_episodes": {},
+        "char_first": {},
+        "char_last": {},
+        "phrase_totals": {},
+        "phrase_by_char": {},
+        "ep_line_count": {},
+        "ep_top_speaker": {},
+    }
+
+    csv_files = sorted(glob.glob(csv_glob))
+    for filepath in csv_files:
+        ep_id = episode_id_from_filename(filepath)
+        rows = read_csv_rows(filepath)
+        accumulate_episode(rows, ep_id, ALIAS_MAP, stats)
+        print(f"  processed {ep_id} ({len(rows)} rows)")
+
+    for ep_id in episode_meta:
+        stats["dialogues"].setdefault(ep_id, [])
+
+    stats_data = build_stats_json(stats, episode_meta)
+    os.makedirs(os.path.dirname(out_stats), exist_ok=True)
+    with open(out_stats, "w", encoding="utf-8") as f:
+        json.dump(stats_data, f, ensure_ascii=False, separators=(",", ":"))
+    print(f"Written: {out_stats}")
+
+    with open(out_dialogues, "w", encoding="utf-8") as f:
+        json.dump(stats["dialogues"], f, ensure_ascii=False, separators=(",", ":"))
+    print(f"Written: {out_dialogues}")
+
+
+if __name__ == "__main__":
+    main()
