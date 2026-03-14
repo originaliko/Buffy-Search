@@ -72,3 +72,50 @@ def read_csv_rows(filepath):
                 "line": raw[3].strip(),
             })
     return rows
+
+
+def phrase_matches(phrase, line):
+    """Case-insensitive substring match, regex-safe."""
+    return bool(re.search(re.escape(phrase), line, re.IGNORECASE))
+
+
+def accumulate_episode(rows, ep_id, alias_map, stats):
+    """
+    Process rows for one episode and accumulate into stats dict.
+    """
+    stats["dialogues"].setdefault(ep_id, [])
+    stats["ep_line_count"][ep_id] = 0
+    stats["ep_top_speaker"].setdefault(ep_id, {})
+
+    for row in rows:
+        canonical = normalize_character(row["character"], alias_map)
+        entry = {
+            "start": row["start"],
+            "end": row["end"],
+            "character": canonical,
+            "line": row["line"],
+        }
+        stats["dialogues"][ep_id].append(entry)
+
+        if canonical:
+            stats["char_lines"][canonical] = stats["char_lines"].get(canonical, 0) + 1
+            stats["char_episodes"].setdefault(canonical, set()).add(ep_id)
+            stats["ep_top_speaker"][ep_id][canonical] = (
+                stats["ep_top_speaker"][ep_id].get(canonical, 0) + 1
+            )
+
+            if canonical in CHARACTERS:
+                if canonical not in stats["char_first"]:
+                    stats["char_first"][canonical] = {"line": row["line"], "ep_id": ep_id}
+                stats["char_last"][canonical] = {"line": row["line"], "ep_id": ep_id}
+
+        for phrase in CATCHPHRASES:
+            if phrase_matches(phrase, row["line"]):
+                stats["phrase_totals"][phrase] = stats["phrase_totals"].get(phrase, 0) + 1
+                stats["phrase_by_char"].setdefault(phrase, {})
+                if canonical:
+                    stats["phrase_by_char"][phrase][canonical] = (
+                        stats["phrase_by_char"][phrase].get(canonical, 0) + 1
+                    )
+
+        stats["ep_line_count"][ep_id] = stats["ep_line_count"].get(ep_id, 0) + 1

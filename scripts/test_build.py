@@ -39,12 +39,30 @@ def test_read_csv_row_structure():
     assert "start" in r and "end" in r and "character" in r and "line" in r
     assert isinstance(r["start"], float)
 
+def test_catchphrase_match_case_insensitive():
+    from build_data import phrase_matches
+    assert phrase_matches("bloody hell", "Oh, Bloody Hell!") is True
+
+def test_catchphrase_match_substring():
+    from build_data import phrase_matches
+    assert phrase_matches("Vampire", "That vampire attacked me") is True
+
+def test_catchphrase_no_match():
+    from build_data import phrase_matches
+    assert phrase_matches("Slayer", "I'm just a normal girl") is False
+
+def test_catchphrase_regex_safe():
+    from build_data import phrase_matches
+    assert phrase_matches("hell.", "hellmouth") is False
+
 if __name__ == "__main__":
     import traceback, sys
     tests = [test_normalize_known_alias, test_normalize_case_insensitive,
              test_normalize_unknown_returns_raw, test_normalize_empty_returns_empty,
              test_episode_id_from_filename, test_read_csv_rows_count,
-             test_read_csv_row_structure]
+             test_read_csv_row_structure,
+             test_catchphrase_match_case_insensitive, test_catchphrase_match_substring,
+             test_catchphrase_no_match, test_catchphrase_regex_safe]
     failed = 0
     for t in tests:
         try:
