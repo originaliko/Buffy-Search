@@ -98,11 +98,9 @@ export function initExplorer(stats) {
   }
 
   function showEpisode(epId) {
-    console.log("showepisode", epId);
-    const ep = episodes.find(e => e.id === epId);
+        const ep = episodes.find(e => e.id === epId);
     if (!ep) return;
-    console.log("ep", ep);
-    if (dialoguesData) {
+        if (dialoguesData) {
       renderDots(dotGrid, dialoguesData[epId] || [], colorMap);
     } else {
       renderPlaceholderDots(dotGrid, ep.line_count);

@@ -5,7 +5,7 @@ export function initCharacters(stats) {
   const el = document.getElementById('characters');
 
   el.innerHTML = `
-    <h2>Who Speaks Most</h2>
+    <h2>Who Speaks The Most</h2>
     <div class="toggle-wrap">
       <div class="toggle-bar">
         <button class="toggle-btn active" data-mode="global">Total lines</button>

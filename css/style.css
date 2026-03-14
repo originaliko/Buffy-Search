@@ -449,3 +449,5 @@ section {
 }
 .site-footer a { color: var(--ghost); }
 .site-footer a:hover { color: var(--stake); }
+.site-footer .iko { display: inline-flex; align-items: center;}
+.site-footer svg { height: 20px; width: auto; fill: var(--ghost);}
