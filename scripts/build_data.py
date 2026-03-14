@@ -41,3 +41,34 @@ def normalize_character(raw, alias_map):
     if not raw:
         return raw
     return alias_map.get(raw.strip().lower(), raw.strip())
+
+
+def episode_id_from_filename(filename):
+    """'S01E01_script.csv' -> 's01e01'"""
+    base = os.path.basename(filename)
+    match = re.match(r'(S\d+E\d+)', base, re.IGNORECASE)
+    if not match:
+        raise ValueError(f"Cannot derive episode id from: {filename}")
+    return match.group(1).lower()
+
+
+def read_csv_rows(filepath):
+    """Read a transcript CSV and return list of dicts with normalized fields."""
+    rows = []
+    with open(filepath, encoding="utf-8", errors="replace") as f:
+        reader = csv.reader(f)
+        for raw in reader:
+            if len(raw) < 4:
+                continue
+            try:
+                start = float(raw[0])
+                end = float(raw[1])
+            except ValueError:
+                continue
+            rows.append({
+                "start": start,
+                "end": end,
+                "character": raw[2].strip(),
+                "line": raw[3].strip(),
+            })
+    return rows
