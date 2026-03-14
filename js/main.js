@@ -61,8 +61,8 @@ async function boot() {
   }
 
   initHero(stats);
-  initExplorer(stats);
   initCharacters(stats);
+  initExplorer(stats);
   initRatings(stats);
   initCatchphrases(stats);
   initFirstLast(stats);

@@ -144,5 +144,6 @@ export function initExplorer(stats) {
   // Initial render: season 1, episode 1, gray placeholder dots (no fetch)
   populateDropdown(seasons[0]);
   seasonBtns[0]?.classList.add('active');
-  showEpisode(epSelect.value);
+  const firstEp = (bySeason[seasons[0]] || [])[0];
+  if (firstEp) showEpisode(firstEp.id);
 }
