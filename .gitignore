@@ -1,0 +1,10 @@
+
+# Raw source data — too large / not needed on GitHub Pages
+dataset/
+
+# Generated files — committed after running build script
+# (data/ IS committed, so don't ignore it)
+
+# OS / editor
+.DS_Store
+.superpowers/
