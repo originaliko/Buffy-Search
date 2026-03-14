@@ -10,15 +10,11 @@ function buildColorMap(characters) {
   return map;
 }
 
-// Render placeholder dots (gray) using line_count from stats
+// Render placeholder dots using line_count from stats (before dialogues load)
 function renderPlaceholderDots(container, lineCount) {
-  container.innerHTML = '';
-  for (let i = 0; i < lineCount; i++) {
-    const dot = document.createElement('div');
-    dot.className = 'dot';
-    dot.style.background = OTHER_COLOR;
-    container.appendChild(dot);
-  }
+  container.innerHTML = Array.from({length: lineCount},
+    () => `<div class="dot" style="background:#5C5C7A"></div>`
+  ).join('');
 }
 
 // Render real dots from dialogue data
