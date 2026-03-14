@@ -87,8 +87,8 @@ export function initExplorer(stats) {
   const infoBar = el.querySelector('#ep-info-bar');
   const seasonBtns = el.querySelectorAll('.season-btn');
 
-  let currentSeason = seasons[0];
   let dialoguesData = null;
+  let isLoading = false;
 
   function populateDropdown(season) {
     const eps = bySeason[season] || [];
@@ -110,7 +110,6 @@ export function initExplorer(stats) {
   }
 
   function selectSeason(season) {
-    currentSeason = season;
     seasonBtns.forEach(btn => {
       btn.classList.toggle('active', btn.dataset.season === String(season));
     });
@@ -122,14 +121,17 @@ export function initExplorer(stats) {
   seasonBtns.forEach(btn => {
     btn.addEventListener('click', () => {
       selectSeason(btn.dataset.season);
-      if (!dialoguesData) {
-        infoBar.innerHTML = '<span class="loading">Loading transcript data…</span>';
+      if (!dialoguesData && !isLoading) {
+        isLoading = true;
+        dotGrid.innerHTML = '<p class="loading" style="padding:20px">Loading transcript data…</p>';
         loadDialogues()
           .then(data => {
             dialoguesData = data;
+            isLoading = false;
             showEpisode(epSelect.value);
           })
           .catch(err => {
+            isLoading = false;
             dotGrid.innerHTML = `<p class="error-msg">${err.message}</p>`;
           });
       }
@@ -140,7 +142,7 @@ export function initExplorer(stats) {
   epSelect.addEventListener('change', () => showEpisode(epSelect.value));
 
   // Initial render: season 1, episode 1, gray placeholder dots (no fetch)
-  populateDropdown(currentSeason);
+  populateDropdown(seasons[0]);
   seasonBtns[0]?.classList.add('active');
   showEpisode(epSelect.value);
 }
