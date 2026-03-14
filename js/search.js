@@ -76,9 +76,9 @@ export function initSearch(stats) {
         if (character && entry.character !== character) continue;
         if (!entry.line.toLowerCase().includes(query.toLowerCase())) continue;
         matches.push({ ep, entry });
-        if (matches.length > MAX_RESULTS) break;
+        if (matches.length >= MAX_RESULTS) break;
       }
-      if (matches.length > MAX_RESULTS) break;
+      if (matches.length >= MAX_RESULTS) break;
     }
 
     if (matches.length === 0) {
@@ -117,7 +117,7 @@ export function initSearch(stats) {
     loadDialogues()
       .then(data => { dialogues = data; })
       .catch(err => {
-        resultsEl.innerHTML = `<p class="error-msg">${err.message}</p>`;
+        resultsEl.innerHTML = `<p class="error-msg">${esc(err.message)}</p>`;
       });
   });
 
