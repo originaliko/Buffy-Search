@@ -61,7 +61,7 @@
 225.62,227.12,Willow,We're doing active listening today.
 227.16,230.3,Xander,Cool! What's active listening?
 230.33,232.19,Willow,That would be the homework.
-232.19,234.47,Buffy,Chapter five. "Active Listening."
+232.19,234.47,Buffy,"Chapter five. ""Active Listening."""
 234.56,238.27,Buffy,Where you put on your big ears
 234.56,238.27,Buffy,and really focus on the other person?
 238.3,240.81,Wendell,Ms Tishler demonstrated it yesterday.
@@ -91,7 +91,7 @@
 293.63,297.55,Wendell,"Help me! Ah! Please, help me!"
 297.59,298.48,Wendell,"Please, help me..."
 298.48,299.32,Billy,Sorry about that.
-349.06,352.64,Master,b>"Nightmares"</b>
+349.06,352.64,Master,"""Nightmares"""
 352.97,355.69,Master,Fear is a wonderful thing!
 356.23,360.74,Master,It is the most powerful force
 356.23,360.74,Master,in the human world.
@@ -298,7 +298,7 @@
 1000.76,1003.05,Laura,Lucky 19.
 1004.14,1006.1,Giles,I'm sorry?
 1006.18,1008.68,Laura,It's what he said right before...
-1009.73,1011.81,Laura,He said "Lucky 19".
+1009.73,1011.81,Laura,"He said ""Lucky 19""."
 1013.06,1015.23,Laura,"That's weird, right?"
 1015.32,1017.4,Giles,"Yes. Yes, it is."
 1018.49,1020.95,Buffy,Feel better.
@@ -375,10 +375,10 @@
 1164.38,1165.03,Giles,Who?
 1165.11,1167.78,Buffy,The kid I've been seeing around school.
 1167.87,1170.57,Buffy,Twelveyearold Billy Palmer was found
-1167.87,1170.57,Buffy,beaten and unconscious"
-1170.57,1172.72,Giles,after his Kiddie League game Saturday."
+1167.87,1170.57,Buffy,"beaten and unconscious"""
+1170.57,1172.72,Giles,"after his Kiddie League game Saturday."""
 1172.76,1174,Giles,Doctors describe
-1174,1176.08,Buffy,his condition as critical."
+1174,1176.08,Buffy,"his condition as critical."""
 1176.17,1178.25,Buffy,When was this published?
 1178.34,1180.42,Buffy,Last week.
 1180.5,1182.62,Buffy,It says he's in a coma in intensive care.
@@ -488,7 +488,7 @@
 1425.7,1428.94,Willow,bad. It was a bad thing.
 1425.7,1428.94,Willow,Bad thing?
 1428.97,1431.37,Xander,I was naked.
-1428.97,1431.37,Xander,Bad thing" doesn't cover it.
+1428.97,1431.37,Xander,"Bad thing"" doesn't cover it."
 1431.4,1432.74,Willow,Everyone staring?
 1432.74,1436.17,Willow,I would hate to have everyone
 1432.74,1436.17,Willow,paying attention to me like that.
@@ -496,7 +496,7 @@
 1436.21,1439.26,Xander,It 's a total nightmare.
 1440.22,1442.72,Willow,"Well, yes, Xander! It's your nightmare!"
 1442.8,1445.85,Xander,Except the part with me waking up
-1442.8,1445.85,Xander,going "It's all a dream".
+1442.8,1445.85,Xander,"going ""It's all a dream""."
 1445.93,1446.73,Xander,It happened.
 1446.73,1448.6,Willow,Like it happened to Wendell.
 1448.68,1450.22,Willow,That thing with the spiders?
@@ -814,6 +814,4 @@
 2643.81,2646.09,,Don't I know it!
 2646.16,2651.4,,Subtitles by: Julie Clayton
 2646.16,2651.4,,Corrections and timing: UAR
-2686.37,2689.77,,
-0.5,4.02,,font color="#ffff00" size=14>www.tvsubtitles.net</font>
 0.5,4.02,,end

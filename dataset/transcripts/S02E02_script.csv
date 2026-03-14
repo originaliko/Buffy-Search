@@ -31,8 +31,8 @@
 65.98,69.13,Buffy,Why? Are you jealous?
 69.16,72.24,Angel,Of Xander? Please! He's just a kid.
 72.24,74.97,Buffy,Is it 'cause I danced with him?
-77.02,78.34,Angel,Danced with" is a pretty loose term.
-77.02,78.34,Angel,Mated with" might be a little closer.
+77.02,78.34,Angel,"Danced with"" is a pretty loose term."
+77.02,78.34,Angel,"Mated with"" might be a little closer."
 78.37,80.51,Buffy,Don't you think
 78.37,80.51,Buffy,you're being a little unfair?
 80.55,83.29,Buffy,"It was... one little dance, which..."
@@ -63,7 +63,7 @@
 174.11,178.4,Buffy,Whoever was buried here
 174.11,178.4,Buffy,didn't rise from this grave.
 186.47,189.65,Buffy,She was dragged from it.
-239.89,245.04,Giles,b>"Some Assembly Required"</b>
+239.89,245.04,Giles,"""Some Assembly Required"""
 245.38,249.66,Giles,"Wwwhat I'm proposing is,"
 245.38,249.66,Giles,and I don't mean to appear indecorous...
 249.7,254.27,Giles,"isis, um, aa social engagement,"
@@ -77,7 +77,7 @@
 268.57,270.63,Buffy,Then if you wouldn't mind
 268.57,270.63,Buffy,"a little Gene and Roger,"
 270.63,272.71,Buffy,you might wanna
-270.63,272.71,Buffy,leave off the "idiot" part.
+270.63,272.71,Buffy,"leave off the ""idiot"" part."
 272.75,275.87,Buffy,Being called an idiot tends
 272.75,275.87,Buffy,to take people out of the dating mood.
 276.05,278.53,Xander,It actually kinda turns me on.
@@ -89,11 +89,11 @@
 287.81,288.32,Giles,England?
 288.35,291.89,Buffy,"Yeah. You just say ""Hey,"
 288.35,291.89,Buffy,I got a thing. You maybe have a thing.
-291.89,293.05,Buffy,Maybe we could have a thing".
+291.89,293.05,Buffy,"Maybe we could have a thing""."
 293.08,294.72,Giles,"Oh, thank you, Cyrano."
 294.72,295.98,Daryl,I'm not finished.
 296.02,298.17,,Then you say
-296.02,298.17,,How do you feel about Mexican?"
+296.02,298.17,,"How do you feel about Mexican?"""
 298.2,299.87,Giles,About Mexicans?
 299.87,301.42,Buffy,Mexican. Food.
 301.45,303.89,Buffy,"You take her for food,"
@@ -132,7 +132,7 @@
 353.78,356.1,Buffy,and the body was taken out.
 356.14,359.48,Giles,Grave robbing? That's new. Interesting.
 359.51,362.21,Buffy,I know you meant to say:
-359.51,362.21,Buffy,gross and disturbing".
+359.51,362.21,Buffy,"gross and disturbing""."
 362.5,367.51,Giles,"Yes, yes, of course. Terrible thing."
 362.5,367.51,Giles,Mustmust put a stop to it... Damn it.
 367.54,371.69,Xander,"So, why does someone"
@@ -165,7 +165,7 @@
 431.02,436.35,Chris,he understands your experiment.
 436.39,438.03,Chris,Effects of Subviolet Light
 438.03,439.48,Cordelia,Spectrum Depravation...
-439.52,441.92,Chris,on the Development of Fruit Flies"?
+439.52,441.92,Chris,"on the Development of Fruit Flies""?"
 441.92,443.64,Cordelia,That should do the trick!
 443.86,446.24,Cordelia,"OK, I'm doing this under protest."
 446.37,450.93,Cordelia,It is not fair they're making participation
@@ -173,7 +173,7 @@
 450.97,453.29,Cordelia,I don't think anyone should have to do
 450.97,453.29,Cordelia,"anything educational in school,"
 453.32,455.19,Cordelia,if they don't want to.
-455.19,457.92,Willow,The Tomato: Fruit or Vegetable?"
+455.19,457.92,Willow,"The Tomato: Fruit or Vegetable?"""
 457.95,460.79,Cordelia,I wanted to do something
 457.95,460.79,Cordelia,"I could finish in a weekend, all right?"
 461.39,463.87,Cordelia,Stop it! What are you doing?!
@@ -225,7 +225,7 @@
 550.89,553.77,Buffy,She wasn't killed by vampires.
 550.89,553.77,Buffy,Somebody did dig up her corpse.
 553.81,558.31,Cordelia,Eww! Why is it that every conversation
-553.81,558.31,Cordelia,you have has the word "corpse" in it?
+553.81,558.31,Cordelia,"you have has the word ""corpse"" in it?"
 558.35,560.85,Xander,"OK, so we've got a body snatcher."
 558.35,560.85,Xander,What does that mean?
 560.88,562.21,Giles,Here's what I've come up with.
@@ -445,11 +445,11 @@
 1110.35,1113.49,Xander,"He's into corpses, all right,"
 1110.35,1113.49,Xander,but we still don't know why.
 1113.53,1115.54,Buffy,"Yes, we do."
-1121.3,1124.77,Eric,i># I guess you say</i>
-1125.06,1128.52,Eric,i># What can make me feel this way?</i>
-1129.34,1131.27,Eric,i># My girl</i>
-1131.32,1134.12,Eric,i># Talkin' 'bout my girl</i>
-1134.35,1136.32,Eric,i># My girl!</i>
+1121.3,1124.77,Eric,# I guess you say
+1125.06,1128.52,Eric,# What can make me feel this way?
+1129.34,1131.27,Eric,# My girl
+1131.32,1134.12,Eric,# Talkin' 'bout my girl
+1134.35,1136.32,Eric,# My girl!
 1136.42,1139.36,Chris,How's my baby?
 1136.42,1139.36,Chris,She's not your baby.
 1139.45,1141.92,Eric,She's not gonna be anybody's baby
@@ -475,7 +475,7 @@
 1186.95,1189.13,Buffy,Eric's sick enough
 1186.95,1189.13,Buffy,"to do something like this, but"
 1189.13,1190.38,Willow,what about Chris?
-1190.38,1192.65,Buffy,He seems like a "human" person.
+1190.38,1192.65,Buffy,"He seems like a ""human"" person."
 1192.69,1196.5,Willow,I don't know. That thing
 1192.69,1196.5,Willow,with his brother was really hard on him.
 1197.03,1198.91,Willow,And he talked about death a lot.
@@ -498,7 +498,7 @@
 1231.15,1233.51,Jenny,Did you bring it? Tomorrow...
 1233.51,1234.32,Giles,Very good.
 1234.36,1238.87,Buffy,"OK, Giles, just remember. ""I feel a thing."
-1234.36,1238.87,Buffy,You feel a thing." But personalize it.
+1234.36,1238.87,Buffy,"You feel a thing."" But personalize it."
 1238.9,1240,Giles,Personalize it?
 1240,1241.99,Buffy,"She's a technopagan, right?"
 1242.03,1244.45,Buffy,Ask her to bless your laptop.
@@ -509,7 +509,7 @@
 1250.86,1252.2,Jenny,"Good morning, Rupert."
 1252.2,1252.96,Giles,Ms Calendar?
 1253,1255.86,Jenny,"Oh, no, please, call me Jenny."
-1253,1255.86,Jenny,Ms Calendar" is my father.
+1253,1255.86,Jenny,"Ms Calendar"" is my father."
 1255.9,1257.74,Giles,"Jenny, then."
 1257.78,1262.12,Giles,"You know, uh, Jenny,"
 1257.78,1262.12,Giles,"um, would it appear indecorous..."
@@ -555,7 +555,7 @@
 1342.45,1346.11,Willow,Maybe an electrical current
 1342.45,1346.11,Willow,combined with an adrenaline boost.
 1346.14,1349.54,Xander,"For the love of God,"
-1346.14,1349.54,Xander,can somebody scratch my nose?"
+1346.14,1349.54,Xander,"can somebody scratch my nose?"""
 1350.59,1353.39,Buffy,"Well, it's official. Chris and Eric"
 1350.59,1353.39,Buffy,didn't come to school today.
 1353.39,1354.55,Xander,That's no coincidence.
@@ -639,10 +639,10 @@
 1545.68,1547.35,Daryl,This one!
 1547.35,1548.28,Eric,Haha.
 1549.44,1551.27,Eric,A man of taste.
-1555.3,1557.26,Eric,i># My girl</i>
-1559.68,1561.64,Eric,i># Talkin' 'bout</i>
-1562.18,1564.02,Eric,i># My girl</i>
-1565.31,1566.56,Eric,i># My girl</i>
+1555.3,1557.26,Eric,# My girl
+1559.68,1561.64,Eric,# Talkin' 'bout
+1562.18,1564.02,Eric,# My girl
+1565.31,1566.56,Eric,# My girl
 1566.6,1569.93,Willow,I checked the obits. Nothing
 1566.6,1569.93,Willow,that would make a likely candidate.
 1570.32,1573.05,Xander,They seem kinda picky for guys
@@ -665,7 +665,7 @@
 1596.05,1597.58,Buffy,"OK, fine. You guys go to Eric's,"
 1597.61,1599.41,Buffy,"we can go to Chris', and meet up."
 1599.41,1600.93,Giles,I'm supposed to be at the...
-1600.97,1604.48,Buffy,big game". II believe it's called.
+1600.97,1604.48,Buffy,"big game"". II believe it's called."
 1600.97,1604.48,Buffy,Fine. Go ahead. We'll take care of this.
 1604.52,1606.66,Giles,"Yes, but shouldn't I... I'm..."
 1606.66,1609.3,Buffy,"OK, then why don't we all meet there?"
@@ -770,7 +770,7 @@
 2001.57,2003.65,Jenny,Is this your normal strategy
 2001.57,2003.65,Jenny,for a first date:
 2003.65,2007.46,Jenny,dissing my country's national pastime?
-2007.5,2011.34,Giles,Did you just say... "date"?
+2007.5,2011.34,Giles,"Did you just say... ""date""?"
 2011.38,2012.9,Jenny,"You noticed that, huh?"
 2012.9,2014.77,Willow,"Hi, Ms Calendar. Hi, Giles."
 2014.81,2015.9,Jenny,Hey. What's up?
@@ -892,7 +892,7 @@
 2449.93,2452.87,Giles,"to live on top of the Hellmouth,"
 2453,2456.86,Giles,the events of this evening
 2453,2456.86,Giles,actually qualify as a slow night.
-2458.95,2461.71,Giles,Did you just say "second date"?
+2458.95,2461.71,Giles,"Did you just say ""second date""?"
 2461.74,2464.12,Jenny,"You noticed that, huh?"
 2469.27,2472.55,Xander,"Well, I guess that makes it official."
 2469.27,2472.55,Xander,Everybody's paired off.
@@ -940,6 +940,5 @@
 2565.44,2568.42,,I should probably go.
 2570.81,2574.54,,I could walk you home.
 2587.52,2594.48,,Subtitles extended & timed by: UAR
-2638.45,2641.38,,
-0.5,4.02,,font color="#ffff00" size=14>www.tvsubtitles.net</font>
+0.5,4.02,,"font color=""#ffff00"" size=14>www.tvsubtitles.net</font>"
 0.5,4.02,,end

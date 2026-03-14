@@ -1,10 +1,10 @@
 14.57,18.26,,Are you a people person or do you
-14.57,18.26,,prefer keeping your own company?"
+14.57,18.26,,"prefer keeping your own company?"""
 18.72,23.05,,"Well, what if I'm a people person"
 18.72,23.05,,who keeps his own company by default?
 23.1,25.92,Buffy,"So, mark ""none of the above""."
 23.1,25.92,Buffy,"Well, there are no boxes for"
-25.92,26.78,Buffy,none of the above".
+25.92,26.78,Buffy,"none of the above""."
 26.78,28.56,Xander,That would introduce too many variables
 28.56,31.76,Xander,into their mushroomhead
 28.56,31.76,Xander,numbercrunching little world.
@@ -22,7 +22,7 @@
 49.73,52.89,Xander,"Yes, but I'll always be stupid."
 53.33,56.51,Xander,"OK, let's not all rush to disagree."
 56.56,58.16,Buffy,You're not stupid.
-58.2,62.05,Cordelia,I aspire to help my fellow man." Check.
+58.2,62.05,Cordelia,"I aspire to help my fellow man."" Check."
 62.31,66.43,Cordelia,"As long as he's not smelly,"
 62.31,66.43,Cordelia,dirty or... something gross.
 66.46,70.78,Xander,Cordelia Chase  always ready to give
@@ -48,7 +48,7 @@
 105.54,109.76,Willow,about what kinda career you could've had?
 109.8,112.69,Willow,"I mean, if you"
 109.8,112.69,Willow,weren't already the Slayer 'n' all.
-112.72,115.46,Buffy,Do the words "sealed" and "fate"
+112.72,115.46,Buffy,"Do the words ""sealed"" and ""fate"""
 112.72,115.46,Buffy,"ring any bells for you, Will?"
 115.46,116.35,Buffy,Why go there?
 116.35,118.89,Xander,"You know, with that kind of attitude,"
@@ -105,8 +105,8 @@
 288.49,290.99,Drusilla,Now will you dance?
 291.03,294.78,Spike,"I'll dance with you, pet..."
 296.62,300.26,Spike,on the Slayer's grave.
-356.56,362.81,Spike,b>"What's My Line?" </b>
-433.71,437.07,Buffy,Does "rest in peace" have
+356.56,362.81,Spike,"""What's My Line?"""
+433.71,437.07,Buffy,"Does ""rest in peace"" have"
 433.71,437.07,Buffy,no sanctity to you people?
 437.14,439.92,Buffy,Oh. I forgot. You're not a people.
 451.53,453.91,Buffy,One down...
@@ -122,9 +122,9 @@
 495.95,498.16,Buffy,What's up?
 499.08,500.91,Angel,Nothing.
 502.83,504.94,Angel,"Well, you don't have a ""nothing"" face."
-504.94,506.5,Buffy,You have a "something" face.
+504.94,506.5,Buffy,"You have a ""something"" face."
 506.58,508.33,Buffy,And you don't have to whisper.
-508.33,509.85,Angel,Mom's in LA till Thursday 
+508.33,509.85,Angel,Mom's in LA till Thursday
 509.85,511.9,Buffy,art buying or something.
 511.94,515.09,Angel,Then... why'd you come in
 511.94,515.09,Angel,through the window?
@@ -334,7 +334,7 @@
 999.98,1000.9,Willow,I just saw her...
 1000.9,1002.1,Snyder,And don't feed me that
 1002.13,1004.93,Snyder,"I just saw her a minute ago,"
-1002.13,1004.93,Snyder,she's around here somewhere" story.
+1002.13,1004.93,Snyder,"she's around here somewhere"" story."
 1004.97,1010.58,Willow,But I did... just see her a minute ago
 1004.97,1010.58,Willow,and she is around here somewhere.
 1010.62,1012.29,Xander,For what it's worth...
@@ -443,9 +443,9 @@
 1263.34,1266.13,Buffy,how to read the book?
 1266.17,1270.67,Giles,"Something's coming, Buffy. Whatever it is,"
 1266.17,1270.67,Giles,I can guarantee it's not good.
-1271.39,1275.4,Announcement,"i>Bus 219, continuing service to Los Angeles,</i>"
-1275.4,1280.74,Announcement,i>now arriving in Sunnydale
-1275.4,1280.74,Announcement,at the west gate.</i>
+1271.39,1275.4,Announcement,"Bus 219, continuing service to Los Angeles,"
+1275.4,1280.74,Announcement,now arriving in Sunnydale
+1275.4,1280.74,Announcement,at the west gate.
 1328.32,1329.8,Norman,Mrs. Kalish?
 1329.8,1330.3,Mrs. Kalish,Yes.
 1330.33,1333.56,Norman,Hello. I'm Norman Pfister
@@ -462,7 +462,7 @@
 1410.94,1412.23,Willow,who stole his book...
 1412.27,1414.32,Willow,is connected to the one
 1412.27,1414.32,Willow,you slayed last night?
-1414.66,1416.49,Willow,Or... is it "slew"?
+1414.66,1416.49,Willow,"Or... is it ""slew""?"
 1416.49,1418.13,Giles,Both are correct.
 1418.16,1420.82,Giles,And yes. I'm sure.
 1420.85,1424.14,Giles,Du Lac was both a theologian
@@ -564,7 +564,7 @@
 1760.48,1761.89,Giles,"That's enough, Xander!"
 1764.26,1769.8,Giles,Sorry. It's just not the time for jokes.
 1764.26,1769.8,Giles,I need to think.
-1769.84,1771.85,Buffy,These assassins 
+1769.84,1771.85,Buffy,These assassins
 1769.84,1771.85,Buffy,why are they after me?
 1771.85,1773.96,Willow,Cause you're the scourge
 1771.85,1773.96,Willow,of the underworld?
@@ -768,6 +768,5 @@
 2580.56,2585.49,,I am Kendra.
 2580.56,2585.49,,The Vampire Slayer.
 2588.02,2590.23,,Subtitles extended and timed by: UAR
-2629.09,2632.43,,
-0.5,4.02,,font color="#ffff00" size=14>www.tvsubtitles.net</font>
+0.5,4.02,,"font color=""#ffff00"" size=14>www.tvsubtitles.net</font>"
 0.5,4.02,,end

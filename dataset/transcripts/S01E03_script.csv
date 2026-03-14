@@ -71,7 +71,7 @@
 207.09,211.39,Amy,He's one of the best coaches money can buy.
 211.47,213.36,Buffy,They have cheerleading coaches?
 213.36,214.89,Amy,"Oh, yeah! Don't you have?"
-214.97,218.14,Amy,I train with my mom 
+214.97,218.14,Amy,I train with my mom
 214.97,218.14,Amy,"three hours in the morning, three at night."
 218.23,222.4,Buffy,Hm. That much quality time with my mom'd
 218.23,222.4,Buffy,probably lead to some quality matricide.
@@ -204,7 +204,7 @@
 590.31,591.02,Buffy,No?
 591.6,594.61,Buffy,Catherine Madison.
 591.6,594.61,Buffy,Get down with your bad self!
-594.69,597.04,Amy,Her nickname was "Catherine the Great".
+594.69,597.04,Amy,"Her nickname was ""Catherine the Great""."
 597.05,599.46,Amy,She took that team and
 597.05,599.46,Amy,made them TriCounty Champions.
 599.49,602.7,Amy,"You know, no one'd ever done that before."
@@ -236,7 +236,7 @@
 655.33,657.83,Willow,"Hey, Amy!"
 657.92,658.75,Willow,Is she OK?
 658.75,661.67,Buffy,"Oh, she's... wiggin' about her mom."
-661.76,663.8,Buffy,The big "cheer queen" back when.
+661.76,663.8,Buffy,"The big ""cheer queen"" back when."
 664.92,666.68,Willow,Yeah. Her mom's kinda...
 666.68,667.34,Buffy,Nazilike?
 667.72,668.72,Willow,Heil.
@@ -253,7 +253,7 @@
 687.32,690.16,Buffy,"Hm! Hey, any word on Amber?"
 690.24,695.37,Willow,"Nothing thrilling. Average student,"
 690.24,695.37,Willow,got detention once for smoking.
-695.46,699.5,Willow,"Regular smoking, with a cigarette "
+695.46,699.5,Willow,"Regular smoking, with a cigarette"
 695.46,699.5,Willow,"not, like, being smoky."
 699.59,700.01,Buffy,Hm.
 700.01,702.5,Willow,All pretty normal.
@@ -495,7 +495,7 @@
 1331.02,1330.72,Giles,some aqua fortis.
 1330.8,1334.6,Willow,That's just mercury and nitric acid.
 1330.8,1334.6,Willow,You can get that at the science lab.
-1334.68,1337.14,Giles,Heat ingredients and apply to witch."
+1334.68,1337.14,Giles,"Heat ingredients and apply to witch."""
 1337.22,1342.31,Giles,If the spell has been cast in the previous
 1337.22,1342.31,Giles,"hours, the witch's skin turns blue."""
 1342.4,1344.9,Dr. Gregory,"Oh, and you'll need some eye of newt."
@@ -533,7 +533,6 @@
 1441.16,1445.54,Dr. Gregory,why these chemicals have this reaction?
 1446.96,1449.5,Dr. Gregory,Lishanne? Are you...?
 1450.55,1454.02,Dr. Gregory,"Oh, my God!"
-1452.96,1455.3,Dr. Gregory,
 1467.4,1469.77,Xander,Did you see?
 1467.4,1469.77,Xander,Amy was as freaked out as the rest of us.
 1469.86,1470.77,Willow,So it's not her.
@@ -551,8 +550,8 @@
 1527.25,1532.33,Amy,"But instead, Miss Buffy and friends"
 1527.25,1532.33,Amy,are sneaking around stealing bits of my hair.
 1538.8,1541.09,Amy,I'll be upstairs.
-1576.99,1582.59,Buffy,"i># Macho, macho, man!"
-1576.99,1582.59,Buffy,I want to be a macho man. Macho... </i>
+1576.99,1582.59,Buffy,"# Macho, macho, man!"
+1576.99,1582.59,Buffy,I want to be a macho man. Macho...
 1582.63,1584.89,Buffy,"Ooh, hey, juice! Mmm!"
 1586.68,1589.1,Buffy,Quality juice. Not from concentrate.
 1589.18,1590.88,Joyce,You're in a good mood.
@@ -581,10 +580,10 @@
 1623.89,1627.65,Buffy,What? Like I can't be in a good mood?
 1627.69,1631.81,Buffy,"Is it like a new house rule? Fine, you know,"
 1627.69,1631.81,Buffy,"that's just fine, fine, fine. 'Cause..."
-1631.81,1634.2,Buffy,"i># I'm a macho, macho man!</i>"
-1634.2,1639.03,Buffy,i># I want to be a macho man!
-1634.2,1639.03,Buffy,"Macho, macho man!</i>"
-1639.03,1642.34,Buffy,i># I want to be a macho man!</i>
+1631.81,1634.2,Buffy,"# I'm a macho, macho man!"
+1634.2,1639.03,Buffy,# I want to be a macho man!
+1634.2,1639.03,Buffy,"Macho, macho man!"
+1639.03,1642.34,Buffy,# I want to be a macho man!
 1642.8,1645.5,Joy,"Five, six, seven, eight!"
 1650.16,1652.54,Buffy,Turn up the music!
 1673.94,1677.69,Joy,"Get it together, Buffy!"
@@ -892,7 +891,7 @@
 2615.67,2619.17,Amy,"Oh, that's OK."
 2619.3,2622.91,Buffy,Cheerleading's a little too hairy these days.
 2622.91,2624.68,Amy,Yeah. That's for sure.
-2625.72,2628.64,Amy,Catherine the Great."
+2625.72,2628.64,Amy,"Catherine the Great."""
 2628.73,2631.27,Buffy,And there's been no sign of her?
 2631.35,2635.86,,That last spell?
 2631.35,2635.86,,She said I'd never make trouble again.
@@ -905,6 +904,5 @@
 2648.97,2652.75,,that look's in for spring.
 2658.11,2669.6,,Subtitles by: Claire Bates
 2658.11,2669.6,,Corrected and adjusted by: UAR
-2697.77,2700.78,,
-0.5,4.02,,font color="#ffff00" size=14>www.tvsubtitles.net</font>
+0.5,4.02,,"font color=""#ffff00"" size=14>www.tvsubtitles.net</font>"
 0.5,4.02,,end

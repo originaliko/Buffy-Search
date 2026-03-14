@@ -56,7 +56,7 @@
 248.68,250.8,Giles,and clean up a little.
 250.83,253.21,Giles,I'll... I'll be back in the Middle Ages.
 253.25,257.01,Ms. Calendar,Did you ever leave?
-354.44,357.48,Ms. Calendar,b>"I Robot... You Jane"</b>
+354.44,357.48,Ms. Calendar,"""I Robot... You Jane"""
 357.52,360.49,Buffy,"Willow! Willow, hey, wait up!"
 361.15,363.24,Willow,"Oh, Buffy. I didn't even see you."
 363.32,367.24,Buffy,Or hear me! What was up last night?
@@ -101,7 +101,7 @@
 450.89,454.63,Ms. Calendar,"Cool. But this is lab time,"
 450.89,454.63,Ms. Calendar,"so let's make it a nice, short visit, OK?"
 454.67,455.1,Buffy,Sure.
-455.1,456.88,PC,i> You have mail.</i>
+455.1,456.88,PC,You have mail.
 456.97,459.3,Willow,It's him.
 462.43,463.9,Willow,He's so sweet!
 463.9,465.48,Buffy,He's a sweetie.
@@ -145,8 +145,8 @@
 582.81,584.04,Fritz,New project.
 584.04,586.39,Ms. Calendar,Ooh! Will I be excited?
 586.43,587.94,Fritz,You'll die.
-587.97,593.16,Boy,This isn't my report. "Nazi Germany
-587.97,593.16,Boy,was a model of a wellordered society"?!
+587.97,593.16,Boy,"This isn't my report. ""Nazi Germany"
+587.97,593.16,Boy,"was a model of a wellordered society""?!"
 593.24,596.37,Boy,I didn't write that! Who's been in my files?
 599.37,600.44,Xander,Guess who.
 600.44,601.84,Willow,Uh... Xander?
@@ -302,7 +302,7 @@
 908.05,911.63,Giles,fill me with a childlike terror.
 911.67,915.59,Giles,"Now, if it were a nice ogre or some such"
 911.67,915.59,Giles,I'd be more in my element.
-916.81,921.25,Buffy,I suppose you could "tail" Dave.
+916.81,921.25,Buffy,"I suppose you could ""tail"" Dave."
 916.81,921.25,Buffy,See if he's up to something.
 921.29,925.6,Buffy,"Follow Dave? What, in dark glasses"
 921.29,925.6,Buffy,and a trench coat? Please.
@@ -371,7 +371,7 @@
 1097.33,1099.42,Giles,will continue this conversation
 1097.33,1099.42,Giles,at another time.
 1099.46,1100.68,Buffy,"I think, we're done."
-1100.76,1102.67,Buffy,Makes our speaking English is good"?
+1100.76,1102.67,Buffy,"Makes our speaking English is good""?"
 1102.67,1103.47,Xander,"I panicked, OK?"
 1103.55,1108.23,Malcolm,I've never felt this way
 1103.55,1108.23,Malcolm,"about anyone before, Willow."
@@ -557,7 +557,7 @@
 1588.63,1594.21,Moloch,Stay away from Willow!
 1588.63,1594.21,Moloch,It is none of your business!
 1594.43,1597.96,Buffy,So that's what Malcolm looks like.
-1599.89,1602.04,Buffy,So much for "Delete file".
+1599.89,1602.04,Buffy,"So much for ""Delete file""."
 1602.04,1603.44,Giles,This is very bad.
 1603.47,1606.98,Xander,Are we overreacting?
 1603.47,1606.98,Xander,He's in a computer. What can he do?
@@ -618,15 +618,15 @@
 1794.56,1797.73,PC,You have mail.
 1806.49,1808.83,Willow,"Dad, did you forget your keys again?"
 1821.59,1824.26,Fritz,No more waiting.
-1824.51,1827.18,Radio,i>A spokesman for the archbishop
-1824.51,1827.18,Radio,"denied the allegations,</i>"
-1827.19,1829.73,Radio,i>blaming computer error
-1827.19,1829.73,Radio,for the apparent financial discrepancy.</i>
+1824.51,1827.18,Radio,A spokesman for the archbishop
+1824.51,1827.18,Radio,"denied the allegations,"
+1827.19,1829.73,Radio,blaming computer error
+1827.19,1829.73,Radio,for the apparent financial discrepancy.
 1829.76,1831.73,Giles,Binding ritual...
-1831.81,1834.76,Radio,"i>In Washington D.C., the FBI today reported"
-1831.81,1834.76,Radio,that all of its serial killer profiles</i>
-1834.76,1836.69,Radio,i>have been mysteriously downloaded
-1834.76,1836.69,Radio,from its central computer.</i>
+1831.81,1834.76,Radio,"In Washington D.C., the FBI today reported"
+1831.81,1834.76,Radio,that all of its serial killer profiles
+1834.76,1836.69,Radio,have been mysteriously downloaded
+1834.76,1836.69,Radio,from its central computer.
 1836.73,1839.18,Ms. Calendar,I got your message. What's so urgent?
 1839.18,1840.57,Giles,Thank you for coming.
 1840.61,1843.29,Giles,Er... I need your help.
@@ -641,7 +641,7 @@
 1874.28,1876.15,Buffy,Willow?
 1877.24,1879.32,Buffy,Willow?
 1882.08,1884.16,Xander,"OK, any thoughts?"
-1885.37,1888.2,Buffy,No more waiting. I need you to see me"?
+1885.37,1888.2,Buffy,"No more waiting. I need you to see me""?"
 1888.23,1890.17,Buffy,See him how? Where?
 1890.2,1891.21,Xander,What about CRD?
 1891.21,1892.49,Buffy,The research place?
@@ -674,7 +674,7 @@
 1948.97,1952.22,Ms. Calendar,same as out here.
 1952.26,1954.47,Giles,Are you a witch?
 1954.51,1956.59,Ms. Calendar,I don't have that kind of power.
-1956.59,1960.41,Ms. Calendar,Techno pagan" is the term.
+1956.59,1960.41,Ms. Calendar,"Techno pagan"" is the term."
 1960.45,1962.71,Ms. Calendar,There are more of us than you think.
 1963.87,1966.63,Giles,"Well, er... you can definitely help me."
 1969.51,1973.63,Giles,What's in cyberspace at the moment
@@ -872,6 +872,5 @@
 2636.07,2637.95,,Yeah.
 2642.62,2648.51,,Subtitles by: Doreen Trenerry
 2642.62,2648.51,,Corrections and timing: UAR
-2685.16,2688.63,,
-0.5,4.02,,font color="#ffff00" size=14>www.tvsubtitles.net</font>
+0.5,4.02,,"font color=""#ffff00"" size=14>www.tvsubtitles.net</font>"
 0.5,4.02,,end

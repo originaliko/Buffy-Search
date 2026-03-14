@@ -36,7 +36,7 @@
 151.68,153.46,,Callie! Callie.
 153.49,155.86,,Where are you going?
 155.89,159.28,,The party's just gettin' started.
-220.5,224.2,,b>"Reptile Boy"</b>
+220.5,224.2,,"""Reptile Boy"""
 226.19,229.15,,See? Dr Debbi says
 226.19,229.15,,"when a man is speaking,"
 229.15,232.7,,you make serious eye contact
@@ -89,7 +89,7 @@
 325.04,328.66,Buffy,"Aw, he won't be upset. There hasn't been"
 325.04,328.66,Buffy,much paranormal activity lately.
 328.69,332.73,Giles,Just because the paranormal is more
-328.69,332.73,Giles,normal" and less... "para" of late...
+328.69,332.73,Giles,"normal"" and less... ""para"" of late..."
 332.77,335.66,Giles,is no excuse for tardiness
 332.77,335.66,Giles,or letting your guard down.
 335.68,337.5,Buffy,I haven't let my guard down.
@@ -210,7 +210,7 @@
 567.94,570.2,Buffy,"Mm, history stumps me."
 570.2,572.45,Buffy,I have a hard enough time remembering
 570.2,572.45,Buffy,what happened last week.
-572.48,575.75,Tom,"No, nothin' happened last week "
+572.48,575.75,Tom,"No, nothin' happened last week"
 572.48,575.75,Tom,don't worry. I was there.
 578.02,578.75,Xander,She's gonna walk away.
 579.13,583.02,Xander,Now.
@@ -303,7 +303,7 @@
 839.25,842.63,Cordelia,The Zeta Kappas have to have
 839.25,842.63,Cordelia,a certain balance at their party.
 842.66,846.23,Cordelia,"And Richard explained it all to me,"
-842.66,846.23,Cordelia,but I was so busy "really listening"
+842.66,846.23,Cordelia,"but I was so busy ""really listening"""
 846.23,848.36,Cordelia,that I didn't hear much.
 848.48,853.72,Cordelia,"Anyway, the deal is they need you to go."
 848.48,853.72,Cordelia,"And if you don't go, I can't."
@@ -527,30 +527,28 @@
 1320.57,1321.77,Cordelia,No. Wanna show me?
 1321.77,1322.71,Richard,What about...?
 1323.04,1326.61,Cordelia,"Oh, her? She's happiest by herself."
-1331.89,1333.43,Cordelia,b><i></b></i>
-1333.68,1340.54,Lyrics,"i># Her name's Alexandra,"
-1333.68,1340.54,Lyrics,She walks into the room...</i>
-1340.56,1345.61,Lyrics,i># All the guys' eyes are upon her</i>
+1333.68,1340.54,Lyrics,"# Her name's Alexandra,"
+1333.68,1340.54,Lyrics,She walks into the room...
+1340.56,1345.61,Lyrics,# All the guys' eyes are upon her
 1346.82,1347.06,Xander,Cheers.
-1347.06,1348.04,Lyrics,i># What a girl! I think</i>
-1348.04,1353.61,Lyrics,i># she's got her hungry eyes on you</i>
-1354.95,1359.66,Lyrics,"i># Yeah, you</i>"
-1361.3,1363.73,Lyrics,i># She said she</i>
-1363.73,1369.12,Lyrics,i># runs with the wolves</i>
-1371.21,1373.53,Lyrics,i># She thinks she</i>
-1373.73,1382.25,Lyrics,i># runs with the wolves</i>
-1396.52,1399.37,Lyrics,b><i></b></i>
-1399.4,1403.32,Lyrics,"i># Bend, and I'll break you</i>"
-1405,1410.81,Lyrics,"i># Leave, and I'll take you back again</i>"
+1347.06,1348.04,Lyrics,# What a girl! I think
+1348.04,1353.61,Lyrics,# she's got her hungry eyes on you
+1354.95,1359.66,Lyrics,"# Yeah, you"
+1361.3,1363.73,Lyrics,# She said she
+1363.73,1369.12,Lyrics,# runs with the wolves
+1371.21,1373.53,Lyrics,# She thinks she
+1373.73,1382.25,Lyrics,# runs with the wolves
+1399.4,1403.32,Lyrics,"# Bend, and I'll break you"
+1405,1410.81,Lyrics,"# Leave, and I'll take you back again"
 1413.76,1415.97,Tackle,New girl!
 1416.26,1417.3,Young Man,"Easy, man."
 1417.3,1417.93,Tackle,Dance!
-1417.93,1418.93,,i># So bend and I'll break you</i>
+1417.93,1418.93,,# So bend and I'll break you
 1420.64,1421.69,Young Man,"Easy, man."
 1421.69,1424.41,Tackle,"Come on, sweetheart. Yeah!"
 1424.44,1426.06,Tom,Could I have this dance?
 1426.06,1426.6,Tackle,Come on!
-1427.52,1434.33,Lyrics,"i># If she bends, then she breaks...</i>"
+1427.52,1434.33,Lyrics,"# If she bends, then she breaks..."
 1435.65,1437.28,Buffy,Thanks for...
 1437.28,1437.66,Tom,No.
 1438.16,1443.02,Tom,We're not all a bunch of drunken louts.
@@ -580,9 +578,9 @@
 1499.47,1502.39,Tom,"Anyway, the, uh, Hulk is gone, so..."
 1502.42,1505.2,Tom,you don't have to dance with me.
 1505.23,1507.64,Buffy,He might come back.
-1507.68,1513.25,Lyrics,"i># She hates you,"
-1507.68,1513.25,Lyrics,but then she makes a mistake</i>
-1513.33,1516.78,Lyrics,i># Confused and a lot to take...</i>
+1507.68,1513.25,Lyrics,"# She hates you,"
+1507.68,1513.25,Lyrics,but then she makes a mistake
+1513.33,1516.78,Lyrics,# Confused and a lot to take...
 1517.61,1519.65,Xander,Godzilla's attacking downtown Tokyo!
 1523.87,1525.7,Tackle,Who's this dork?
 1526.37,1528.46,Richard,Never seen him before in my life.
@@ -858,7 +856,7 @@
 2439.75,2443.7,,I told one lie. I had one drink.
 2443.74,2448.83,,Yes. And you were very nearly
 2443.74,2448.83,,devoured by a giant demon snake.
-2448.86,2452.46,,The words "let that be a lesson"
+2448.86,2452.46,,"The words ""let that be a lesson"""
 2448.86,2452.46,,are a tad redundant at this juncture.
 2452.5,2455.77,,I'm sorry.
 2452.5,2455.77,,So am I.
@@ -882,7 +880,7 @@
 2518.5,2521.3,,Investigators found the bones
 2518.5,2521.3,,of missing girls in a huge cavern
 2521.3,2525.04,,beneath the frat house.
-2521.3,2525.04,,And older bones dating back 50 years."
+2521.3,2525.04,,"And older bones dating back 50 years."""
 2525.07,2527.11,,A surprising number of corporations
 2527.11,2529.41,,whose chairmen and founders
 2527.11,2529.41,,are former Delta Zeta Kappas
@@ -912,10 +910,9 @@
 2573.24,2575.09,,Yeah.
 2575.12,2577.56,,Sometime.
 2578.84,2581.34,,I'll let you know.
-2581.38,2587.68,,"i># If she bends, then she breaks</i>"
-2588.22,2594.02,,"i># She loves you,"
-2588.22,2594.02,,but then she takes it away...</i>
+2581.38,2587.68,,"# If she bends, then she breaks"
+2588.22,2594.02,,"# She loves you,"
+2588.22,2594.02,,but then she takes it away...
 2594.03,2599.51,,Subtitles' extension and timing by: UAR
-2630.64,2633.52,,
-0.5,4.02,,font color="#ffff00" size=14>www.tvsubtitles.net</font>
+0.5,4.02,,"font color=""#ffff00"" size=14>www.tvsubtitles.net</font>"
 0.5,4.02,,end

@@ -35,7 +35,7 @@
 73.23,75.51,Buffy,I don't know. Guylike?
 75.54,79.66,Xander,"By guylike, we are talking"
 75.54,79.66,Xander,"big, beefy guylike girls, right?"
-79.69,82.32,Buffy,I was just told "guy".
+79.69,82.32,Buffy,"I was just told ""guy""."
 82.35,85.37,Cordelia,You didn't look at him first?
 82.35,85.37,Cordelia,He could be dogly.
 85.41,87.47,Cordelia,You live on the edge!
@@ -86,7 +86,7 @@
 179.03,183.87,Guide,chose a beautiful teenage girl...
 183.91,186.3,Guide,to become their princess.
 186.34,190.32,Willow,I hope this story ends with
-186.34,190.32,Willow,And she lived happily ever after."
+186.34,190.32,Willow,"And she lived happily ever after."""
 190.36,195.46,Xander,"No, I think it ends with ""And she became"
 190.36,195.46,Xander,"a scary, discolored, shriveled mummy."""
 195.49,199.95,Guide,The Incan people sacrificed their
@@ -109,7 +109,7 @@
 233.4,239.02,Guide,"Now, if you'll follow me this way, please."
 271.03,273.3,Rodney,Cool!
 286.35,288.35,Rodney,Damn!
-345.32,350.79,Buffy,b>"Inca Mummy Girl"</b>
+345.32,350.79,Buffy,"""Inca Mummy Girl"""
 353.28,354.87,Buffy,So can I go?
 354.87,356.46,Giles,I think not.
 362.04,362.94,Buffy,How come?
@@ -150,7 +150,7 @@
 428.19,429.67,Buffy,I thought you were taking Willow?
 429.67,431.19,Xander,"Well, yeah, I'm gonna take Willow,"
 431.23,433.05,Xander,"but I'm not gonna ""take"" Willow,"
-433.05,434.52,Buffy,in the sense of "take me".
+433.05,434.52,Buffy,"in the sense of ""take me""."
 434.62,437.54,Xander,"See, with you we're three and"
 434.62,437.54,Xander,"everybody's safe. Without you, we're two."
 437.58,440.52,Buffy,Ah. And we enter dateville.
@@ -242,7 +242,7 @@
 610.47,612.5,Buffy,he could translate the seal.
 612.5,614.51,Xander,"Oh, yeah. Fall for the old"
 614.51,617.52,Xander,let me translate
-614.51,617.52,Xander,that ancient seal for you" comeon.
+614.51,617.52,Xander,"that ancient seal for you"" comeon."
 617.55,620.35,Xander,Do you know
 617.55,620.35,Xander,how many times I've used that?
 626.14,628.48,Mummy,Ampata!
@@ -254,7 +254,7 @@
 668.58,670.93,Xander,"So, do we have to speak Spanish"
 668.58,670.93,Xander,when we see him?
 670.96,674.62,Xander,Cause I don't know anything much
-670.96,674.62,Xander,besides "Doritos" and "Chihuahua".
+670.96,674.62,Xander,"besides ""Doritos"" and ""Chihuahua""."
 674.84,676.64,Buffy,Ampata!
 676.64,677.93,Ampata,Here.
 679.84,681.68,Ampata,Hello.
@@ -422,7 +422,7 @@
 1114.98,1118.78,Xander,The exciting part is that they have
 1114.98,1118.78,Xander,no ingredients that a human can pronounce.
 1118.82,1123.76,Xander,So it doesn't leave you with that heavy...
-1118.82,1123.76,Xander,food feeling" in your stomach.
+1118.82,1123.76,Xander,"food feeling"" in your stomach."
 1123.83,1125.13,Ampata,You are strange.
 1125.13,1127.4,Xander,Girls always tell me that...
 1127.43,1129.46,Xander,right before they run away.
@@ -472,7 +472,7 @@
 1245.31,1246.13,Ampata,Thank you.
 1246.16,1249.81,Willow,Why is this guy so into us?
 1246.16,1249.81,Willow,"I mean, what's he want?"
-1249.88,1251.94,Xander,He said "Give me the seal."
+1249.88,1251.94,Xander,"He said ""Give me the seal."""
 1251.94,1254.05,Giles,Apparently this is more popular
 1251.94,1254.05,Giles,than we realized.
 1254.08,1256.48,Giles,I just don't know what we...
@@ -653,15 +653,14 @@
 1747.31,1750.19,,She's really fitting in.
 1750.21,1752.93,,Yeah.
 1753.34,1755.96,,How about that.
-1758.36,1761.56,,i><b></b></i>
-1764.54,1767.78,,i># She's in ecstasy</i>
-1767.82,1770.7,,"i># Her hollowed sky,</i>"
-1770.71,1774.22,,i># Pours down heavenly</i>
-1774.22,1777.32,,"i># Fakes desire,</i>"
-1777.32,1783.41,,"i># I've been living here in the red,</i>"
+1764.54,1767.78,,# She's in ecstasy
+1767.82,1770.7,,"# Her hollowed sky,"
+1770.71,1774.22,,# Pours down heavenly
+1774.22,1777.32,,"# Fakes desire,"
+1777.32,1783.41,,"# I've been living here in the red,"
 1786.02,1786.22,,Oh! Near faux pas.
 1786.25,1788.94,,I almost wore the same thing.
-1791.18,1793.39,Lyrics,i># We've been bored before</i>
+1791.18,1793.39,Lyrics,# We've been bored before
 1793.42,1794.81,Dawn,Hey. Where's Sven?
 1794.81,1797.29,Cordelia,"Ohh, I keep trying to ditch him."
 1797.32,1800.78,Cordelia,He's like one of those dogs that
@@ -675,10 +674,10 @@
 1815.28,1817.72,Cordelia,Get punchy.
 1818.41,1822.38,Cordelia,You. Fruit drinky.
 1823.42,1825.25,Dawn,He can follow me.
-1826.64,1832.95,Lyrics,"i># I've been feeling I'm dead again,</i>"
-1833.93,1839.29,Lyrics,i># And we've been bored before</i>
-1840.56,1845.76,Lyrics,i># We'll be bored again</i>
-1846.48,1853.22,Lyrics,"i># We've been bored before and again,</i>"
+1826.64,1832.95,Lyrics,"# I've been feeling I'm dead again,"
+1833.93,1839.29,Lyrics,# And we've been bored before
+1840.56,1845.76,Lyrics,# We'll be bored again
+1846.48,1853.22,Lyrics,"# We've been bored before and again,"
 1862.84,1866.02,Willow,Maybe I should have worn
 1862.84,1866.02,Willow,something sexy.
 1872.85,1875.92,Willow,Wow. You guys look great.
@@ -686,9 +685,9 @@
 1878.54,1878.98,Willow,Thanks.
 1879.1,1883.3,Xander,"Yeah. You look, um... snug."
 1884.11,1886.98,Willow,That's what I was going for.
-1887.86,1889.12,Willow,i> Where's Buffy?
-1889.12,1890.6,Lyrics,She's in ecstasy</i>
-1890.63,1892.99,Lyrics,i># Her hollowed sky...</i>
+1887.86,1889.12,Willow,Where's Buffy?
+1889.12,1890.6,Lyrics,She's in ecstasy
+1890.63,1892.99,Lyrics,# Her hollowed sky...
 1893.95,1896.79,Giles,Thank heavens you're home.
 1897.08,1902.98,Buffy,Yep. Not at the dance. Not with my friends.
 1897.08,1902.98,Buffy,Not with a life. What are you doing here?
@@ -717,32 +716,31 @@
 1951.59,1955.51,Buffy,What kind of girl travels
 1951.59,1955.51,Buffy,with a mummified corpse...
 1955.9,1959.27,Buffy,and doesn't even pack lipstick?
-1959.27,1961.94,Lyrics,i><b></b></i>
-1961.98,1967.67,Lyrics,"i># Time's healing, I'm ahead,</i>"
-1968.08,1972.74,Lyrics,"i># Find a reason once again,</i>"
-1973.82,1980.51,Lyrics,"i># Take a moment out of time,</i>"
-1980.51,1985.81,Lyrics,"i># I'll be standing back behind,</i>"
+1961.98,1967.67,Lyrics,"# Time's healing, I'm ahead,"
+1968.08,1972.74,Lyrics,"# Find a reason once again,"
+1973.82,1980.51,Lyrics,"# Take a moment out of time,"
+1980.51,1985.81,Lyrics,"# I'll be standing back behind,"
 1986.22,1988.47,Xander,"Do you, um..."
 1988.72,1990.56,Xander,"Would you like to, uh..."
 1991.23,1992.2,Xander,You know.
 1992.2,1994.13,Ampata,I'd love to dance.
-2000.08,2006.99,Lyrics,"i># Taken in, so out of time</i>"
+2000.08,2006.99,Lyrics,"# Taken in, so out of time"
 2026.89,2028.77,Oz,Hey.
 2028.87,2031.97,Oz,That girl. Who is she?
 2033.77,2037.87,Devon,She's an exchange student.
 2033.77,2037.87,Devon,I think she's from South America.
 2037.9,2041.89,Oz,"No, not her. The Eskimo."
-2048.74,2053.69,Lyrics,"i># Time is healing, I'm ahead...</i>"
+2048.74,2053.69,Lyrics,"# Time is healing, I'm ahead..."
 2053.79,2056.19,Buffy,Come on! Can't you put your foot down?
 2056.19,2056.88,Giles,It is down.
 2056.92,2060.9,Buffy,One of these days you're gonna
 2056.92,2060.9,Buffy,have to get a grownup car.
-2063.16,2068.46,Lyrics,"i># so out of time,</i>"
-2071.91,2077.41,Lyrics,"i># All it takes is living,</i>"
-2077.41,2083.63,Lyrics,"i># I wanna fly,</i>"
-2083.63,2089.18,Lyrics,"i># I've never known fate,</i>"
-2089.18,2095.53,Lyrics,"i># I've never known your name,</i>"
-2095.53,2101.11,Lyrics,i># I've never known fate...</i>
+2063.16,2068.46,Lyrics,"# so out of time,"
+2071.91,2077.41,Lyrics,"# All it takes is living,"
+2077.41,2083.63,Lyrics,"# I wanna fly,"
+2083.63,2089.18,Lyrics,"# I've never known fate,"
+2089.18,2095.53,Lyrics,"# I've never known your name,"
+2095.53,2101.11,Lyrics,# I've never known fate...
 2113.86,2117.12,Xander,OK. At least I can rule out
 2113.86,2117.12,Xander,something I said.
 2128.88,2132.48,Buffy,I should have guessed.
@@ -764,7 +762,7 @@
 2163.29,2164.45,Xander,What was that?
 2164.45,2165.37,Willow,I shrugged.
 2165.79,2168.93,Xander,Next time you should
-2165.79,2168.93,Xander,probably say "shrug".
+2165.79,2168.93,Xander,"probably say ""shrug""."
 2170.8,2172.25,Willow,Sigh.
 2172.67,2175.37,Sven,I thought this exchange student thing
 2172.67,2175.37,Sven,would be a great deal.
@@ -797,7 +795,7 @@
 2345.57,2348.56,Ampata,No! I can't.
 2354.33,2357.9,Ampata,"Xander, I'm so sorry."
 2358.62,2364.21,Giles,Inca cosmology unites
-2358.62,2364.21,Giles,the bird head with its paler twin."
+2358.62,2364.21,Giles,"the bird head with its paler twin."""
 2370.02,2371.25,Giles,"Oh, here. Its paler twin."
 2375.52,2377.35,Ampata,The seal.
 2381.77,2382.64,Buffy,Where's Xander?
@@ -865,6 +863,5 @@
 2624.46,2627.8,,You gave up your life.
 2629.33,2632.04,,I had you to bring me back.
 2636.14,2639.31,,Subtitles extended and timed by: UAR
-2678.03,2681.29,,
-0.5,4.02,,font color="#ffff00" size=14>www.tvsubtitles.net</font>
+0.5,4.02,,"font color=""#ffff00"" size=14>www.tvsubtitles.net</font>"
 0.5,4.02,,end

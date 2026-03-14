@@ -1,4 +1,4 @@
-2.21,4.54,GILES VOICEOVER,Previously on "Buffy the Vampire Slayer":
+2.21,4.54,GILES VOICEOVER,"Previously on ""Buffy the Vampire Slayer"":"
 4.54,5.84,MONK,We had to hide the Key.
 5.93,9.4,MONK,Made it human and sent it to you.
 9.49,11.33,BUFFY VOICEOVER,Dawn? Did you know your sister took
@@ -69,8 +69,8 @@
 135.01,139.13,GILES,intact by extracting energy from us.
 139.21,141.49,TARA,"Well, from the human brain."
 141.57,143.53,TARA,She's a brainsucker?
-143.61,149.21,GILES,She "absorbs the energies that bind
-143.61,149.21,GILES,the human mind into a cohesive whole."
+143.61,149.21,GILES,"She ""absorbs the energies that bind"
+143.61,149.21,GILES,"the human mind into a cohesive whole."""
 149.29,151.36,GILES,"Once drained, all that's left is..."
 151.36,152.13,BUFFY,Crazy people.
 152.21,159.02,GILES,Which is why there's been an increase in the
@@ -243,7 +243,7 @@
 710.43,712.41,ANYA,We were talking about sex.
 712.49,714.96,DAWN,"They were talking about me, like everybody."
 715.05,717.33,XANDER,"Again, not so much. In fact, none."
-717.41,721.73,ANYA,We were talking about sex. You know us 
+717.41,721.73,ANYA,We were talking about sex. You know us
 717.41,721.73,ANYA,sometimes we like to pretend stuff.
 721.81,722.25,XANDER,Anya...
 722.25,724.81,ANYA,"Like, there's a fireman, or a shepherd..."
@@ -308,9 +308,9 @@
 914.57,917.96,DAWN,Wait. Here's something.
 914.57,917.96,DAWN,"Tarnis, 12th century."""
 918.05,920.97,DAWN,One of the founders
-918.05,920.97,DAWN,of the Monks of the Order of Dagon."
+918.05,920.97,DAWN,"of the Monks of the Order of Dagon."""
 921.05,924.52,DAWN,Their sole purpose appears
-921.05,924.52,DAWN,to have been as protectors of the Key."
+921.05,924.52,DAWN,"to have been as protectors of the Key."""
 924.61,926.92,SPIKE,Brownrobe types always protect something.
 927.01,932.02,SPIKE,It's the only way
 927.01,932.02,SPIKE,they can justify giving up girls.
@@ -319,10 +319,10 @@
 938.89,943.05,DAWN,The Key is not directly described in
 938.89,943.05,DAWN,"any literature, but all research indicates"
 943.13,948.05,DAWN,an energy matrix vibrating at a dimensional
-943.13,948.05,DAWN,frequency beyond human perception."
+943.13,948.05,DAWN,"frequency beyond human perception."""
 948.13,952.25,DAWN,Only those outside reality
-948.13,952.25,DAWN,can see the Key's true nature."
-952.33,954.89,DAWN,Outside reality." What's that mean?
+948.13,952.25,DAWN,"can see the Key's true nature."""
+952.33,954.89,DAWN,"Outside reality."" What's that mean?"
 955.49,958.29,SPIKE,"Secondsight blokes, mostly."
 958.37,961.37,SPIKE,Or even just your runofthemill lunatics.
 961.89,964.85,CRAZY SECURITY GUARD,You don't belong here.
@@ -334,7 +334,7 @@
 976.41,979.88,DAWN,The Key is also susceptible
 976.41,979.88,DAWN,"to necromanced animal detection,"
 979.97,983.44,DAWN,particularly those of canine
-979.97,983.44,DAWN,or serpent construct."
+979.97,983.44,DAWN,"or serpent construct."""
 992.57,997.65,SPIKE,The monks possessed the ability
 992.57,997.65,SPIKE,"to transform energy, bend reality."""
 998.69,1000.13,SPIKE,"Blah, blah, blah."
@@ -342,22 +342,22 @@
 1000.81,1004.44,SPIKE,"as dull as he talks, doesn't he?"
 1004.53,1006.33,SPIKE,"They started work,"
 1006.41,1012.05,SPIKE,but the Council has suggested
-1006.41,1012.05,SPIKE,to us that they were interrupted."
-1012.45,1016.24,SPIKE,Presumably by... Glory."
+1006.41,1012.05,SPIKE,"to us that they were interrupted."""
+1012.45,1016.24,SPIKE,"Presumably by... Glory."""
 1016.33,1019.69,SPIKE,They obviously did manage
-1016.33,1019.69,SPIKE,to accomplish the taste..."
-1019.77,1022.05,SPIKE,accomplish the task."
+1016.33,1019.69,SPIKE,"to accomplish the taste..."""
+1019.77,1022.05,SPIKE,"accomplish the task."""
 1022.13,1027.08,SPIKE,They had to be certain the Slayer
 1022.13,1027.08,SPIKE,"would protect it with her life,"
-1027.17,1031.61,SPIKE,so they sent the Key to her in human form."
-1033.85,1036.32,SPIKE,In the form of a sister."
+1027.17,1031.61,SPIKE,"so they sent the Key to her in human form."""
+1033.85,1036.32,SPIKE,"In the form of a sister."""
 1042.29,1044.44,SPIKE,"I guess that's you, niblet."
 1052.21,1053.86,WILLOW,"Not even a card, huh?"
 1053.86,1056.21,BUFFY,I wasn't really expecting one.
 1056.49,1060.65,BUFFY,No contact with civilians.
 1056.49,1060.65,BUFFY,There's probably a code name for it.
 1060.73,1064.36,BUFFY,"You know, like ""radio silence""."
-1060.73,1064.36,BUFFY,It's "greetingcard silence".
+1060.73,1064.36,BUFFY,"It's ""greetingcard silence""."
 1065.53,1065.93,WILLOW,Sorry.
 1065.93,1068.65,BUFFY,Maybe it's time to start a new tradition:
 1068.73,1072.33,BUFFY,birthdays without boyfriends.
@@ -816,7 +816,7 @@
 2492.61,2495.61,BUFFY,"I have to get you back home, though."
 2492.61,2495.61,BUFFY,Mom's freaking out.
 2498.37,2500.93,DAWN,Is she mad about the whole fire thing?
-2501.01,2505.64,BUFFY,I think you sorta have a "Get Out of Jail Free"
+2501.01,2505.64,BUFFY,"I think you sorta have a ""Get Out of Jail Free"""
 2501.01,2505.64,BUFFY,card on account of big love and trauma.
 2506.01,2507.24,DAWN,Really?
 2507.33,2510.21,DAWN,OK. Good.
@@ -824,6 +824,6 @@
 2516.78,2517.93,BUFFY,Don't push it.
 2550.05,2551.37,,Visiontext Subtitles: Adrian Isaac
 2558.85,2560.84,,ENGLISH
-2561.31,2567.68,,Support us and become VIP member 
+2561.31,2567.68,,Support us and become VIP member
 2561.31,2567.68,,to remove all ads from www.OpenSubtitles.org
 2561.31,2567.68,,end

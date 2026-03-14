@@ -18,15 +18,15 @@
 62.26,65.86,Xander,It's your turn.
 62.26,65.86,Xander,OK. Uh...
 66.02,71.29,Willow,"In the few hours that we had together,"
-66.02,71.29,Willow,we loved a lifetime's worth."
+66.02,71.29,Willow,"we loved a lifetime's worth."""
 71.33,72.36,Xander,"Terminator,"
 72.36,73.48,Willow,Good! Right.
 73.53,75.4,Xander,"OK, I got one."
-75.44,77.27,Xander,It's a madhouse! A mad..."
+75.44,77.27,Xander,"It's a madhouse! A mad..."""
 77.27,78.61,Willow,"Planet of the Apes,"
 79.16,80.8,Xander,"Can I finish, please?"
 80.8,82.37,Willow,"Oh, sorry. Go ahead."
-82.91,84.74,Xander,house!."
+82.91,84.74,Xander,"house!."""
 86.04,89.71,Willow,Planet of the Apes.
 86.04,89.71,Willow,"OK, good. Me. Uh..."
 91.67,92.84,Xander,Well?
@@ -80,7 +80,7 @@
 198.75,200.72,Xander,"Willow, go."
 213.67,215.73,Buffy,"Hi, guys."
 220.94,223.01,Buffy,Miss me?
-273.63,276.26,Buffy,b>"When She Was Bad"</b>
+273.63,276.26,Buffy,"""When She Was Bad"""
 276.6,277.38,Willow,Buffy!
 277.38,277.9,Xander,Hey!
 278.44,279.98,Xander,Hey!
@@ -201,7 +201,7 @@
 520.8,523.68,Snyder,I might as well be talkin' to myself.
 526.73,528.44,Giles,How was your summer?
 528.44,529.13,Jenny,Extreme.
-529.17,530.89,Jenny,I did "Burning Man" in Black Rock.
+529.17,530.89,Jenny,"I did ""Burning Man"" in Black Rock."
 530.89,533.41,Jenny,"Ohhh, such a great festival."
 530.89,533.41,Jenny,You should've been there.
 533.45,538.79,Jenny,"They had drum rituals, mobile sculptures,"
@@ -336,26 +336,25 @@
 903.57,906.86,Buffy,Is that it? Is that everything?
 906.89,911.28,Buffy,"You know, 'cause you woke me up"
 906.89,911.28,Buffy,from a really good dream.
-914.07,919.83,Angel,b><i></b></i>
 921.25,922.92,Angel,Sorry.
 923.75,927.22,Angel,I'll go.
 932.02,933.11,Buffy,I missed you.
 937.02,938.93,Buffy,I missed you...
-939.39,943.14,Lyrics,i># It doesn't matter what I want</i>
-943.14,948.45,Lyrics,i># It doesn't matter what I need</i>
-951.86,954.26,Lyrics,i># It doesn't matter... </i>
+939.39,943.14,Lyrics,# It doesn't matter what I want
+943.14,948.45,Lyrics,# It doesn't matter what I need
+951.86,954.26,Lyrics,# It doesn't matter...
 954.3,955.36,Joyce,How are your new classes?
-955.36,956.67,Lyrics,i># Don't matter if I bleed</i>
+955.36,956.67,Lyrics,# Don't matter if I bleed
 956.7,958.12,Buffy,Good.
 958.25,959.79,Buffy,Good.
 961.25,963.45,Joyce,Is there the slightest chance
 961.25,963.45,Joyce,that if I asked you
 963.45,965.96,Joyce,what was wrong you would tell me?
-965.97,970.44,Lyrics,i># You've been on a road</i>
+965.97,970.44,Lyrics,# You've been on a road
 971.68,974.72,Joyce,Course not. It would
 971.68,974.72,Joyce,take the fun out of guessing.
-977.02,977.8,Joyce,i># 
-977.8,981.92,Lyrics,or where it leads</i>
+977.02,977.8,Joyce,#
+977.8,981.92,Lyrics,or where it leads
 983.14,985.55,Willow,Angel stopped by? Wow!
 985.58,989.2,Willow,"Was there... Well, I mean,"
 985.58,989.2,Willow,was it having to do with kissing?
@@ -383,14 +382,14 @@
 1027.41,1028.71,Xander,Kinda lacked punch.
 1028.75,1030.91,Willow,The Three Musketeers were cool.
 1030.95,1032.07,Cordelia,I see your point.
-1032.07,1033.86,Xander,I'd've gone with "Stooges".
+1032.07,1033.86,Xander,"I'd've gone with ""Stooges""."
 1033.86,1036.37,Cordelia,"Well, I just meant that you guys"
 1033.86,1036.37,Cordelia,always hang out together.
 1036.41,1038.63,Cordelia,"So, did you guys"
 1036.41,1038.63,Cordelia,fight any demons this summer?
 1038.63,1041.5,Willow,"Uh, yes! Our own personal demons."
 1041.54,1043.43,Xander,Such as lust and thrift.
-1043.43,1046.49,Buffy,I would have to go with "Stooges" also.
+1043.43,1046.49,Buffy,"I would have to go with ""Stooges"" also."
 1046.52,1048.49,Cordelia,What are you guys talking about?
 1046.52,1048.49,Cordelia,I'm talking about
 1048.49,1051.34,Cordelia,big squiggly demons
@@ -418,9 +417,8 @@
 1088.87,1091.07,Xander,"Now, that was a good insult."
 1091.07,1092.48,Willow,A little too good.
 1092.63,1094.79,Cordelia,What's up with her?
-1094.99,1097.91,Willow,b><i></b></i>
-1100.13,1103.05,Willow,i># Though</i>
-1103.89,1108.66,Lyrics,i># the water boils</i>
+1100.13,1103.05,Willow,# Though
+1103.89,1108.66,Lyrics,# the water boils
 1110.14,1112.15,Willow,I just think something's up is all.
 1112.65,1114.48,Xander,"Willow, you're paranoid."
 1114.72,1117.55,Willow,Buffy's never acted like this before.
@@ -432,14 +430,13 @@
 1125.82,1128.42,Xander,She said she was coming.
 1128.46,1131.42,Willow,No. The band's cool though.
 1131.42,1132.62,Xander,"Yeah, cool."
-1132.67,1134.46,Lyrics,i># We belong as two together...</i>
-1135.17,1137.42,Lyrics,i># We belong as two together...</i>
+1132.67,1134.46,Lyrics,# We belong as two together...
+1135.17,1137.42,Lyrics,# We belong as two together...
 1138.92,1141.79,Xander,You got something on your nose.
 1170.19,1173.01,Absalom,Don't just stand there. Dig!
 1173.05,1175.76,Absalom,We have to hurry.
 1183.43,1185.85,Vampire,The ground is consecrated. It burns.
 1186.55,1188.01,Collin,Dig.
-1200.57,1203.97,Lyrics,b><i></b></i>
 1206.02,1207.44,Lyrics,The velocity of time
 1209.7,1213.9,Lyrics,Turns her voice into
 1214.71,1219.22,Lyrics,Sugar water
@@ -456,46 +453,46 @@
 1259.95,1262.78,Angel,Me? Us?
 1262.82,1266.69,Buffy,Could you contemplate
 1262.82,1266.69,Buffy,getting over yourself for a second?
-1266.73,1268.61,Lyrics,There's no "us".
+1266.73,1268.61,Lyrics,"There's no ""us""."
 1268.65,1270.66,Lyrics,"Look, Angel, I'm sorry"
 1268.65,1270.66,Lyrics,if I was supposed to
 1270.66,1272.8,Buffy,"spend the summer mooning over you,"
 1272.8,1273.62,Lyrics,but I didn't.
 1273.65,1275.9,Lyrics,I moved on.
 1276.02,1278.04,Lyrics,To the living.
-1278.08,1281.02,Lyrics,i># I'm on a concrete way
-1278.08,1281.02,Lyrics,The wind is blowing...</i>
+1278.08,1281.02,Lyrics,# I'm on a concrete way
+1278.08,1281.02,Lyrics,The wind is blowing...
 1281.06,1282.03,Buffy,Hey.
 1282.28,1283.53,Buffy,Hey.
 1282.28,1283.53,Buffy,Hey.
 1283.56,1285.85,Willow,What's wrong with Angel?
 1287.22,1288.77,Buffy,Beats me.
-1288.81,1293.47,Lyrics,i># It smells like sands
-1288.81,1293.47,Lyrics,of the southern island</i>
+1288.81,1293.47,Lyrics,# It smells like sands
+1288.81,1293.47,Lyrics,of the southern island
 1293.5,1295.25,Buffy,Let's dance.
 1295.28,1297.59,Xander,O...K.
-1300.42,1303.34,Lyrics,i># When a black cat</i>
-1303.55,1309.73,Lyrics,i># Crosses my path</i>
-1311.05,1314.18,Lyrics,i># A woman in the moon</i>
-1314.22,1317.51,Lyrics,i># Is singing to the earth</i>
-1317.55,1320.51,Lyrics,i># A woman in the moon</i>
-1320.55,1323.88,Lyrics,i># Is singing to the earth</i>
-1373.62,1377.13,Lyrics,i># I'm riding on a camel</i>
-1378,1381.5,Lyrics,i># That has big eyes</i>
-1384.88,1389.88,Lyrics,i># The buildings are changing
-1384.88,1389.88,Lyrics,into coconut trees</i>
-1389.92,1392.39,Lyrics,i># Little by little...</i>
+1300.42,1303.34,Lyrics,# When a black cat
+1303.55,1309.73,Lyrics,# Crosses my path
+1311.05,1314.18,Lyrics,# A woman in the moon
+1314.22,1317.51,Lyrics,# Is singing to the earth
+1317.55,1320.51,Lyrics,# A woman in the moon
+1320.55,1323.88,Lyrics,# Is singing to the earth
+1373.62,1377.13,Lyrics,# I'm riding on a camel
+1378,1381.5,Lyrics,# That has big eyes
+1384.88,1389.88,Lyrics,# The buildings are changing
+1384.88,1389.88,Lyrics,into coconut trees
+1389.92,1392.39,Lyrics,# Little by little...
 1392.42,1394.05,Lyrics,Xander?
 1394.89,1397.81,Lyrics,Did I ever thank you...
 1394.89,1397.81,Lyrics,for saving my life?
 1399.27,1399.52,Xander,No.
-1399.52,1401.73,Lyrics,i># When a black cat...</i>
-1401.77,1407.37,Lyrics,i># crosses my path...</i>
-1409.28,1413.34,Lyrics,i># A woman in the moon
-1409.28,1413.34,Lyrics,is singing... </i>
+1399.52,1401.73,Lyrics,# When a black cat...
+1401.77,1407.37,Lyrics,# crosses my path...
+1409.28,1413.34,Lyrics,# A woman in the moon
+1409.28,1413.34,Lyrics,is singing...
 1413.38,1415.73,Buffy,Don't you wish I would?
-1415.77,1418.56,Lyrics,i># A woman in the moon</i>
-1418.6,1422.54,Lyrics,i># Is singing to the earth</i>
+1415.77,1418.56,Lyrics,# A woman in the moon
+1418.6,1422.54,Lyrics,# Is singing to the earth
 1437.23,1439.27,Cordelia,Buffy.
 1440.78,1444.65,Cordelia,You're really campaigning for
 1440.78,1444.65,Cordelia,"Bitch of the Year, aren't you?"
@@ -554,7 +551,7 @@
 1614.22,1619.02,Giles,the explanation for her behavior
 1614.22,1619.02,Giles,may be something more... more mundane.
 1620.78,1623.91,Giles,She may simply have what
-1620.78,1623.91,Giles,you Americans refer to as "issues".
+1620.78,1623.91,Giles,"you Americans refer to as ""issues""."
 1623.94,1627.66,Giles,Her experience with the Master
 1623.94,1627.66,Giles,must have been extremely traumatic.
 1627.9,1631.77,Giles,"She was, for at least a few minutes,"
@@ -616,8 +613,8 @@
 1742.78,1746.94,Giles,"All right, I've got something."
 1742.78,1746.94,Giles,"It's... Latin, so bear with me."
 1747.16,1752.55,Giles,"To revive the vampire,"
-1747.16,1752.55,Giles,they need his bones  which they have 
-1752.79,1758.23,Giles,and the blood  this is very unclear 
+1747.16,1752.55,Giles,they need his bones  which they have
+1752.79,1758.23,Giles,and the blood  this is very unclear
 1752.79,1758.23,Giles,of the closest person...
 1758.27,1760.98,Giles,Someone connected to the vampire.
 1760.98,1762.05,Buffy,That'd be me.
@@ -629,7 +626,7 @@
 1769.68,1774.14,Xander,when the ceremony might take... Whoa!
 1776.22,1778.82,Buffy,This is Cordelia's.
 1780.94,1784.07,Buffy,"Come to the Bronze before it opens,"
-1780.94,1784.07,Buffy,or we make her a meal."
+1780.94,1784.07,Buffy,"or we make her a meal."""
 1784.1,1787.2,Xander,They're gonna cook her dinner?
 1787.23,1789.5,Xander,I'll pretend I didn't say that.
 1789.5,1790.53,Willow,What do we do?
@@ -659,7 +656,7 @@
 1846.82,1851.26,Buffy,Because I don't trust you.
 1846.82,1851.26,Buffy,You're a vampire.
 1851.3,1854.19,Angel,"Oh, I'm sorry, was that an offensive term?"
-1854.19,1856.32,Buffy,Should I say "undead American"?
+1854.19,1856.32,Buffy,"Should I say ""undead American""?"
 1856.89,1860.56,Angel,You have to trust someone.
 1856.89,1860.56,Angel,You can't do this alone.
 1860.59,1861.83,Buffy,I trust me.
@@ -801,7 +798,7 @@
 2523.76,2527.37,Buffy,I can't!
 2523.76,2527.37,Buffy,What am I supposed to say?
 2527.41,2530.1,Buffy,Sorry I almost got your throat slit.
-2527.41,2530.1,Buffy,What's the homework?"
+2527.41,2530.1,Buffy,"What's the homework?"""
 2530.14,2532.43,Giles,Punishing yourself like this is pointless.
 2532.43,2536.76,Buffy,It's entirely pointy. I was a moron.
 2536.8,2540.52,Buffy,I put my best friends in mortal danger
@@ -840,6 +837,5 @@
 2678.25,2680.34,,I hate that girl.
 2680.34,2685.51,,Subtitles by ?
 2680.34,2685.51,,Extension & timing by UAR
-2720.89,2723.96,,
-0.5,4.02,,font color="#ffff00" size=14>www.tvsubtitles.net</font>
+0.5,4.02,,"font color=""#ffff00"" size=14>www.tvsubtitles.net</font>"
 0.5,4.02,,end

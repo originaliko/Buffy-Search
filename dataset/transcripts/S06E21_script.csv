@@ -71,7 +71,7 @@
 137.16,138.11,BUFFY,I know.
 139.2,140.33,XANDER,Willow did that.
 140.33,142.72,BUFFY,That's why we have to keep moving.
-142.84,144.96,BUFFY,You heard what she said: "One down. "
+142.84,144.96,BUFFY,"You heard what she said: ""One down. """
 145.08,148.96,ANYA,"She was talking about two to go, right?"
 145.08,148.96,ANYA,Jonathan and... the other guy.
 149.08,151.67,BUFFY,Andrew. They're in jail
@@ -331,7 +331,7 @@
 966.44,968.8,SPIKE,"Oh, here we go, then!"
 968.92,971.31,SPIKE,Just me and the walking action figure.
 971.44,974.51,SPIKE,I'm venturing this is
-971.44,974.51,SPIKE,a "kill or be killed" situation?
+971.44,974.51,SPIKE,"a ""kill or be killed"" situation?"
 974.64,976.71,DEMON,To the death.
 976.84,977.88,SPIKE,Right.
 979.44,982.19,SPIKE,Here we are now. Entertain us.
@@ -512,7 +512,7 @@
 1478.56,1483.24,WILLOW,We'll all be a lot happier
 1478.56,1483.24,WILLOW,without listening to the constant whining.
 1484.32,1485.59,DAWN,"Willow, stop."
-1485.72,1488.11,WILLOW,Mom! Buffy! Tara!"
+1485.72,1488.11,WILLOW,"Mom! Buffy! Tara!"""
 1489.64,1493.32,WILLOW,It's time you go back
 1489.64,1493.32,WILLOW,to being a little energy ball.
 1496.02,1496.15,WILLOW,"No more tears, Dawnie."
@@ -523,7 +523,7 @@
 1511.16,1515.47,ANYA,this stuff and I can't read it.
 1515.6,1518.88,XANDER,"Well, how's the translation coming?"
 1515.6,1518.88,XANDER,What have we got so far?
-1520.64,1523.07,ANYA,So far we've got "the".
+1520.64,1523.07,ANYA,"So far we've got ""the""."
 1523.2,1526.72,ANYA,"Well, either ""the"" or ""towards"","
 1523.2,1526.72,ANYA,I'm not really sure.
 1527.84,1532.39,ANYA,I can't do this. I'm in retail.
@@ -813,6 +813,6 @@
 2423.4,2427.15,WILLOW,And there's no one in the world
 2423.4,2427.15,WILLOW,who has the power to stop me now.
 2434.32,2436.47,GILES,I'd like to test that theory.
-2437.31,2443.6,,Support us and become VIP member 
+2437.31,2443.6,,Support us and become VIP member
 2437.31,2443.6,,to remove all ads from www.OpenSubtitles.org
 2437.31,2443.6,,end

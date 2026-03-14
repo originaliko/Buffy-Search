@@ -49,7 +49,7 @@
 110.14,111.91,Ted,Hi.
 111.95,114.7,Ted,"Oh, this is my daughter Buffy."
 114.73,117.64,Ted,"Buffy, this is Ted."
-170.75,174.1,Joyce,Ted"
+170.75,174.1,Joyce,"Ted"""
 174.13,175.93,Ted,"OK, here we go!"
 180.88,183.98,Buffy,"So, all these late nights"
 180.88,183.98,Buffy,"at the gallery recently,"
@@ -403,8 +403,8 @@
 933.32,934.37,Buffy,I mean investigate him.
 934.4,936.56,Buffy,"Find out his secrets,"
 934.4,936.56,Buffy,hack into his life.
-936.59,938.99,Xander,Can you say "overreaction"?
-938.99,942.02,Buffy,Can you say "sucking chest wound"?
+936.59,938.99,Xander,"Can you say ""overreaction""?"
+938.99,942.02,Buffy,"Can you say ""sucking chest wound""?"
 940.07,944.06,Willow,"Buffy, it just seems like you"
 940.07,944.06,Willow,want him to be corrupt or something.
 944.45,946.58,Buffy,The guy lost his senses over minigolf.
@@ -551,7 +551,7 @@
 1308.8,1310.92,Buffy,How dare you?!
 1311.07,1314.96,Ted,I don't see how it's any different from
 1311.07,1314.96,Ted,"you snooping around my office, do you?"
-1314.99,1318.8,Ted,What exactly is a "vampire slayer"?
+1314.99,1318.8,Ted,"What exactly is a ""vampire slayer""?"
 1318.83,1320.54,Buffy,It's none of your business.
 1320.54,1322.25,Ted,"Beg to differ, little lady."
 1322.33,1326.51,Ted,Everything you do is nothing
@@ -745,7 +745,7 @@
 1834.72,1836.23,Willow,Don't sweat it?
 1836.23,1837.95,Xander,"Yeah, cute buddy!"
 1837.98,1839.93,Xander,We'll work it out. No worries.
-1840.35,1843.34,Cordelia,What happened to "this is killing me"?
+1840.35,1843.34,Cordelia,"What happened to ""this is killing me""?"
 1843.34,1846.49,Xander,Worrying isn't gonna solve any problems.
 1861.62,1863.87,Buffy,Can I help?
 1864.32,1866.26,Joyce,It's done.
@@ -996,5 +996,5 @@
 2635.43,2638.19,,with grownups these days?
 2641.89,2646.53,,Subtitles by: ?
 2641.89,2646.53,,Extended and timed by: UAR
-0.5,4.02,,font color="#ffff00" size=14>www.tvsubtitles.net</font>
+0.5,4.02,,"font color=""#ffff00"" size=14>www.tvsubtitles.net</font>"
 0.5,4.02,,end

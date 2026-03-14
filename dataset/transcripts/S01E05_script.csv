@@ -23,23 +23,23 @@
 64.18,66.22,Giles,but it may be something else.
 66.22,67.2,Buffy,Something big?
 67.24,70.51,Giles,Yes. I'd best consult my books.
-73.78,76.16,Master,And there will be a time of crisis."
-76.24,78.95,Master,Of worlds hanging in the balance."
+73.78,76.16,Master,"And there will be a time of crisis."""
+76.24,78.95,Master,"Of worlds hanging in the balance."""
 79.03,81.12,Master,And in this time shall come...
-82.12,84.21,Master,the Anointed."
-84.29,86.79,Master,The Master's great warrior."
+82.12,84.21,Master,"the Anointed."""
+84.29,86.79,Master,"The Master's great warrior."""
 87.46,89.96,Master,"And the Slayer will not know him,"
 90.05,92.3,Master,"will not stop him,"
-92.38,96.22,Master,and he will lead her into Hell."
+92.38,96.22,Master,"and he will lead her into Hell."""
 96.31,98.39,Master,"As it is written,"
-98.47,100.56,Master,so shall it be."
+98.47,100.56,Master,"so shall it be."""
 101.9,104.19,Master,"Five will die,"
 104.27,108.82,Master,and from their ashes
-104.27,108.82,Master,the Anointed shall rise."
+104.27,108.82,Master,"the Anointed shall rise."""
 109.86,114.24,Master,The Brethren of Aurelius shall greet him
-114.33,120.25,Master,and usher him to his immortal destiny."
+114.33,120.25,Master,"and usher him to his immortal destiny."""
 120.33,122.42,Master,"As it is written,"
-122.5,124.59,Master,so shall it be."
+122.5,124.59,Master,"so shall it be."""
 125.46,129.26,Master,And one of the Brethren
 125.46,129.26,Master,shall go out hunting
 129.29,132.11,Master,"the night before and get himself killed,"
@@ -61,7 +61,7 @@
 236.4,238.58,Buffy,Haven't we seen that somewhere?
 238.58,239.35,Giles,Let me see.
 242.6,245.23,Giles,"No, I don't think this represents any..."
-245.51,248.43,Buffy,Wait. It's right here. "Sun and three stars."
+245.51,248.43,Buffy,"Wait. It's right here. ""Sun and three stars."""
 248.46,252.86,Giles,Ugh. Check these guys out.
 248.46,252.86,Giles,I told you it looked familiar.
 252.9,257.31,Giles,"By the Order of Aurelius."" Yes, you're right."
@@ -202,10 +202,10 @@
 544.03,545.56,Giles,bring him the Anointed.
 545.6,546.18,Willow,Who's that?
 546.18,548.2,Giles,"Well, I don't know exactly. A warrior."
-548.28,552.03,Giles,But it says "He will rise
+548.28,552.03,Giles,"But it says ""He will rise"
 548.28,552.03,Giles,from the ashes of the five...
 552.07,555.32,Giles,"on the evening of the 1,000th day"
-552.07,555.32,Giles,after the advent of Septus."
+552.07,555.32,Giles,"after the advent of Septus."""
 555.36,557.02,Buffy,"Well we'll be ready, whenever it is."
 557.06,558.4,Giles,Which is tonight.
 558.4,559.34,Buffy,"Tonight, OK."
@@ -245,35 +245,34 @@
 638.02,639.23,Giles,But I assume I don't have to
 638.02,639.23,Giles,warn you about the...
 639.23,641.94,Giles,hazards of becoming
-639.23,641.94,Giles,personally involved with someone 
+639.23,641.94,Giles,personally involved with someone
 641.97,644.38,Giles,who's unaware of your unique condition.
 644.42,646.48,Buffy,"Yeah, yeah, I read the back of the box."
 646.48,648.64,Giles,"If your identity as a slayer is revealed,"
 648.68,652.65,Giles,it could put you and all those
 648.68,652.65,Giles,around you in grave danger.
 652.68,658.02,Buffy,"Well, in that case, I won't wear my button"
-652.68,658.02,Buffy,that says "I'm A Slayer. Ask Me How."
+652.68,658.02,Buffy,"that says ""I'm A Slayer. Ask Me How."""
 658.78,661.51,Giles,Good night.
 665.12,670.29,Giles,"Five shall die, and from their ashes"
-665.12,670.29,Giles,the Anointed shall rise."
+665.12,670.29,Giles,"the Anointed shall rise."""
 670.33,673.19,Giles,I was sure it was tonight.
 692.11,694.2,Collin,I went on an airplane.
 694.28,697.45,Andrew,A pale horse emerged
 694.28,697.45,Andrew,with Death as its rider.
 697.53,700.6,Andrew,You will be judged.
 700.79,703.91,Andrew,You will be judged.
-705.7,708.89,Lyrics,b><i></b></i>
-708.93,713.02,Lyrics,i># ...is real</i>
-715.31,723.67,Lyrics,i># Then you wake up shouting
-715.31,723.67,Lyrics,some familiar name</i>
-723.67,726.59,Lyrics,i>#  It's not the same</i>
-726.59,733.02,Lyrics,i># You're just a girl</i>
-734.8,742.16,Lyrics,i># Just a girl who knows no shame </i>
-742.17,745.9,Lyrics,i># Whose desperate pace has lost its taste</i>
-745.9,749.34,Lyrics,i># A neverending darkness weighs</i>
-749.34,752.34,Lyrics,"i># I can't avoid, I can't complain</i>"
-752.34,755.68,Lyrics,i># I know exactly who's to blame</i>
-755.68,759.88,Lyrics,i># The girl who shares my...</i>
+708.93,713.02,Lyrics,# ...is real
+715.31,723.67,Lyrics,# Then you wake up shouting
+715.31,723.67,Lyrics,some familiar name
+723.67,726.59,Lyrics,#  It's not the same
+726.59,733.02,Lyrics,# You're just a girl
+734.8,742.16,Lyrics,# Just a girl who knows no shame
+742.17,745.9,Lyrics,# Whose desperate pace has lost its taste
+745.9,749.34,Lyrics,# A neverending darkness weighs
+749.34,752.34,Lyrics,"# I can't avoid, I can't complain"
+752.34,755.68,Lyrics,# I know exactly who's to blame
+755.68,759.88,Lyrics,# The girl who shares my...
 764.11,766.61,Andrew,That day's gonna bring fire.
 766.7,769.2,Andrew,Fire comin' down. Judgment.
 770.45,772.08,Andrew,Don't think you're ready.
@@ -299,7 +298,7 @@
 873.62,875.73,Buffy,with a librarian waiting
 873.62,875.73,Buffy,for a vampire to rise
 875.77,877.87,Buffy,so I could prevent an evil prophecy
-875.77,877.87,Buffy,from coming to pass"?
+875.77,877.87,Buffy,"from coming to pass""?"
 877.9,880.28,Xander,Or... flat tyre?
 880.37,886.02,Buffy,I can't take this any more.
 880.37,886.02,Buffy,I feel like everyone is staring at me.
@@ -309,7 +308,7 @@
 888.11,892.91,Buffy,Move it along!
 893.24,896.26,Xander,"You're acting a little overly, aren't you?"
 893.24,896.26,Xander,"I mean, you could have any guy in school."
-896.3,899.61,Buffy,He's not "any guy". He's more... Oweny.
+896.3,899.61,Buffy,"He's not ""any guy"". He's more... Oweny."
 899.65,903.32,Xander,"Sure, he's got a certain Owenosity,"
 899.65,903.32,Xander,but... that's not hard to find.
 903.36,905.76,Xander,"I mean, a lot of guys read."
@@ -348,8 +347,8 @@
 984.74,987.41,Buffy,Tonight. Isn't that so...
 987.95,988.6,Xander,What?
 988.6,990.16,Buffy,Me and Owen.
-994,996.08,Xander,Yeah. "So" it is.
-998.34,1000.5,Xander,It sure is "so".
+994,996.08,Xander,"Yeah. ""So"" it is."
+998.34,1000.5,Xander,"It sure is ""so""."
 1007.76,1009.13,Buffy,Hey! How's it goin'?
 1009.13,1009.81,Giles,All right.
 1009.89,1012.9,Buffy,That's great. I see we're still
@@ -419,16 +418,16 @@
 1168.66,1170.16,Buffy,Buffy's not home.
 1170.19,1172.8,Giles,My calculations may not've been
 1170.19,1172.8,Giles,as far off as I thought.
-1172.87,1175.8,Buffy,Five die in van accident"?
+1172.87,1175.8,Buffy,"Five die in van accident""?"
 1175.83,1178.91,Giles,Out of the ashes of five
-1175.83,1178.91,Giles,shall rise the one"
+1175.83,1178.91,Giles,"shall rise the one"""
 1178.91,1181.38,Giles,That's the prophecy. Five people have died!
 1181.42,1182.78,Buffy,In a car crash.
 1182.81,1186.06,Giles,"I know it doesn't quite follow,"
 1182.81,1186.06,Giles,butbut it's worth investigating. Look!
 1186.09,1187.48,Giles,"Among the dead was Andrew Borba,"
 1187.48,1189.73,Giles,whom the police sought for questioning
-1187.48,1189.73,Giles,in a double murder."
+1187.48,1189.73,Giles,"in a double murder."""
 1189.97,1192.06,Buffy,He may be the Anointed One.
 1192.14,1193.55,Buffy,The bodies were taken to
 1193.55,1195.49,Giles,Sunnydale Funeral Home. We can...
@@ -465,8 +464,8 @@
 1243.15,1246.7,Giles,"Buffy, maintaining"
 1243.15,1246.7,Giles,a normal social life as a slayer
 1246.79,1249.16,Giles,is problematic at best.
-1249.25,1252.33,Buffy,This is the '90s 
-1249.25,1252.33,Buffy,"the 1990s, in point of fact "
+1249.25,1252.33,Buffy,This is the '90s
+1249.25,1252.33,Buffy,"the 1990s, in point of fact"
 1252.36,1257.74,Buffy,and I can do both. Clark Kent
 1252.36,1257.74,Buffy,has a job. I just wanna go on a date.
 1257.77,1260.09,Giles,"Well, I suppose it was a fairly slim lead."
@@ -495,9 +494,8 @@
 1303.64,1305.71,Xander,"He's, like, Super Librarian. You know?"
 1305.75,1310.55,Xander,"Everyone forgets, Willow,"
 1305.75,1310.55,Xander,that knowledge is the ultimate weapon.
-1311.08,1315.08,Lyrics,b><i></b></i>
-1316.46,1321.36,Lyrics,i># I'll be right along</i>
-1321.36,1328.38,Lyrics,"i># 'Cause, baby, you're so strong</i>"
+1316.46,1321.36,Lyrics,# I'll be right along
+1321.36,1328.38,Lyrics,"# 'Cause, baby, you're so strong"
 1329.63,1334.43,Owen,The thing about Emily Dickinson I love
 1329.63,1334.43,Owen,is that she's just so incredibly morbid.
 1334.51,1336.6,Owen,"A lot of loss, a lot of death."
@@ -516,10 +514,10 @@
 1366.05,1368.22,Owen,Did I say something wrong?
 1369.05,1370.97,Owen,No.
 1371.05,1373.14,Buffy,Come on.
-1374.58,1379.72,Lyrics,"i># Baby, baby, I know</i>"
-1379.73,1382.65,Lyrics,i># it's always been so</i>
-1382.68,1386.91,Lyrics,"i># Physical love is, oh,</i>"
-1386.91,1392.93,Lyrics,i># so meaningful for you</i>
+1374.58,1379.72,Lyrics,"# Baby, baby, I know"
+1379.73,1382.65,Lyrics,# it's always been so
+1382.68,1386.91,Lyrics,"# Physical love is, oh,"
+1386.91,1392.93,Lyrics,# so meaningful for you
 1393.58,1395.67,Owen,It's weird.
 1395.75,1397.61,Buffy,What is?
 1397.61,1398.54,Owen,You.
@@ -529,11 +527,11 @@
 1406.3,1407.89,Buffy,Really?
 1407.97,1410.27,Buffy,Which one do you like better?
 1410.35,1412.43,Owen,I'll let you know.
-1412.44,1415.74,Owen,i># So strong</i>
-1415.74,1421.56,Owen,"i># Baby, I'm yours</i>"
-1421.56,1423.56,Owen,i># You know</i>
-1423.56,1427.85,Lyrics,i># Because you're so</i>
-1427.89,1429.4,Owen,i># So strong</i>
+1412.44,1415.74,Owen,# So strong
+1415.74,1421.56,Owen,"# Baby, I'm yours"
+1421.56,1423.56,Owen,# You know
+1423.56,1427.85,Lyrics,# Because you're so
+1427.89,1429.4,Owen,# So strong
 1429.44,1432.17,Cordelia,Aren't there laws
 1429.44,1432.17,Cordelia,against this sort of thing?
 1434.63,1436.71,Lyrics,Owen?
@@ -548,15 +546,14 @@
 1453.06,1455.8,Buffy,somewhere that's away.
 1456.32,1459.73,Cordelia,"Well, when you're ready"
 1456.32,1459.73,Cordelia,"for the big leagues, let me know."
-1459.77,1466.19,Lyrics,"i># You would suffer, suffer for me</i>"
+1459.77,1466.19,Lyrics,"# You would suffer, suffer for me"
 1513.76,1515.64,Giles,Damn.
-1545.31,1546.48,Lyrics,b><i></b></i>
-1546.51,1549.83,Lyrics,i># I have a window in my mind</i>
-1552.25,1555.64,Lyrics,i># I can turn to look right through you</i>
+1546.51,1549.83,Lyrics,# I have a window in my mind
+1552.25,1555.64,Lyrics,# I can turn to look right through you
 1556.31,1558.39,Owen,Are you having fun?
 1558.48,1560.5,Buffy,Yeah. I almost feel like a girl.
-1560.5,1563.02,Lyrics,i># Won't cost you anything but time</i>
-1564.59,1566.79,Lyrics,i># To see me feel...</i>
+1560.5,1563.02,Lyrics,# Won't cost you anything but time
+1564.59,1566.79,Lyrics,# To see me feel...
 1600.15,1601.76,Willow,"Giles, it's us!"
 1601.79,1603.02,Giles,What are you doing here?
 1603.02,1604.82,Xander,We saw two guys going in after you.
@@ -803,7 +800,6 @@
 2356.03,2358.43,Xander,We'll make sure he gets home safely.
 2365.24,2367.48,Giles,"Buffy, if I might..."
 2367.48,2368.15,Buffy,Don't.
-2372.39,2373.82,Buffy,b><i></b></i>
 2373.86,2376.79,Buffy,Did Owen say anything about me
 2373.86,2376.79,Buffy,on the way home?
 2376.87,2379.58,Willow,You mean specifically about you?
@@ -862,13 +858,13 @@
 2492.29,2493.71,Owen,Friends.
 2495.09,2496.92,Owen,Yeah.
 2499.02,2498.5,Owen,Great.
-2498.55,2502.41,Lyrics,i># The world will keep on turning</i>
-2503.1,2505.62,Lyrics,i># It'll all be there</i>
-2505.65,2507.79,Lyrics,i># come morning</i>
+2498.55,2502.41,Lyrics,# The world will keep on turning
+2503.1,2505.62,Lyrics,# It'll all be there
+2505.65,2507.79,Lyrics,# come morning
 2507.79,2509.08,Buffy,Yeah. Great.
-2509.12,2514.56,Lyrics,i># So tonight...</i>
-2516.16,2520.16,Lyrics,i># Let the sun fall down</i>
-2521.03,2521.81,Lyrics,i># all around you</i>
+2509.12,2514.56,Lyrics,# So tonight...
+2516.16,2520.16,Lyrics,# Let the sun fall down
+2521.03,2521.81,Lyrics,# all around you
 2521.81,2522.88,Giles,I was ten years old when my...
 2522.88,2525.98,Giles,father told me
 2522.88,2525.98,Giles,I was destined to be a watcher.
@@ -912,13 +908,12 @@
 2610.68,2613.86,Master,"wherever he is,"
 2613.87,2617.11,Giles,is having a fairly bad day himself.
 2618.69,2622.69,Master,"And in this time will come the Anointed,"
-2623.69,2626.4,,and the Slayer will not know him."
-2627.66,2629.74,,She will not stop him."
+2623.69,2626.4,,"and the Slayer will not know him."""
+2627.66,2629.74,,"She will not stop him."""
 2630.74,2633.5,,And he will lead her
-2633.58,2635.67,,into Hell."
+2633.58,2635.67,,"into Hell."""
 2639.38,2641.46,,"Welcome, my friend."
 2646.28,2655.64,,Subtitles by: Doreen Trenerry
 2646.28,2655.64,,Corrections by: UAR
-2687.28,2690.66,,
-0.5,4.02,,font color="#ffff00" size=14>www.tvsubtitles.net</font>
+0.5,4.02,,"font color=""#ffff00"" size=14>www.tvsubtitles.net</font>"
 0.5,4.02,,end

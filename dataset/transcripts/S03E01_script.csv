@@ -17,7 +17,7 @@
 77.5,80.8,Xander,Cheater!
 80.87,84.97,Xander,OK. And the second problem
 80.87,84.97,Xander,I'm having...
-85.04,86.81,Xander,Come and get it. Big boy"?
+85.04,86.81,Xander,"Come and get it. Big boy""?"
 86.88,88.21,Willow,Well...
 88.28,91.04,Willow,Well. The slayer
 88.28,91.04,Willow,always says a pun
@@ -30,7 +30,7 @@
 97.76,100.32,Willow,a chance to work on that one.
 100.39,102.15,Willow,but you try it every time.
 102.23,103.56,Oz,Uh. If I may suggest...
-103.63,105.65,Oz,This time it's personal."
+103.63,105.65,Oz,"This time it's personal."""
 105.73,107.99,Oz,I mean. There's a reason
 105.73,107.99,Oz,why it's a classic.
 108.07,111.09,Xander,I've always been amazed
@@ -85,7 +85,7 @@
 335.03,337.59,Buffy,Ha ha ha ha.
 345.29,346.22,Buffy,You guys ready?
 346.29,348.85,Rickie,Yeah. I think we're good.
-348.92,351.25,Buffy,Um..."Anne."
+348.92,351.25,Buffy,"Um...""Anne."""
 353.63,354.56,Buffy,What'll you have?
 354.63,359.16,Rickie,Well. OK... what can
 354.63,359.16,Rickie,we get with this?
@@ -136,7 +136,7 @@
 449.52,451.05,Willow,Well. We try not to get killed.
 451.12,453.18,Willow,That's part of our whole
 451.12,453.18,Willow,mission statement.
-453.26,454.62,Willow,Don't get killed."
+453.26,454.62,Willow,"Don't get killed."""
 454.69,455.68,Giles,Good.
 455.76,457.39,Giles,I think you're going
 455.76,457.39,Giles,to love that one.
@@ -148,7 +148,7 @@
 464.14,466.5,Willow,Las Palmas was
 464.14,466.5,Willow,the nightmare resort.
 466.57,469.8,Willow,They order you around and
-466.57,469.8,Willow,make you have organized "fun."
+466.57,469.8,Willow,"make you have organized ""fun."""
 469.88,471.84,Willow,and I use sarcastic quote marks.
 471.91,474.4,Willow,Plus the fact there are
 471.91,474.4,Willow,cockroaches in Mexico
@@ -232,10 +232,10 @@
 594.43,596.4,,I'm trying to get
 594.43,596.4,,to cute. Really.
 596.47,598.56,,But I'm still sorta
-596.47,598.56,,stuck on "strange."
+596.47,598.56,,"stuck on ""strange."""
 598.64,600.83,,Well. I'd be willing
-598.64,600.83,,to bargain down to "eccentric"
-600.91,605.02,,with an option on "cool."
+598.64,600.83,,"to bargain down to ""eccentric"""
+600.91,605.02,,"with an option on ""cool."""
 603.08,607.02,,Hey.
 603.08,607.02,,Hey.
 605.08,609.02,Xander,Good summer?
@@ -417,7 +417,7 @@
 1049.08,1051.35,Lyrics,Find my way
 1051.42,1055.41,Lyrics,Find my way back to freedom
 1061.93,1065.59,Xander,Boy. I'm glad we showed up
-1061.93,1065.59,Xander,for "Depressing Night."
+1061.93,1065.59,Xander,"for ""Depressing Night."""
 1065.67,1067.76,Willow,I wonder what she's
 1065.67,1067.76,Willow,doing right now.
 1067.84,1069.24,Xander,Oh. I know what she's doing.
@@ -444,7 +444,6 @@
 1102.7,1103.86,Oz,A vampire slayer?
 1103.94,1105,Xander,Next best thing.
 1108.24,1110.51,Xander,Bait.
-1120.16,1121.45,Xander,
 1130.73,1132.29,Joyce,Uh. Hello.
 1132.37,1134.23,Giles,Hello. Um. May I...
 1134.3,1137.14,Joyce,Oh. Uh. Of course.
@@ -503,7 +502,6 @@
 1236.5,1238.73,Lily,happened.
 1238.81,1240.43,Lily,Maybe something's happened.
 1240.51,1242.07,Buffy,Well. Did you call the police?
-1242.14,1243.08,Buffy,
 1243.14,1245.58,Lily,Rickie skipped out on his parole.
 1245.65,1248.71,Lily,They would just cause
 1245.65,1248.71,Lily,more trouble.
@@ -762,7 +760,6 @@
 1905.39,1906.86,Ken,Guards!
 1915.2,1917.67,Ken,Heavy Blows.
 1915.2,1917.67,Ken,Metal Striking Metal]
-1917.74,1919.67,Ken,
 1952.94,1954.77,Ken,Welcome to my world.
 1954.84,1956.78,Ken,I hope you like it.
 1961.05,1962.98,Ken,You're never leaving.
@@ -776,7 +773,6 @@
 1977.23,1979.83,Cordelia,You probably met up with some
 1977.23,1979.83,Cordelia,hot little Inca mummy girl.
 1979.9,1981.66,Cordelia,Yeah. I heard about her.
-1981.74,1983.2,Ken,
 1983.33,1985.3,Willow,Aah! Help!
 1985.37,1987,Cordelia,Aah!
 1996.21,1997.51,Cordelia,Xander!
@@ -883,12 +879,9 @@
 2287.22,2288.61,Guard,Come on. Come on!
 2288.61,2290.09,Lily,Everybody go! Run!
 2305.14,2307.54,Ken,Humans don't fight back.
-2307.61,2307.61,Lily,
 2307.61,2310.41,Ken,Humans don't fight back!
 2312.72,2315.15,Ken,That's how this works!
 2324.83,2327.06,Ken,Get down there!
-2371.67,2373.11,Ken,
-2373.18,2374.7,Ken,
 2390.63,2393.56,Ken,Ken: One of you fights...
 2395.4,2397.06,Ken,and you all die!
 2400.7,2401.8,Ken,That...
@@ -944,9 +937,8 @@
 2581.39,2583.66,Buffy,Gets easier.
 2583.73,2585.66,Buffy,Takes practice.
 2594.57,2595.97,Lily,Hey...
-2598.91,2601.21,Lily,Can I be "Anne"?
-2610.09,2612.02,,
+2598.91,2601.21,Lily,"Can I be ""Anne""?"
 2683.6,2685.33,,Grrr! Arrggh!
-2686.31,2692.63,,Support us and become VIP member 
+2686.31,2692.63,,Support us and become VIP member
 2686.31,2692.63,,to remove all ads from www.OpenSubtitles.org
 2686.31,2692.63,,end

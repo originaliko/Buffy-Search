@@ -1,7 +1,7 @@
 2.21,4.2,BUFFY,I've been going out a lot.
 4.29,5.22,GILES,Patrolling?
 5.22,5.89,BUFFY,Hunting.
-5.97,9.17,BUFFY VOICEOVER,Previously on "Buffy the Vampire Slayer":
+5.97,9.17,BUFFY VOICEOVER,"Previously on ""Buffy the Vampire Slayer"":"
 11.09,14.97,BUFFY VOICEOVER,That's what Dracula called it.
 11.09,14.97,BUFFY VOICEOVER,And he was right.
 15.89,18.69,BUFFY,He understood my power better than I do.
@@ -50,7 +50,7 @@
 252.01,255.93,DAWN VOICEOVER,"Like, that's such a crucial job skill"
 252.01,255.93,DAWN VOICEOVER,in the real world.
 256.01,263.02,DAWN VOICEOVER,Plus Mom lets her get away with everything.
-256.01,263.02,DAWN VOICEOVER,Your sister's saving the world."
+256.01,263.02,DAWN VOICEOVER,"Your sister's saving the world."""
 261.09,264.85,DAWN VOICEOVER,I could so save the world
 261.09,264.85,DAWN VOICEOVER,"if somebody handed me superpowers,"
 264.93,268.53,DAWN VOICEOVER,but I'd think of a cool name
@@ -105,7 +105,7 @@
 383.41,387.25,RILEY,I thought we had plans today.
 387.33,389.97,BUFFY,Plans? We planned plans?
 390.73,395.25,RILEY,"Well, you said ""Come over tomorrow"
-390.73,395.25,RILEY,and we'll hang" and then I said "OK".
+390.73,395.25,RILEY,"and we'll hang"" and then I said ""OK""."
 396.09,398.93,RILEY,"Not the invasion of Normandy,"
 396.09,398.93,RILEY,but still a plan.
 399.01,400.45,BUFFY,Right.
@@ -213,8 +213,8 @@
 611.49,613.93,WILLOW,and Thursday afternoons.
 614.01,616.93,WILLOW,You can blow off training Tuesday
 614.01,616.93,WILLOW,and Thursday afternoons.
-617.01,619.32,BUFFY,What about "people gotta
-617.01,619.32,BUFFY,respect a work ethic"?
+617.01,619.32,BUFFY,"What about ""people gotta"
+617.01,619.32,BUFFY,"respect a work ethic""?"
 619.41,622.77,WILLOW,"Other people, not me."
 619.41,622.77,WILLOW,There's a whole bestfriend loophole.
 622.85,625.53,TARA,Shop's kinda dark. Maybe it's closed.
@@ -381,7 +381,7 @@
 1080.92,1081.85,XANDER,We will.
 1081.93,1084.61,XANDER,"We're just gonna play with matches,"
 1081.93,1084.61,XANDER,"run with scissors,"
-1084.69,1088.32,XANDER,take candy from some guy 
+1084.69,1088.32,XANDER,take candy from some guy
 1084.69,1088.32,XANDER,I don't know his name.
 1088.97,1093.57,DAWN VOICEOVER,Xander treats everyone like an equal.
 1088.97,1093.57,DAWN VOICEOVER,He doesn't look down on people.
@@ -515,8 +515,8 @@
 1413.79,1414.49,HARMONY,Minions.
 1414.57,1418.85,HARMONY,"You know, lackeys? They work for me."
 1422.89,1424.72,HARMONY,What's so funny?
-1424.81,1429.41,XANDER,Nothing. What could be funny? Just "Look
-1424.81,1429.41,XANDER,out! It's the terrifying Harmony gang."
+1424.81,1429.41,XANDER,"Nothing. What could be funny? Just ""Look"
+1424.81,1429.41,XANDER,"out! It's the terrifying Harmony gang."""
 1429.49,1431.4,HARMONY,Stop laughing!
 1434.45,1439.08,XANDER,I just can't picture anyone
 1434.45,1439.08,XANDER,pathetic enough to be following...
@@ -570,7 +570,7 @@
 1570.17,1573.64,ANYA,Especially now that she can
 1570.17,1573.64,ANYA,enter your house any time she wants.
 1576.01,1577.41,BUFFY,What?
-1579.81,1584.93,XANDER,"Yeah, actually, she  Harmony "
+1579.81,1584.93,XANDER,"Yeah, actually, she  Harmony"
 1579.81,1584.93,XANDER,kind of happened to sorta get an invite.
 1587.61,1591.49,BUFFY,You guys can't invite her in.
 1587.61,1591.49,BUFFY,Only someone who lives here can...
@@ -673,7 +673,7 @@
 1820.85,1824.37,BUFFY,in this house knowing all the rules.
 1824.45,1827.49,BUFFY,Especially the biggie! Numero oneo.
 1827.57,1830.93,BUFFY,Do not invite bloodsucking
-1827.57,1830.93,BUFFY,dead people into our home."
+1827.57,1830.93,BUFFY,"dead people into our home."""
 1831.85,1835.69,BUFFY,"I mean, please. I would never have"
 1831.85,1835.69,BUFFY,Harmony over even when she was alive.
 1835.77,1838.49,XANDER,"People slip, Buffy. Your mom did."
@@ -860,6 +860,6 @@
 2435.93,2438.73,,"Boy, is she in for a surprise!"
 2460.09,2463.29,,Visiontext Subtitles: Claire Bates
 2482.13,2484.12,,ENGLISH
-2485.31,2491.16,,Support us and become VIP member 
+2485.31,2491.16,,Support us and become VIP member
 2485.31,2491.16,,to remove all ads from www.OpenSubtitles.org
 2485.31,2491.16,,end

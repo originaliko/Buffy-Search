@@ -1,12 +1,12 @@
-2.08,3.96,GILES VOICEOVER,Previously on "Buffy the Vampire Slayer":
+2.08,3.96,GILES VOICEOVER,"Previously on ""Buffy the Vampire Slayer"":"
 4.08,4.79,BUFFY,Mom?
 4.82,6.55,PARAMEDIC,I'm sorry. Your mother's dead.
 6.68,9.15,XANDER,"Anya, you wanna marry me?"
 13.02,17.07,XANDER,Advertise your product or brand here
 13.02,17.07,XANDER,contact www.OpenSubtitles.org today
 18.12,22.35,XANDER,"I've gone. Not one for long goodbyes,"
-18.12,22.35,XANDER,I thought it best to slip out quietly. "
-22.48,23.99,XANDER,Love to you all. Giles. "
+18.12,22.35,XANDER,"I thought it best to slip out quietly. """
+22.48,23.99,XANDER,"Love to you all. Giles. """
 24.44,25.51,WILLOW,There he goes.
 25.64,27.71,WILLOW,"Guys, I need you on board here."
 27.84,31.83,XANDER,"This is deep stuff, Willow."
@@ -134,7 +134,7 @@
 437.64,438.64,ANYA,Does too.
 438.64,439.76,DAWN,Does no...
 440.76,442.56,DAWN,Xander?
-446.08,448.44,XANDER,Action is his reward. "
+446.08,448.44,XANDER,"Action is his reward. """
 451.56,454.36,ANYA,Why don't you ever take my side?
 454.48,458.55,XANDER,"What are you talking about, taking"
 454.48,458.55,XANDER,"your side? Anya, I am your side!"
@@ -235,7 +235,7 @@
 775.6,778.4,WILLOW,you would think there would be
 775.6,778.4,WILLOW,some kind of reward.
 778.52,782.35,WILLOW,"They're, like, ""We won't give you money"
-778.52,782.35,WILLOW,unless you prove you don't need it. "
+778.52,782.35,WILLOW,"unless you prove you don't need it. """
 782.48,784.76,WILLOW,What kind of system is that?
 784.88,787.16,BUFFY,You're askin' the wrong gal.
 794.02,794.64,WILLOW,"Buffy, you're mad."
@@ -307,7 +307,7 @@
 976.16,979.12,DAWN,I'm guessing on how you say it.
 976.16,979.12,DAWN,It's got an apostrophe.
 979.24,983.76,DAWN,"I think it's M'Fashnik. Like ""Mmm, cookies."""
-983.88,990.12,XANDER,Or maybe M'Fashnik. Like "Muh... Fashnik."
+983.88,990.12,XANDER,"Or maybe M'Fashnik. Like ""Muh... Fashnik."""
 994.04,996,DAWN,This your guy?
 997.08,1001.76,BUFFY,You do research now? Want a cappuccino
 997.08,1001.76,BUFFY,and a pack of cigarettes to go with it?
@@ -353,7 +353,7 @@
 1143.48,1145.84,GILES,"I can't lie to you, Buffy."
 1148.16,1151.95,GILES,Leaving Sunnydale was... difficult.
 1152.08,1154.55,BUFFY,"And, uh... coming back is..."
-1155.24,1158.44,BUFFY,I'm guessing the word is "inconvenient"?
+1155.24,1158.44,BUFFY,"I'm guessing the word is ""inconvenient""?"
 1159.56,1161.52,GILES,No.
 1162.8,1164.95,GILES,Bewildering?
 1168.56,1171.63,GILES,And how are you... really?
@@ -362,7 +362,7 @@
 1179.24,1181.55,BUFFY,"I mean, you know, sleeping's hard,"
 1181.68,1184.72,BUFFY,but just because of the whole
 1181.68,1184.72,BUFFY,waking up in a box thing.
-1185.16,1189.28,BUFFY,So maybe waking up's the problem 
+1185.16,1189.28,BUFFY,So maybe waking up's the problem
 1185.16,1189.28,BUFFY,but just for a second.
 1189.88,1192.47,BUFFY,"I sleep OK. Great, even."
 1192.6,1194.99,BUFFY,"Except, you know, for the dreams."
@@ -400,7 +400,7 @@
 1286.16,1289.12,GILES,what's powerful enough
 1286.16,1289.12,GILES,to control one of those things?
 1292.32,1297.27,DEMON,"We had a deal. You got what you wanted,"
-1292.32,1297.27,DEMON,now give me what I want 
+1292.32,1297.27,DEMON,now give me what I want
 1297.4,1299.83,DEMON,the head of the Slayer.
 1301.96,1302.49,WARREN,OK.
 1302.49,1303.36,JONATHAN,Sure.
@@ -549,10 +549,10 @@
 1643.12,1644.44,ANDREW/JONATHAN,OK.
 1644.72,1647.11,WARREN,Of course I remember. It was last month.
 1647.11,1649.03,JONATHAN,Then you know we have a mission!
-1649.16,1651.99,We see what he's pointing at. It's a whiteboard labeled at the top "TO DO" and including the following items,"Shrink rays, trained gorillas."
-1652.88,1655.11,We see what he's pointing at. It's a whiteboard labeled at the top "TO DO" and including the following items,"Workable prototype jetpacks,"
-1655.24,1657.71,We see what he's pointing at. It's a whiteboard labeled at the top "TO DO" and including the following items,"and chicks, chicks, chicks."
-1657.84,1660.51,We see what he's pointing at. It's a whiteboard labeled at the top "TO DO" and including the following items,I know that's the action I signed on for.
+1649.16,1651.99,"We see what he's pointing at. It's a whiteboard labeled at the top ""TO DO"" and including the following items","Shrink rays, trained gorillas."
+1652.88,1655.11,"We see what he's pointing at. It's a whiteboard labeled at the top ""TO DO"" and including the following items","Workable prototype jetpacks,"
+1655.24,1657.71,"We see what he's pointing at. It's a whiteboard labeled at the top ""TO DO"" and including the following items","and chicks, chicks, chicks."
+1657.84,1660.51,"We see what he's pointing at. It's a whiteboard labeled at the top ""TO DO"" and including the following items",I know that's the action I signed on for.
 1660.51,1662.47,ANDREW,Me too. Ixnay on the urdermay.
 1662.96,1663.41,WARREN,Vote.
 1663.41,1666.32,JONATHAN,OK. Who's for not killing Buffy?
@@ -607,7 +607,7 @@
 1799.96,1802.08,WILLOW,I'm not a bad guy.
 1802.2,1804.27,WILLOW,"I brought Buffy back into this world,"
 1804.4,1808.92,WILLOW,and maybe the word you should be
-1804.4,1808.92,WILLOW,looking for is "congratulations".
+1804.4,1808.92,WILLOW,"looking for is ""congratulations""."
 1809.64,1813.52,GILES,Having Buffy back in this world
 1809.64,1813.52,GILES,"makes me feel indescribably wonderful,"
 1813.64,1817.11,GILES,but I wouldn't congratulate you
@@ -800,6 +800,6 @@
 2433.6,2436.19,GILES,out of the way...
 2436.32,2438.2,BUFFY,I have to go now.
 2440.68,2443.59,BUFFY,Um... Thanks for taking care of this for me.
-2444.31,2450.29,,Support us and become VIP member 
+2444.31,2450.29,,Support us and become VIP member
 2444.31,2450.29,,to remove all ads from www.OpenSubtitles.org
 2444.31,2450.29,,end

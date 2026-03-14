@@ -23,7 +23,7 @@
 53.61,55.68,,Why is it so hard?
 53.61,55.68,,I should just walk up to her and say:
 55.68,57.64,,"Hey, I like you."
-55.68,57.64,,Let's go to the dance together."
+55.68,57.64,,"Let's go to the dance together."""
 57.67,59.78,Willow,Direct and to the point.
 59.78,60.66,Xander,I'm ready.
 60.74,63.33,Xander,I wanna do it now. I gotta do it now.
@@ -40,10 +40,10 @@
 100.49,102.95,Kevin,That's silly. Who would be out there?
 129.47,131.6,Buffy,Three in one night.
 131.68,134.1,Buffy,Giles would be so proud.
-161.25,163.79,Giles,The Master shall rise."
+161.25,163.79,Giles,"The Master shall rise."""
 163.88,168.02,Giles,"Yes, this is it!"
 166.09,168.84,Giles,The Master shall rise
-168.93,171.22,Xander,and the Slayer..."
+168.93,171.22,Xander,"and the Slayer..."""
 174.85,176.93,Xander,My God!
 200,202.08,Xander,The stairs. Under the stairs!
 220.01,223.93,Master,"Yes! Yes! Shake, Earth!"
@@ -51,7 +51,7 @@
 227.81,230.57,Master,My time has come! Glory!
 230.65,231.98,Master,Glory!
 236.07,239.41,Master,What do you think? Five point one?
-289.85,294.46,Master,b>"Prophecy Girl"</b>
+289.85,294.46,Master,"""Prophecy Girl"""
 298.5,300.17,Buffy,Morning.
 301.26,304.76,Buffy,Wow. The damage looks fairly structural.
 301.26,304.76,Buffy,Are we safe in here?
@@ -78,7 +78,7 @@
 349.89,353.18,Buffy,"I broke a nail, OK? I'm wearing a presson."
 353.27,356.85,Buffy,The least you could do
 353.27,356.85,Buffy,is exhibit some casual interest.
-357.23,359.48,Buffy,You could go "Hm."
+357.23,359.48,Buffy,"You could go ""Hm."""
 360.77,362.73,Giles,"Oh, sorry..."
 362.82,364.86,Giles,I'm very glad that you're all right.
 364.94,367.11,Giles,I need to verify...
@@ -89,8 +89,8 @@
 375.96,376.37,Giles,What?
 376.45,378.54,Buffy,Biology.
 387.88,389.13,Buffy,"Wow, that was boring."
-389.13,391.34,Xander,I don't feel that "boring" covers it.
-391.43,393.51,Buffy,No. "Boring" falls short.
+389.13,391.34,Xander,"I don't feel that ""boring"" covers it."
+391.43,393.51,Buffy,"No. ""Boring"" falls short."
 393.6,395.93,Willow,Even I was bored. And I'm a science nerd.
 396.01,397.08,Buffy,Don't say that.
 397.08,398.22,Willow,I'm not ashamed.
@@ -166,7 +166,7 @@
 578.85,582.86,Giles,Come after sundown.
 578.85,582.86,Giles,Good. I'll see you then.
 586.86,589.85,Ms. Calendar,"You know, that outfit looks"
-586.86,589.85,Ms. Calendar,just like the one you wore yesterday 
+586.86,589.85,Ms. Calendar,just like the one you wore yesterday
 589.85,594.03,Ms. Calendar,only wrinklier.
 589.85,594.03,Ms. Calendar,Were you here all night?
 594.07,598.29,Giles,"Sorry, I'm not really"
@@ -180,11 +180,11 @@
 609.63,613.55,Ms. Calendar,They know the occult's my turf.
 613.64,615.68,Ms. Calendar,Here is the latest.
 617.47,620.73,Ms. Calendar,A cat last week gave birth
-617.47,620.73,Ms. Calendar,to a litter of snakes."
+617.47,620.73,Ms. Calendar,"to a litter of snakes."""
 620.98,624.65,Ms. Calendar,A family was swimming in Whisper Lake
-620.98,624.65,Ms. Calendar,when the lake began to boil."
+620.98,624.65,Ms. Calendar,"when the lake began to boil."""
 624.73,630.47,Ms. Calendar,"And ""Mercy Hospital last night, a boy"
-624.73,630.47,Ms. Calendar,was born with his eyes facing inward."
+624.73,630.47,Ms. Calendar,"was born with his eyes facing inward."""
 630.5,634.32,Ms. Calendar,I'm not stupid. This is apocalypse stuff.
 634.41,637.89,Ms. Calendar,"And throw in last night's earthquake,"
 634.41,637.89,Ms. Calendar,and I'd say we've got a problem.
@@ -337,20 +337,18 @@
 1011.7,1015.06,Buffy,I don't care.
 1017.67,1021.3,Buffy,"Giles, I'm 16 years old."
 1022.96,1027.58,Buffy,I don't wanna die.
-1056.02,1058.57,Lyrics,b><i></b></i>
-1058.61,1064.22,Lyrics,i># I fall to pieces</i>
-1065.48,1070.58,Lyrics,i># each time I see you again.</i>
-1070.88,1071.88,Lyrics,i><b></b></i>
-1084.39,1088.4,Lyrics,i># I never knew what enough was</i>
+1058.61,1064.22,Lyrics,# I fall to pieces
+1065.48,1070.58,Lyrics,# each time I see you again.
+1084.39,1088.4,Lyrics,# I never knew what enough was
 1088.4,1090.48,Joyce,"Hi, honey."
-1090.49,1095.11,Lyrics,i> # Until I'd had more than my share</i>
+1090.49,1095.11,Lyrics,# Until I'd had more than my share
 1090.49,1095.11,Lyrics,You all right?
 1095.15,1097.2,Buffy,Sure.
 1097.28,1101.58,Joyce,You're probably just full
 1097.28,1101.58,Joyce,from that bite of dinner you nearly had.
 1102.2,1104.56,Joyce,Feel like telling me what's on your mind?
-1104.6,1108.08,Lyrics,i># I let the darkness in
-1104.6,1108.08,Lyrics,And it was then I lost the dare</i>
+1104.6,1108.08,Lyrics,# I let the darkness in
+1104.6,1108.08,Lyrics,And it was then I lost the dare
 1108.12,1109.94,Buffy,"Mom, let's go away!"
 1109.94,1110.42,Joyce,What?
 1110.5,1112.95,Buffy,Anywhere. Just for a while. A weekend.
@@ -464,17 +462,17 @@
 1449.49,1450.49,Giles,What did it say?
 1450.57,1453.22,Ms. Calendar,Isaiah 11:6. Which I dutifully looked up.
 1453.25,1457.55,Giles,The wolf shall live with the lamb.
-1453.25,1457.55,Giles,The leopard shall lie down with the kid."
+1453.25,1457.55,Giles,"The leopard shall lie down with the kid."""
 1457.58,1459.71,Giles,"The calf, the lion"
 1457.58,1459.71,Giles,"and the fatling together,"""
-1459.71,1462.38,Giles,and the little child to lead them."
+1459.71,1462.38,Giles,"and the little child to lead them."""
 1462.41,1464.89,Ms. Calendar,It's kind of warm and fuzzy
 1462.41,1464.89,Ms. Calendar,for a message of doom.
 1464.92,1465.91,Ms. Calendar,"Well, it all depends"
 1465.91,1467.25,Giles,where he's leading them to.
 1467.29,1469.47,Giles,"Aurelius wrote of the Anointed One,"
 1469.55,1472.72,Giles,"The Slayer will not know him,"
-1469.55,1472.72,Giles,and he will lead her into Hell."
+1469.55,1472.72,Giles,"and he will lead her into Hell."""
 1472.8,1475.6,Ms. Calendar,So Luca thinks the Anointed is a kid.
 1475.68,1480.26,Giles,If the vampire that Buffy killed
 1475.68,1480.26,Giles,"was in fact not the Anointed, then"
@@ -585,7 +583,7 @@
 1768.75,1772.71,Ms. Calendar,If he's underground and it's right
 1768.75,1772.71,Ms. Calendar,"where he is, where's it gonna open?"
 1772.75,1776.72,Giles,"Good point. Look, you have a look"
-1772.75,1776.72,Giles,through the "Black Chronicles".
+1772.75,1776.72,Giles,"through the ""Black Chronicles""."
 1776.72,1777.88,Giles,Willow.
 1777.92,1779.49,Giles,Willow!
 1779.49,1780.38,Willow,Huh?
@@ -600,7 +598,7 @@
 1835.65,1837.73,Buffy,talk to your contractor.
 1837.81,1840.56,Buffy,Looks like you got some water damage.
 1840.56,1841.23,Master,"Oh, good."
-1841.32,1845.32,Master,The "feeble banter" portion of the fight.
+1841.32,1845.32,Master,"The ""feeble banter"" portion of the fight."
 1841.32,1845.32,Master,Why don't we just cut to the...
 1848.95,1851.04,Master,Nice shot.
 1855.04,1857.17,Angel,This way. What?
@@ -778,6 +776,5 @@
 2628.53,2631,Buffy,"Yeah, yeah. A big hit with everyone."
 2642.26,2646.05,,Subtitles by Visiontext
 2642.26,2646.05,,Additions & timing by UAR
-2682.19,2685.53,,
-0.5,4.02,,font color="#ffff00" size=14>www.tvsubtitles.net</font>
+0.5,4.02,,"font color=""#ffff00"" size=14>www.tvsubtitles.net</font>"
 0.5,4.02,,end

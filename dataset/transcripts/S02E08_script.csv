@@ -24,7 +24,7 @@
 115.47,117.43,Philip,"Help! Help, please!"
 118.6,120.44,Philip,"Help me, somebody, please!"
 140.98,144.69,Giles,Very good. And the rest is silence.
-210.64,216.94,Giles,b>"The Dark Age"</b>
+210.64,216.94,Giles,"""The Dark Age"""
 219.94,222.37,Young Giles,Time to go to sleep.
 234.4,236.99,Buffy,I'm on a beach.
 234.4,236.99,Buffy,But not one of those American beaches.
@@ -57,7 +57,7 @@
 288.74,292.68,Xander,still bitter that there are only 12 grades.
 292.72,294.86,Buffy,He probably sat in math class thinking
 294.86,297.33,Buffy,There should be more math.
-294.86,297.33,Buffy,This could be mathier"
+294.86,297.33,Buffy,"This could be mathier"""
 297.37,300.16,Willow,Come on! You don't think
 297.37,300.16,Willow,he ever got restless as a kid?
 300.19,302.8,Buffy,Are you kidding?
@@ -197,7 +197,7 @@
 601.87,606.28,Giles,The tattoo?
 601.87,606.28,Giles,No.
 608.17,610.76,Giles,"No, I don't."
-615.69,619.07,Buffy,Don't be late." Sheesh!
+615.69,619.07,Buffy,"Don't be late."" Sheesh!"
 636.68,638.06,Driver,"Hey, fellas."
 638.06,638.52,Doctor,Hey.
 640.75,644.87,Buffy,All's well that ends
@@ -478,14 +478,14 @@
 1611.35,1614.29,Willow,worn by his initiates.
 1614.34,1618.5,Willow,"Eyghon, also called the sleepwalker,"
 1614.34,1618.5,Willow,can only exist in this reality...
-1618.53,1621.25,Willow,by possessing an unconscious host."
+1618.53,1621.25,Willow,"by possessing an unconscious host."""
 1621.28,1625.8,Willow,Temporary possession imbues
-1621.28,1625.8,Willow,the host with a euphoric feeling of power."
+1621.28,1625.8,Willow,"the host with a euphoric feeling of power."""
 1625.83,1628.43,Buffy,"Yeah, but what about not temporary?"
 1628.47,1631.88,Willow,"Unless the proper rituals are observed,"
 1628.47,1631.88,Willow,"the possession is permanent,"
 1631.92,1634.89,Willow,and Eyghon will be born
-1631.92,1634.89,Willow,from within the host."
+1631.92,1634.89,Willow,"from within the host."""
 1635.33,1636.58,Cordelia,I'm guessing eww.
 1636.58,1637.91,Willow,"Wait. Hey, listen."
 1637.94,1641.49,Willow,"Once called, Eyghon can also"
@@ -493,7 +493,7 @@
 1641.6,1644.87,Willow,but its demonic energy
 1641.6,1644.87,Willow,soon disintegrates the host
 1644.91,1649.5,Willow,and it must jump to the nearest dead or
-1644.91,1649.5,Willow,unconscious person to continue living."
+1644.91,1649.5,Willow,"unconscious person to continue living."""
 1649.75,1651.97,Buffy,I still don't get
 1649.75,1651.97,Buffy,what this has to do with Giles.
 1651.97,1654.35,Willow,"I don't know about Giles,"
@@ -533,8 +533,8 @@
 1737.27,1740.4,Giles,I would be taking advantage.
 1742.48,1744.99,Jenny,"God, you just don't change, do you?"
 1745.03,1746.62,Giles,What?
-1746.87,1749.64,Jenny,It's not right. It wouldn't be proper."
-1749.71,1752.71,Jenny,People might get hurt."
+1746.87,1749.64,Jenny,"It's not right. It wouldn't be proper."""
+1749.71,1752.71,Jenny,"People might get hurt."""
 1752.74,1755.42,Jenny,"You're like a woman, Ripper."
 1755.65,1758.1,Jenny,You cry at every funeral.
 1759.41,1763.18,Jenny,You never had the strength for me.
@@ -823,5 +823,5 @@
 2635.9,2638.1,Giles,The Bay City Rollers. Now that's music.
 2638.41,2640.96,,I didn't hear that.
 2641.34,2646.54,,Subtitles extended & timed by: UAR
-0.5,4.02,,font color="#ffff00" size=14>www.tvsubtitles.net</font>
+0.5,4.02,,"font color=""#ffff00"" size=14>www.tvsubtitles.net</font>"
 0.5,4.02,,end

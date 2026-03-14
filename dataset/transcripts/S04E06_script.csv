@@ -154,7 +154,7 @@
 557.04,558.24,Veruca ,There's room.
 566.85,568.73,Oz ,Big lunch.
 568.81,572.69,Veruca ,"I like to eat. I hate chicks who are, like,"
-568.81,572.69,Veruca ,Does it have dressing on it?"
+568.81,572.69,Veruca ,"Does it have dressing on it?"""
 572.77,574.37,Oz ,Agreed.
 576.45,578.22,Oz ,You guys were tight last night.
 578.22,578.68,Veruca ,I guess.
@@ -164,7 +164,7 @@
 591.97,594.69,Willow ,Hey.
 595.13,596.96,Willow ,Hey.
 597.05,599.04,Oz ,You wanna sit down?
-609.33,614.2,Oz ,So you should be using a 50. Blue Voodoo 
+609.33,614.2,Oz ,So you should be using a 50. Blue Voodoo
 609.33,614.2,Oz ,not your best bet unless you dig the distort.
 614.29,619.49,Willow ,"Music talk, huh? Cool."
 614.29,619.49,Willow ,I love to listen to Oz talk about the biz.
@@ -205,7 +205,7 @@
 717.69,722.05,Buffy ,is flogging and punishing himself...
 722.13,725.17,Buffy ,This is sounding wrong before I even finish.
 725.25,729.57,Buffy ,"Look, I promise you, in a couple of days"
-725.25,729.57,Buffy ,it's gonna be like "Veruca who?"
+725.25,729.57,Buffy ,"it's gonna be like ""Veruca who?"""
 729.89,731.11,Willow ,You think?
 731.11,732.45,Buffy ,Absolutely.
 733.25,735.29,Buffy ,Oz just isn't the type to stray.
@@ -364,7 +364,7 @@
 1292.13,1292.34,Willow ,Why?
 1292.34,1294.36,Xander ,She won't let me put a lock on my door.
 1294.45,1297.33,Xander ,I suspect she's afraid
-1294.45,1297.33,Xander ,I'll start having "the sex".
+1294.45,1297.33,Xander ,"I'll start having ""the sex""."
 1297.41,1299.85,Willow ,Yeah. Parents wait
 1297.41,1299.85,Willow ,till you're out of the house.
 1299.93,1302.53,Xander ,Or under it.
@@ -376,7 +376,7 @@
 1314.37,1316.76,Willow ,"Well, things with Oz are weird."
 1316.85,1321.45,Willow ,"And I talked to Buffy about it,"
 1316.85,1321.45,Willow ,but I think we're in guyville here.
-1321.53,1324.21,Willow ,I need a translator from the "Y" side of things.
+1321.53,1324.21,Willow ,"I need a translator from the ""Y"" side of things."
 1324.29,1327.33,Xander ,"Well, last time I checked,"
 1324.29,1327.33,Xander ,I had the creds. Hit me.
 1330.09,1334.45,Willow ,What does it mean
@@ -535,7 +535,7 @@
 1889.53,1890.78,,You're OK?
 1890.78,1893.29,Willow ,I'm fine. I promise.
 1893.65,1895.64,Buffy ,I love you.
-1904.77,1907.16,Willow ,Put the blame where it belongs."
+1904.77,1907.16,Willow ,"Put the blame where it belongs."""
 1917.33,1919.32,Oz ,So you haven't seen her around?
 1919.89,1921.88,Oz ,"OK. Thanks, man."
 1927.77,1928.6,Buffy ,Where is she?
@@ -650,6 +650,6 @@
 2407.93,2411.61,,"Oh, God. Oz."
 2482.89,2486.65,,Visiontext Subtitles: Julie Clayton
 2524.13,2525.12,,ENGLISH
-2526.31,2532.53,,Support us and become VIP member 
+2526.31,2532.53,,Support us and become VIP member
 2526.31,2532.53,,to remove all ads from www.OpenSubtitles.org
 2526.31,2532.53,,end

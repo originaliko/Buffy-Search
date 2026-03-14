@@ -109,8 +109,8 @@
 413.36,416.48,GUIDANCE COUNSELOR,"OK. It's just, I know it must seem weird,"
 416.6,419.35,GUIDANCE COUNSELOR,"talking to a stranger about stuff, but..."
 419.48,423.11,GUIDANCE COUNSELOR,I want you to know that if something's
-419.48,423.11,GUIDANCE COUNSELOR,"going on, something's up, my job "
-423.24,427.15,GUIDANCE COUNSELOR,the most important part of my job 
+419.48,423.11,GUIDANCE COUNSELOR,"going on, something's up, my job"
+423.24,427.15,GUIDANCE COUNSELOR,the most important part of my job
 423.24,427.15,GUIDANCE COUNSELOR,is looking out for you.
 432.88,434.87,DAWN,I'm really OK.
 438.16,441.91,GUIDANCE COUNSELOR,I know there's been a lot of loss.
@@ -166,7 +166,7 @@
 566.23,567.03,BUFFY,Yeah.
 567.16,569.39,BUFFY,I'm all stayinny.
 576.02,576.56,BUFFY,How are you doing?
-576.56,577.47,TARA,The word "gulp" comes to mind.
+576.56,577.47,TARA,"The word ""gulp"" comes to mind."
 577.6,579.91,BUFFY,"Just remember, we're all here to..."
 580.96,584.71,BUFFY,I have to... with the thing that I...
 584.84,587.31,BUFFY,Coming!
@@ -312,7 +312,7 @@
 947.04,947.31,BUFFY,OK.
 949.64,952.47,SPIKE,"Ooh, Buffy."
 952.6,956.48,SPIKE,Can I get you a soda pop?
-952.6,956.48,SPIKE,I think I'm in love. "
+952.6,956.48,SPIKE,"I think I'm in love. """
 957.56,959.99,BUFFY,Stop it. Someone's gonna see.
 962.36,964.32,SPIKE,Mmhm.
 977.76,980.72,SPIKE,I had a muscle cramp.
@@ -602,7 +602,7 @@
 1848.8,1853.03,ANYA,"sorry, only no one seems willing to say it."
 1853.6,1854.3,WILLOW,I can't.
 1854.3,1857.83,ANYA,"No, see, that's not exactly true either."
-1858.96,1860.92,ANYA,Not "can't". "Won't".
+1858.96,1860.92,ANYA,"Not ""can't"". ""Won't""."
 1862.08,1864.83,WILLOW,You don't know how much I hate this.
 1864.96,1867.84,WILLOW,I don't know if there's even
 1864.96,1867.84,WILLOW,anything I could do.
@@ -719,7 +719,7 @@
 2228.48,2230.84,HALFREK,Most of us try to be
 2228.48,2230.84,HALFREK,a little more wellrounded.
 2230.96,2234.75,HALFREK,"And actually,"
-2230.96,2234.75,HALFREK,we prefer "justice demon". OK? FYl.
+2230.96,2234.75,HALFREK,"we prefer ""justice demon"". OK? FYl."
 2234.88,2238.43,ANYA,Wellrounded? Is that how you
 2234.88,2238.43,ANYA,explain your thing for bad parents?
 2238.56,2240.79,HALFREK,"Oh, it's not a thing. The children need me."
@@ -755,8 +755,8 @@
 2336.08,2340.36,WILLOW,this thing in the back of my head.
 2341.48,2344.55,WILLOW,"This, you know, voice, saying, like"
 2344.68,2347.91,WILLOW,What if things get bad?
-2344.68,2347.91,WILLOW,I mean really bad?"
-2348.96,2351.35,WILLOW,And what if you can't handle it?"
+2344.68,2347.91,WILLOW,"I mean really bad?"""
+2348.96,2351.35,WILLOW,"And what if you can't handle it?"""
 2351.48,2356.11,WILLOW,"And it made me panic,"
 2351.48,2356.11,WILLOW,so that's why I kept a couple of things.
 2358.2,2361.72,WILLOW,I kept them so I didn't have
@@ -769,11 +769,11 @@
 2375.4,2379.31,TARA,but it actually did get bad in there.
 2379.44,2383.64,TARA,"Really bad, and you still said no."
 2396.96,2398.96,RICHARD,You have some weird friends.
-2398.96,2401.24,XANDER,News from the file marked "duh".
+2398.96,2401.24,XANDER,"News from the file marked ""duh""."
 2401.36,2402.9,XANDER,We're gonna get him to the ER.
 2402.9,2404.75,ANYA,Then we're gonna talk about payment.
 2404.88,2412.02,ANYA,"And, Dawnie, there are two words I want you"
-2404.88,2412.02,ANYA,to get used to: "punitive damages".
+2404.88,2412.02,ANYA,"to get used to: ""punitive damages""."
 2410.12,2412.11,BUFFY,Think it's worn off?
 2412.24,2414.2,SPIKE,Just one thing to do.
 2429.84,2430.99,ANYA,Who's pushing?
@@ -782,6 +782,6 @@
 2434.92,2438.28,,I wanna run barefoot
 2434.92,2438.28,,so I can feel the dewdrops between my...
 2438.4,2440.68,TARA,"God, look at the stars!"
-2441.31,2447.37,,Support us and become VIP member 
+2441.31,2447.37,,Support us and become VIP member
 2441.31,2447.37,,to remove all ads from www.OpenSubtitles.org
 2441.31,2447.37,,end

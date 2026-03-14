@@ -95,7 +95,6 @@
 177.8,179.23,Xander,be lost on you.
 179.3,180.24,Giles,Sorry.
 180.3,181.46,Xander,"Hey, it's OK."
-183.42,186.51,Xander,
 247.17,249.9,Xander,"Hey, Doug, toss me one!"
 252.14,253.48,Xander,"Lesman, I'm open!"
 253.55,255.04,Xander,"Les, buddy!"
@@ -179,19 +178,19 @@
 376.64,378.07,Cordelia,I have a lot to offer.
 378.14,379.12,Cordelia,"Oh, please."
 379.12,379.57,Xander,I do!
-379.64,381.44,Cordelia,Integral part"
+379.64,381.44,Cordelia,"Integral part"""
 379.64,381.44,Cordelia,of the group?
 381.51,384.94,Cordelia,"Xander, you're the useless part"
 381.51,384.94,Cordelia,of the group.
 387.02,386.44,Cordelia,You're the Zeppo.
-386.51,389.21,Cordelia,Cool." Look it up.
+386.51,389.21,Cordelia,"Cool."" Look it up."
 389.28,394.34,Cordelia,It's something that a subliterate that's
 389.28,394.34,Cordelia,repeated 12th grade 3 times has...
 394.42,395.44,Cordelia,and you don't.
 399.42,402.19,Cordelia,There was no part of that
 399.42,402.19,Cordelia,that wasn't fun.
 406.37,409.69,Cordelia,But it's just that it's bugging me...
-409.69,411.3,Xander,this "cool" thing.
+409.69,411.3,Xander,"this ""cool"" thing."
 411.37,414.13,Xander,"I mean, what is it?"
 411.37,414.13,Xander,How do you get it?
 414.21,416.23,Xander,Who doesn't have it?
@@ -278,7 +277,6 @@
 549.21,550.5,Buffy,The one that opens...
 550.58,553.91,Giles,About 20 feet from
 550.58,553.91,Giles,where you're standing.
-562.22,564.21,Giles,
 564.32,565.72,Willow,And if it opens?
 565.79,569.25,Buffy,Do you remember the demon that
 565.79,569.25,Buffy,almost got out the night I died?
@@ -310,7 +308,6 @@
 608.73,610.17,Buffy,I need my Willow.
 610.24,612.23,Willow,"Oh, you don't have"
 610.24,612.23,Willow,to be afraid...
-612.3,613.24,Willow,
 613.31,614.6,Xander,You girls need a lift?
 616.91,618.84,Buffy,What is this?
 618.91,620.71,Xander,"What do you mean,"
@@ -323,7 +320,7 @@
 627.39,629.65,Xander,that makes me cool.
 629.72,631.48,Xander,"You know,"
 629.72,631.48,Xander,that makes me unique.
-631.56,633.58,Xander,I'm "car guy"...
+631.56,633.58,Xander,"I'm ""car guy""..."
 631.56,633.58,Xander,guy with the car.
 633.66,635.25,Willow,How can you afford it?
 635.33,637.09,Xander,"Uncle Roary,"
@@ -367,7 +364,7 @@
 679.3,680.74,Xander,"right now, OK?"
 680.81,681.08,Xander,Right.
 681.08,682.03,Cordelia,Buffy need your help?
-682.11,684.04,Xander,Can you say "expendable"?
+682.11,684.04,Xander,"Can you say ""expendable""?"
 684.11,685.7,Xander,You think
 684.11,685.7,Xander,you know everything.
 685.78,687.68,Cordelia,I think I know you.
@@ -434,7 +431,6 @@
 807.63,810.23,Xander,I mean...
 810.3,812.9,Xander,they act like I'm
 810.3,812.9,Xander,some sort of klutz.
-812.97,814.57,Xander,
 814.64,816.4,Xander,"Oh, God!"
 814.64,816.4,Xander,Are you all right?
 817.48,818.41,Xander,"Oh, God!"
@@ -448,11 +444,11 @@
 848.94,853.74,Willow,"an earthquake, and they bark?"
 853.81,855.5,Buffy,Or cows lie down
 855.5,856.87,Willow,or something?
-856.95,858.88,Buffy,Sisterhood ofJhe."
+856.95,858.88,Buffy,"Sisterhood ofJhe."""
 858.95,861.82,Buffy,"Race of female demons,"
-858.95,861.82,Buffy,fierce warriors..."
-861.89,865.85,Buffy,Eww. "...celebrate victory
-861.89,865.85,Buffy,in battle by eating their foes."
+858.95,861.82,Buffy,"fierce warriors..."""
+861.89,865.85,Buffy,"Eww. ""...celebrate victory"
+861.89,865.85,Buffy,"in battle by eating their foes."""
 865.93,867.89,Giles,They couldn't just pour Gatorade
 865.93,867.89,Giles,on each other?
 867.96,871.66,Giles,Wouldn't even take
@@ -483,7 +479,7 @@
 904.86,906.67,Buffy,Did you want a jelly?
 906.67,908.56,Giles,I always have a jelly.
 908.64,911.54,Giles,I'm always the one that says
-908.64,911.54,Giles,Let's have a jelly in the mix."
+908.64,911.54,Giles,"Let's have a jelly in the mix."""
 911.61,914.23,Willow,We're sorry. Buffy had 3.
 916.31,919.34,Giles,No matter.
 916.31,919.34,Giles,If Xander makes another run...
@@ -520,7 +516,7 @@
 963.22,965.16,Xander,Yeah. Great knife.
 965.23,968.96,Xander,Although I think
 965.23,968.96,Xander,it may technically be a sword.
-969.03,970.55,Jack,She's called "Katie."
+969.03,970.55,Jack,"She's called ""Katie."""
 970.63,972.56,Xander,You gave it
 970.63,972.56,Xander,a girl's name.
 972.63,975.23,Xander,How very serial killer
@@ -645,7 +641,6 @@
 1215.21,1216.47,Jack,and he shall arise.
 1219.41,1220.9,Dickie,Dudes!
 1220.98,1222.91,Dickie,Beer!
-1230.55,1232.11,Dickie,
 1267.25,1268.55,Xander,"Giles, hey..."
 1268.62,1270.92,Xander,what's going on?
 1270.99,1276.59,Giles,"Oh, uh, I was just trying"
@@ -820,7 +815,6 @@
 1577.76,1579.79,Bob,with dead people?
 1579.87,1582.73,Xander,What aboutJack?
 1579.87,1582.73,Xander,Jack's not dead.
-1585.14,1586.63,Xander,
 1588.48,1590.97,Jack,Driveby 3 weeks ago.
 1591.04,1592.64,Xander,"Oh, boy."
 1592.71,1594.51,Jack,Grandpappy found my body.
@@ -890,7 +884,6 @@
 1836.26,1837.59,Giles,"Now, don't hesitate."
 1837.66,1839.25,Willow,Do it.
 1840.33,1841.26,Giles,"Now, Oz..."
-1841.33,1842.42,Giles,
 1844.07,1845.19,Giles,Again!
 1852.48,1853.88,Giles,Ah.
 1855.78,1858.54,Giles,We've got to move him
@@ -938,7 +931,6 @@
 1963.12,1964.45,Buffy,"OK, this is my fight..."
 1964.52,1966.49,Buffy,and if you won't do it
 1964.52,1966.49,Buffy,"my way, then you're..."
-1966.56,1968.49,Angel,
 1970.49,1971.79,Xander,Hey.
 1971.86,1973.99,Xander,"I've got this, um..."
 1974.06,1977.06,Xander,"There's this, uh..."
@@ -976,20 +968,15 @@
 2049.04,2052.03,Giles,I want you safe.
 2052.11,2054.17,Giles,Who knows what's going
 2052.11,2054.17,Giles,to come up from beneath us.
-2061.72,2063.65,Xander,
 2066.49,2068.01,Parker,Whoo!
-2074.16,2076.66,Parker,
 2076.73,2079.07,Jack,This is going
 2076.73,2079.07,Jack,to be large.
 2079.14,2081.07,Parker,"Oh, yeah."
-2079.14,2081.07,Parker,
 2087.64,2090.58,Xander,Giles will know what to do.
 2090.65,2093.64,Xander,He's way more calm
 2090.65,2093.64,Xander,than Buffy.
-2094.69,2096.48,Xander,
 2096.55,2098.52,Xander,"OK, I need a plan."
 2100.79,2104.96,Bob,"Hey, our wheels."
-2100.79,2104.96,Bob,
 2106.8,2109.6,Bob,Hey. Hey. Hey!
 2117.74,2119.7,Parker,"Stop. Come on, man. Stop."
 2119.7,2121.04,Xander,Where's the bomb?
@@ -1033,7 +1020,6 @@
 2246.26,2248.32,Xander,I wasn't finished!
 2248.4,2250.19,Xander,Note to self: Less talk.
 2254.97,2257.1,Buffy,"Faith, go for the heart!"
-2278.89,2281.09,Buffy,
 2285.07,2288.2,Xander,"OK, boiler room."
 2288.27,2290.8,Xander,Other way.
 2305.62,2307.32,Xander,"Hello, nasty."
@@ -1135,6 +1121,6 @@
 2599.1,2599.96,,What?
 2602.67,2604.03,,What?
 2605.1,2607.16,,What?
-2608.31,2614.56,,Support us and become VIP member 
+2608.31,2614.56,,Support us and become VIP member
 2608.31,2614.56,,to remove all ads from www.OpenSubtitles.org
 2608.31,2614.56,,end

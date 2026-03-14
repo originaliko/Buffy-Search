@@ -1,7 +1,6 @@
-146.08,151.04,,b>"Halloween"</b>
-151.05,153.89,,i><b></b></i>
-153.89,158.75,,"i># I don't say much but I,"
-153.89,158.75,,but I... </i>
+146.08,151.04,,"""Halloween"""
+153.89,158.75,,"# I don't say much but I,"
+153.89,158.75,,but I...
 158.79,162.95,,I know. Is the Bronze
 158.79,162.95,,"so not happening, or what?"
 162.98,165.88,,Oh... Hi.
@@ -15,9 +14,9 @@
 174.16,177.22,Cordelia,"Well, his loss is your incredible gain."
 186.67,189.42,Cordelia,So I told Devon:
 186.67,189.42,Cordelia,You call that leather interior?
-189.42,192.5,Cordelia,My Barbie Dream Car had nicer seats!"
-192.53,196.61,Lyrics,"i>#  no skin left on my,"
-192.53,196.61,Lyrics,on my </i>
+189.42,192.5,Cordelia,"My Barbie Dream Car had nicer seats!"""
+192.53,196.61,Lyrics,"#  no skin left on my,"
+192.53,196.61,Lyrics,on my
 196.61,199.28,Angel,Buffy?
 199.62,201.97,Angel,Buffy!
 202.51,204.46,Buffy,Hi. I'm...
@@ -26,7 +25,7 @@
 208.62,210.51,Angel,So I see.
 210.54,214.57,Buffy,Hey. It's a look. A... seasonal look.
 214.61,216.94,Cordelia,"Buffy, I love the hair."
-216.94,220.69,Cordelia,It just screams "street urchin".
+216.94,220.69,Cordelia,"It just screams ""street urchin""."
 220.73,225.5,Buffy,Know what? I need to go...
 220.73,225.5,Buffy,put a bag over my head.
 225.54,229.41,Angel,"Don't listen to her, please."
@@ -49,7 +48,7 @@
 272.97,275.02,Willow,Snyder must be in charge of the volunteer
 275.02,276.47,Xander,safety program for Halloween.
 277.22,280.14,Xander,Note his interesting take
-277.22,280.14,Xander,on the "volunteer" concept.
+277.22,280.14,Xander,"on the ""volunteer"" concept."
 280.14,282.02,Buffy,What's the deal?
 282.05,284.73,Xander,A bunch of little kids need people
 282.05,284.73,Xander,to take them trickortreatin'.
@@ -275,11 +274,11 @@
 779.51,782.18,Buffy,if you keep hiding.
 782.22,784.86,Buffy,You're missing the point of Halloween.
 784.86,785.62,Willow,Free candy?
-786.56,788.64,Buffy,It's "come as you aren't" night.
+786.56,788.64,Buffy,"It's ""come as you aren't"" night."
 788.67,792.46,Buffy,The perfect chance for a girl to get
 788.67,792.46,Buffy,sexy and wild with no repercussions.
 792.5,796.25,Willow,"Oh, I don't get wild."
-792.5,796.25,Willow,Wild on me equals "spaz".
+792.5,796.25,Willow,"Wild on me equals ""spaz""."
 796.29,799.87,Buffy,Don't underestimate yourself.
 796.29,799.87,Buffy,You got it in you.
 800.33,803.79,Willow,"Hey, Xander. What'd you get?"
@@ -384,8 +383,8 @@
 1109.02,1109.74,Willow,Hi.
 1109.74,1111.41,Buffy,Casper.
 1111.52,1116.78,Xander,"Hey, Will! That's..."
-1111.52,1116.78,Xander,a... fine "Boo!" you got there.
-1119.03,1122.39,Xander,i>Go ahead! We'll meet you inside!</i>
+1111.52,1116.78,Xander,"a... fine ""Boo!"" you got there."
+1119.03,1122.39,Xander,Go ahead! We'll meet you inside!
 1131.54,1134.04,Snyder,"This is your group, Summers."
 1134.08,1137.88,Snyder,No need to speak to them.
 1134.08,1137.88,Snyder,The last thing they need is your influence.
@@ -401,11 +400,11 @@
 1175.07,1175.92,Cordelia,That's my costume.
 1175.96,1177.53,Cordelia,"Are you, guys, playing tonight?"
 1177.53,1178.69,Oz,Yeah. The Shelter Club.
-1178.73,1181.09,Cordelia,Is Mr. "I'mtheleadsingerI'msogreat
+1178.73,1181.09,Cordelia,"Is Mr. ""I'mtheleadsingerI'msogreat"
 1181.09,1183.89,Cordelia,Idon'thavetoshowupformydate
-1181.09,1183.89,Cordelia,orevencall" gonna be there?
+1181.09,1183.89,Cordelia,"orevencall"" gonna be there?"
 1183.93,1185.96,Oz,"Yeah. You know,"
-1183.93,1185.96,Oz,he's just goin' by "Devon" now.
+1183.93,1185.96,Oz,"he's just goin' by ""Devon"" now."
 1185.97,1189.48,Cordelia,"Well, you can tell him that I don't care,"
 1185.97,1189.48,Cordelia,"and that I didn't even mention it,"
 1189.51,1193.48,Cordelia,"and that... I didn't even see you,"
@@ -587,7 +586,7 @@
 1730.05,1734.13,Buffy,You would take orders from a woman?
 1730.05,1734.13,Buffy,Are you feeble in some way?
 1734.17,1737.9,Xander,"Ma'am, in the army we have a saying:"
-1734.17,1737.9,Xander,Sit down and shut the..."
+1734.17,1737.9,Xander,"Sit down and shut the..."""
 1738.1,1743.02,Xander,Whoa!
 1741.28,1745.78,Xander,She must be right.
 1741.28,1745.78,Xander,We must have some kind of amnesia.
@@ -712,7 +711,7 @@
 2170.12,2173.42,Ethan,"Don't wish to blow my own trumpet,"
 2170.12,2173.42,Ethan,but it's genius.
 2173.46,2176.31,Ethan,The very embodiment of
-2173.46,2176.31,Ethan,Be careful what you wish for."
+2173.46,2176.31,Ethan,"Be careful what you wish for."""
 2176.35,2180.84,Giles,"It's sick, brutal"
 2176.35,2180.84,Giles,and it harms the innocent.
 2180.88,2183.68,Ethan,"Oh, and we all know that"
@@ -740,7 +739,7 @@
 2263.34,2265.72,,Go!
 2280.56,2284.9,,And you said the Ripper was long gone.
 2280.56,2284.9,,Tell me how to stop the spell.
-2284.94,2286.8,,Say "pretty please".
+2284.94,2286.8,,"Say ""pretty please""."
 2290.57,2294.31,,Look at you. You're shaking.
 2295.57,2299.08,,Terrified. Alone.
 2300.58,2303.53,,Lost little lamb.
@@ -772,13 +771,12 @@
 2422.05,2425.33,,get them back to their parents.
 2425.36,2429.01,,Yeah. Everybody seems to...
 2429.08,2431.78,,Where's Willow?
-2454.29,2458.21,,i><b></b></i>
-2464.11,2466.03,,i># You got the best of me</i>
-2466.62,2468.45,,i># It didn't take so long</i>
-2468.49,2470.75,,i># The things you put me through...</i>
+2464.11,2466.03,,# You got the best of me
+2466.62,2468.45,,# It didn't take so long
+2468.49,2470.75,,# The things you put me through...
 2471.62,2474.88,,Who is that girl?
-2471.62,2474.88,,i># Seemed to be so wrong</i>
-2474.88,2476.9,,i># You took your ...</i>
+2471.62,2474.88,,# Seemed to be so wrong
+2474.88,2476.9,,# You took your ...
 2477.91,2481.68,,Tadah! Just little old 20thcentury me.
 2481.88,2484.33,,Are you sure you're OK?
 2484.36,2486.45,,I'll live.
@@ -806,6 +804,5 @@
 2536.28,2538.52,,You're right. I should.
 2539.08,2540.65,,Definitely.
 2588.46,2595.42,,Subtitles' extension & timing by UAR
-2632.63,2635.6,,
-0.5,4.02,,font color="#ffff00" size=14>www.tvsubtitles.net</font>
+0.5,4.02,,"font color=""#ffff00"" size=14>www.tvsubtitles.net</font>"
 0.5,4.02,,end

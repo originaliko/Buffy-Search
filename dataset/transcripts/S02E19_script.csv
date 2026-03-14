@@ -1,14 +1,13 @@
-2.02,2.63,,i><b></b></i>
-2.63,7.43,,i># The way you love</i>
-8.26,12.66,,i># Have you got a name for it?</i>
-13.49,17.88,,i># Cos I don't understand</i>
-18.27,22.04,,i># It</i>
-25.15,30.27,,i># The language is an annoying necessity</i>
-30.3,35.63,,i># And I depend on all the regular things</i>
-36.11,41.22,,i># Got a list tattooed on my memory</i>
-41.25,47.1,,i># Of how our tryst should unfold</i>
+2.63,7.43,,# The way you love
+8.26,12.66,,# Have you got a name for it?
+13.49,17.88,,# Cos I don't understand
+18.27,22.04,,# It
+25.15,30.27,,# The language is an annoying necessity
+30.3,35.63,,# And I depend on all the regular things
+36.11,41.22,,# Got a list tattooed on my memory
+41.25,47.1,,# Of how our tryst should unfold
 53.93,55.47,,Hey.
-53.93,55.47,,i># I'm falling from the opposite</i>
+53.93,55.47,,# I'm falling from the opposite
 55.81,60.68,,I'm Ben. We had
 55.81,60.68,,Algebra II together last year?
 60.71,65.19,,"I'm sorry, I pretty much repress"
@@ -40,21 +39,21 @@
 105.23,107.47,Buffy,"Ever again, actually."
 107.47,110.56,Ben,Oh. That's... that's too bad.
 112.11,115.18,Ben,"OK, well, I better..."
-115.18,117.12,Lyrics,i># Fight the map with no key attached</i>
-117.15,117.97,Buffy,i> Sorry.
-117.97,121.32,Lyrics,"My heart's enlarged, and I charge</i>"
-121.5,124.1,,i># I'm falling from the opposite</i>
-124.13,126.59,,i># What good is it?</i>
-127.13,129.93,Lyrics,i># Fight the map with no key attached</i>
-129.96,134.53,Lyrics,i># My heart's enlarged and I charge</i>
+115.18,117.12,Lyrics,# Fight the map with no key attached
+117.15,117.97,Buffy,Sorry.
+117.97,121.32,Lyrics,"My heart's enlarged, and I charge"
+121.5,124.1,,# I'm falling from the opposite
+124.13,126.59,,# What good is it?
+127.13,129.93,Lyrics,# Fight the map with no key attached
+129.96,134.53,Lyrics,# My heart's enlarged and I charge
 140.89,143.88,Willow,Hey. You're bailin'?
 144.02,147.32,Buffy,Yeah. I'm gonna stop by the library
 144.02,147.32,Buffy,"and see if Giles wants me to patrol,"
 147.32,149.28,Buffy,and then... sack it.
-149.31,152.81,Willow,You've been doing that a lot 
+149.31,152.81,Willow,You've been doing that a lot
 149.31,152.81,Willow,patrolling and sacking.
 152.84,156.07,Willow,"In fact, you've, kind of, been"
-152.84,156.07,Willow,All work and no play Buffy".
+152.84,156.07,Willow,"All work and no play Buffy""."
 156.53,160.24,Buffy,I play. I have big fun.
 156.53,160.24,Buffy,"I came here tonight, didn't I?"
 160.91,164.79,Willow,"You came, you saw, you... rejected."
@@ -91,7 +90,7 @@
 219.23,224.18,Boy,No! A person doesn't just wake up one day
 219.23,224.18,Boy,and stop loving somebody.
 230.78,233.56,Boy,Love is for ever.
-284.89,288.02,Boy,b>"I Only Have Eyes For You"</b>
+284.89,288.02,Boy,"""I Only Have Eyes For You"""
 288.15,291.67,Boy,I'm not afraid to use it. I swear!
 291.7,293.67,Boy,If I can't be with you...
 293.67,293.99,Buffy,Hey!
@@ -124,7 +123,7 @@
 359.4,361.22,Buffy,Ask him. Ask the janitor.
 361.26,363.09,Snyder,"People can be coerced, Summers."
 363.12,365.58,Snyder,I'm no stranger to conspiracy.
-365.58,366.56,Secretary,I saw "JFK".
+365.58,366.56,Secretary,"I saw ""JFK""."
 366.6,370.76,Secretary,I'm a truth seeker. I've got a missing gun
 366.6,370.76,Secretary,and two confused kids on my hands.
 370.8,372.38,Snyder,Pieces of the puzzle.
@@ -196,12 +195,12 @@
 581.87,584.15,Teacher,hours...
 584.19,588.62,Teacher,child... labor...
 588.65,593.42,Teacher,and... collective bargaining.
-593.42,595.64,Teacher,b><u>DON'T WALK AWAY FROM ME BITCH!</u></b>
+593.42,595.64,Teacher,<u>DON'T WALK AWAY FROM ME BITCH!</u>
 595.67,596.63,Teacher,"Oh, my God!"
 596.63,598.91,Boy,Did you see what he wrote?
 603.57,606.65,Buffy,"I'm telling you,"
 603.57,606.65,Buffy,something weird is going on.
-606.69,608.4,Buffy,Something weird is going on" 
+606.69,608.4,Buffy,"Something weird is going on"""
 608.4,610.06,Xander,isn't that our school motto?
 610.09,614.36,Buffy,Pretty much. But I don't know.
 610.09,614.36,Buffy,This time... it bugs me.
@@ -230,7 +229,7 @@
 678.22,680.35,Xander,"Oh, no, no. No. No cool."
 680.39,682.18,Xander,This was no wimpy chain rattler.
 682.18,684.74,Xander,"This was: ""I'm dead as hell,"
-682.18,684.74,Xander,and I'm not gonna take it any more."
+682.18,684.74,Xander,"and I'm not gonna take it any more."""
 684.77,686.52,Giles,"Well, despite the"
 684.77,686.52,Giles,"Xanderspeak, that's a..."
 686.53,689.07,Giles,fairly accurate definition of a...
@@ -379,10 +378,10 @@
 1046.39,1048.19,Giles,and you are clearly wrong.
 1048.93,1053.82,Willow,This is freaky. I don't remember
 1048.93,1053.82,Willow,ever seeing Giles be this weird.
-1053.86,1057.49,Xander,I know. He's usually "InvestigateThings
-1053.86,1057.49,Xander,FromEveryBoringAngle" guy.
-1057.52,1059.18,Xander,Now he's "IClingOntoMyOne
-1059.18,1060.9,Buffy,LameIdea" guy. What gives?
+1053.86,1057.49,Xander,"I know. He's usually ""InvestigateThings"
+1053.86,1057.49,Xander,"FromEveryBoringAngle"" guy."
+1057.52,1059.18,Xander,"Now he's ""IClingOntoMyOne"
+1059.18,1060.9,Buffy,"LameIdea"" guy. What gives?"
 1060.93,1064.18,Buffy,He misses her. He can't think.
 1064.22,1066.82,Buffy,Just a little more fallout
 1064.22,1066.82,Buffy,from my love life.
@@ -600,17 +599,17 @@
 1552.81,1556.14,Giles,Yyyou don't want to be
 1552.81,1556.14,Giles,in the line of fire.
 1556.23,1559.81,Willow,OK. Night.
-1589.46,1591.03,Lyrics,b><i>(# "I Only Have Eyes For You"
-1591.03,1592.19,,by The Flamingos)</b></i>
-1592.19,1596.74,Lyrics,i># My love must be a kind of blind love</i>
-1600.32,1605.57,Lyrics,i># I can't see anyone but you</i>
+1589.46,1591.03,Lyrics,"(# ""I Only Have Eyes For You"""
+1591.03,1592.19,,by The Flamingos)
+1592.19,1596.74,Lyrics,# My love must be a kind of blind love
+1600.32,1605.57,Lyrics,# I can't see anyone but you
 1631.93,1636.14,Xander,"Oh, yeah, baby!"
 1631.93,1636.14,Xander,It's snakealicious in here.
-1644.12,1647.03,Lyrics,i># The moon may</i>
-1647.87,1650.68,Lyrics,i># Be high</i>
-1652.25,1655.42,Lyrics,i># But I can't see a thing</i>
-1655.45,1658.3,Lyrics,i># In the sky</i>
-1658.34,1663.02,Lyrics,i># I only...</i>
+1644.12,1647.03,Lyrics,# The moon may
+1647.87,1650.68,Lyrics,# Be high
+1652.25,1655.42,Lyrics,# But I can't see a thing
+1655.45,1658.3,Lyrics,# In the sky
+1658.34,1663.02,Lyrics,# I only...
 1679.78,1680.99,Willow,Giles!
 1680.99,1682.41,Giles,Willow!
 1682.44,1684.24,Willow,Giles! Giles!
@@ -633,7 +632,7 @@
 1770.24,1771.44,Cordelia,I shall totally
 1771.44,1773.84,Willow,confront and expel all evil...
 1773.88,1775.96,Xander,out of marrow and bone...
-1776.09,1780.04,Buffy,out of house and home 
+1776.09,1780.04,Buffy,out of house and home
 1776.09,1780.04,Buffy,never to come here again.
 1810.2,1813.16,Giles,"Oh, my God!"
 1816.03,1818.23,Giles,You all right?
@@ -681,7 +680,7 @@
 1922.43,1925.1,Buffy,James destroyed
 1922.43,1925.1,Buffy,the one person he loved the most
 1925.1,1927.07,Buffy,in a moment of blind passion...
-1927.1,1931.31,Buffy,And that's not something you forgive 
+1927.1,1931.31,Buffy,And that's not something you forgive
 1927.1,1931.31,Buffy,no matter why he did what he did.
 1931.34,1934.97,Buffy,And no matter if he knows now
 1931.34,1934.97,Buffy,"that it was wrong and selfish and stupid,"
@@ -777,8 +776,8 @@
 2268.17,2271.71,James,"Don't! Don't do that, dammit!"
 2271.93,2275.04,Buffy,Don't talk to me like I'm some stupid...
 2284.64,2286.92,Angelus,James.
-2367.98,2373.78,Lyrics,i># My love must be a kind of blind love</i>
-2375.49,2380.34,Lyrics,i># I can't see anyone but you</i>
+2367.98,2373.78,Lyrics,# My love must be a kind of blind love
+2375.49,2380.34,Lyrics,# I can't see anyone but you
 2390.5,2391.38,Buffy,Grace!
 2391.38,2393.43,Angelus,Don't do this.
 2393.47,2395.33,Buffy,But... but I killed you.
@@ -835,5 +834,5 @@
 2605.58,2608.72,Spike,"Oh, I will."
 2623.73,2626.18,Spike,Sooner than you think.
 2626.18,2630.61,,Subtitles extended and timed by UAR
-0.5,4.02,,font color="#ffff00" size=14>www.tvsubtitles.net</font>
+0.5,4.02,,"font color=""#ffff00"" size=14>www.tvsubtitles.net</font>"
 0.5,4.02,,end

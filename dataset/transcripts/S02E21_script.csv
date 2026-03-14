@@ -17,7 +17,7 @@
 61.13,64.8,Angel,"So... I'd ask myself,"
 64.83,68.02,Angel,What's a lady of your station
 64.83,68.02,Angel,doing alone in an alley...
-68.05,70.57,Angel,with a reputation that this one has?"
+68.05,70.57,Angel,"with a reputation that this one has?"""
 73.04,75.14,Darla,Maybe she's lonely.
 75.17,78.52,Angel,"In that case,"
 75.17,78.52,Angel,"I'd offer myself as escort,"
@@ -77,7 +77,7 @@
 248.33,252.08,Buffy,It'll all be over soon.
 252.36,254.84,Angelus,"Yes, my love."
 255.1,257.93,Angelus,It will.
-313.74,319.5,Doug,b>"Becoming. Part 1"</b>
+313.74,319.5,Doug,"""Becoming. Part 1"""
 331.61,334.68,Doug,Careful now! Concentrate in this area.
 335.15,337.39,Doug,There you go.
 337.9,339.48,Giles,Hello?
@@ -104,7 +104,7 @@
 371.64,373.9,Giles,"You have, uh, carbon dated it?"
 373.93,376.09,Doug,The results'll be back
 373.93,376.09,Doug,in a couple of days.
-376.18,379.08,Doug,I'll go out on a limb and say "old"!
+376.18,379.08,Doug,"I'll go out on a limb and say ""old""!"
 380.19,382.37,Giles,"Um, yes, it, it certainly..."
 382.4,385.46,Giles,"predates any, uh..."
 382.4,385.46,Giles,settlements we've read about.
@@ -132,10 +132,10 @@
 431.24,433.61,Doug,"But I'm pretty damn curious, though."
 433.64,435.68,Giles,Yes.
 435.87,438.77,Giles,"Yes, so am I."
-441.02,445.66,Xander,Tell Angel I'm gonna kill him."
+441.02,445.66,Xander,"Tell Angel I'm gonna kill him."""
 441.02,445.66,Xander,"No, wait. I'm gonna kill you!"""
-445.68,448.75,Xander,Die! Die! Die!"
-451.1,453.11,Xander,Mother?"
+445.68,448.75,Xander,"Die! Die! Die!"""
+451.1,453.11,Xander,"Mother?"""
 453.19,455.48,Cordelia,Is that it?
 453.19,455.48,Cordelia,That's it.
 455.89,457.41,Xander,Scene?
@@ -342,7 +342,7 @@
 930.16,932.29,Willow,I had to. To teach her class.
 932.31,935.52,Buffy,"Relax, Will."
 932.31,935.52,Buffy,I was making with the funny.
-938.62,940.43,Buffy,Does that say "restoration"?
+938.62,940.43,Buffy,"Does that say ""restoration""?"
 940.43,942.5,Willow,"It's one of her spells, I think."
 942.57,944.15,Willow,Ms. Calendar wasn't
 942.57,944.15,Willow,"a practicing witch,"
@@ -351,12 +351,8 @@
 947.8,949.46,Willow,"Oh, boy!"
 950.19,952.03,Willow,"Oh, boy!"
 953.16,955,Willow,"Oh, boy!"
-980.83,984.38,Elder Woman,i></i>
-984.41,989.97,Elder Woman,i></i>
-990,996.22,Elder Woman,i>(Return to the body
-990,996.22,Elder Woman,what distinguishes Man from the beast!)</i>
-998.85,1003.49,Elder Woman,i></i>
-1004.29,1008.67,Elder Woman,i></i>
+990,996.22,Elder Woman,(Return to the body
+990,996.22,Elder Woman,what distinguishes Man from the beast!)
 1016.7,1019.22,Gypsy Man,"It hurts, yes?"
 1019.26,1022.46,Gypsy Man,Good. It will hurt more.
 1022.72,1023.86,Angel,Where am I?
@@ -521,7 +517,7 @@
 1460.36,1463.91,Giles,the information provided
 1460.36,1463.91,Giles,by Kendra's watcher seems conclusive.
 1464.33,1468.55,Willow,OK. Somebody explain the whole
-1464.33,1468.55,Willow,he will suck the world into Hell" thing.
+1464.33,1468.55,Willow,"he will suck the world into Hell"" thing."
 1468.57,1470.53,Willow,Because that's the part
 1468.57,1470.53,Willow,I'm not loving.
 1470.59,1476.23,Giles,"Well, the, uh, the Demon Universe exists"
@@ -534,7 +530,7 @@
 1485.2,1490.54,Giles,will suffer horrible and...
 1490.61,1492.19,Giles,eternal torment.
 1492.48,1495.96,Buffy,So that would be the literal
-1492.48,1495.96,Buffy,kind of "sucked into Hell"?
+1492.48,1495.96,Buffy,"kind of ""sucked into Hell""?"
 1496.04,1500.02,Buffy,Neat!
 1499.37,1501.77,Buffy,"Willow, I think"
 1499.37,1501.77,Buffy,you should try the curse.
@@ -594,7 +590,7 @@
 1702.42,1705.14,Whistler,This is the stench of death
 1702.42,1705.14,Whistler,you're givin' off here.
 1705.17,1709.18,Whistler,"And the look says, uh..."
-1705.17,1709.18,Whistler,Crazy Homeless Guy". It's not good.
+1705.17,1709.18,Whistler,"Crazy Homeless Guy"". It's not good."
 1709.2,1710.48,Angel,Get away from me!
 1710.48,1712.81,Whistler,What are you gonna do? Bite me?
 1712.95,1715.54,Whistler,Horrors! A vampire!
@@ -730,7 +726,7 @@
 2057.19,2059.02,Angelus,But Acathla redeems me.
 2059.43,2061.63,Angelus,With this act...
 2063.51,2065.85,Angelus,we will be free.
-2083.2,2086.37,Spike,i># Someone wasn't worthy</i>
+2083.2,2086.37,Spike,# Someone wasn't worthy
 2086.66,2088.16,Angelus,Dammit!
 2088.2,2091.84,Drusilla,This is so... disappointing.
 2093.11,2097.82,Angelus,There must be something I missed.
@@ -815,7 +811,7 @@
 2311.33,2314.29,Willow,Let him know
 2311.33,2314.29,Willow,"the pain of humanity, Gods. """
 2314.56,2318.54,Willow,Reach your wizened hands to me.
-2314.56,2318.54,Willow,Give me the sword. "
+2314.56,2318.54,Willow,"Give me the sword. """
 2321.24,2322.87,Giles,Get out! Go!
 2362.73,2364.31,Xander,Go!
 2391.02,2391.76,Angelus,"Jeez, is it me"
@@ -851,5 +847,5 @@
 2595.25,2596.95,Officer,Freeze!
 2599.02,2601.69,Whistler,You'll see what I mean.
 2601.71,2604.71,,Subtitles extended & timed by UAR
-0.5,4.02,,font color="#ffff00" size=14>www.tvsubtitles.net</font>
+0.5,4.02,,"font color=""#ffff00"" size=14>www.tvsubtitles.net</font>"
 0.5,4.02,,end

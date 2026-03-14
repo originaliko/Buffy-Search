@@ -1,25 +1,24 @@
-2.02,4.09,,i><b></b></i>
-4.12,6.96,,i># I think I slip the net</i>
-6.99,10.33,,i># But I cut myself free</i>
-10.45,13.67,,i># I'm not losing yet</i>
-13.71,15.97,,i># So don't forget me</i>
-18.02,21.02,Lyrics,"i># I'll say it, replay it</i>"
+4.12,6.96,,# I think I slip the net
+6.99,10.33,,# But I cut myself free
+10.45,13.67,,# I'm not losing yet
+13.71,15.97,,# So don't forget me
+18.02,21.02,Lyrics,"# I'll say it, replay it"
 19.04,20.94,,"Passion,"
 22.57,24.41,Angelus,It lies in all of us...
 25.07,28.97,Angelus,"sleeping, waiting,"
 31.02,32.44,Angelus,"And though unwanted, unbidden..."
 32.6,36.81,Angelus,"it will stir, open its jaws..."
 36.99,39.92,Angelus,"and howl,"
-40.12,43.53,Angelus,i># I'm on my knees to pray</i>
-43.56,46.76,Lyrics,i># You'd think I learn by now</i>
-46.8,49.78,Lyrics,i># There's never an easy way</i>
-50.16,53.55,Lyrics,i># I'll get through somehow</i>
+40.12,43.53,Angelus,# I'm on my knees to pray
+43.56,46.76,Lyrics,# You'd think I learn by now
+46.8,49.78,Lyrics,# There's never an easy way
+50.16,53.55,Lyrics,# I'll get through somehow
 130.43,133.1,Angelus,It speaks to us...
 133.89,136.74,Angelus,"guides us,"
 137.23,139.48,Angelus,Passion rules us all...
 139.51,142.53,Angelus,"and we obey,"
 142.57,146.66,Angelus,What other choice do we have?
-198.41,204.73,Angelus,Passion"
+198.41,204.73,Angelus,"Passion"""
 231.76,233.4,Buffy,He was in my room.
 233.4,233.76,Giles,Who?
 233.79,237.9,Buffy,Angel. He was in my room last night.
@@ -45,8 +44,8 @@
 270.04,272.51,Xander,And those guys never chip in for gas.
 272.54,275.36,Buffy,"Giles, there has to be some sort of spell"
 272.54,275.36,Buffy,"to reverse the invitation, right?"
-275.39,281.02,Buffy,"Like a barrier, a ""no shoes, no pulse "
-275.39,281.02,Buffy,no service" kind of thing?
+275.39,281.02,Buffy,"Like a barrier, a ""no shoes, no pulse"
+275.39,281.02,Buffy,"no service"" kind of thing?"
 279.04,280.99,Cordelia,"Yeah, that works for a car, too?"
 280.99,283.25,Giles,"Yes, well, I, I, I can check on my..."
 283.28,285.04,Xander,Hello?
@@ -73,7 +72,7 @@
 338.12,341.2,Cordelia,or... cut her heart out?
 341.24,343.51,Cordelia,What? I'm trying to help.
 343.54,346.9,Giles,"Yes. Uh, look, it'sit's"
-343.54,346.9,Giles,classic battle strategy 
+343.54,346.9,Giles,classic battle strategy
 346.9,350.7,Giles,to throw one's opponent off his game.
 346.9,350.7,Giles,Hehehe's just trying to provoke you.
 350.74,355.49,Giles,"Uh, to taunt you, to, to goad you into,"
@@ -122,7 +121,7 @@
 426.09,427.94,Xander,"Hey, how come Buffy"
 426.09,427.94,Xander,doesn't get a snotty
 427.97,431.8,Xander,once again you boil it down
-427.97,431.8,Xander,to the simplest form" thing?
+427.97,431.8,Xander,"to the simplest form"" thing?"
 432.07,434.39,Xander,Watcher's pet!
 434.43,438.19,Jenny,Don't forget I need your sample
 434.43,438.19,Jenny,spreadsheets by the end of the week.
@@ -214,7 +213,7 @@
 646.97,648.52,Joyce,We're sort of dating.
 648.52,649.84,Buffy,Were dating. Um...
 650.11,653.83,Joyce,Going through a serious
-650.11,653.83,Joyce,off again" phase right now.
+650.11,653.83,Joyce,"off again"" phase right now."
 654.1,658.16,Joyce,Don't tell me. He's changed?
 654.1,658.16,Joyce,He's not the same guy you fell for?
 658.19,660.52,Buffy,In a nutshell.
@@ -338,7 +337,7 @@
 969.33,972.55,Shopkeeper,and... mystical revenge
 969.33,972.55,Shopkeeper,of past lovers.
 972.7,976.1,Shopkeeper,"Sad fact is,"
-972.7,976.1,Shopkeeper,Ouija boards and rabbits' feet 
+972.7,976.1,Shopkeeper,Ouija boards and rabbits' feet
 976.1,979.23,Shopkeeper,that's what pay the rent around here.
 980.42,983.88,Jenny,So how'd you hear about us?
 980.42,983.88,Jenny,My Uncle Enyos told me about you.
@@ -391,8 +390,8 @@
 1073.33,1074.57,Buffy,Siberia.
 1074.61,1077.34,Xander,"Well, good morning, ladies."
 1074.61,1077.34,Xander,What did you two do last night?
-1077.38,1081.49,Willow,We had kind of a "pyjama party
-1077.38,1081.49,Willow,sleepover with weapons" thing.
+1077.38,1081.49,Willow,"We had kind of a ""pyjama party"
+1077.38,1081.49,Willow,"sleepover with weapons"" thing."
 1081.53,1084.24,Xander,"Oh, and I don't suppose either of you"
 1081.53,1084.24,Xander,had the presence of mind
 1084.28,1086.78,Xander,to locate a camera to...
@@ -494,7 +493,6 @@
 1332.49,1335.43,Angelus,I know you understand.
 1335.47,1338.35,Joyce,Just leave us alone.
 1338.97,1344.5,Willow,His verbis consensus rescissus est.'
-1338.97,1344.5,Willow,
 1345.84,1349.94,Buffy,"Sorry, Angel. Changed the locks."
 1358.69,1360.24,Giles,Hello?
 1360.24,1361.02,Jenny,Oh!
@@ -531,7 +529,7 @@
 1493,1494.11,Angelus,I was invited.
 1496.12,1498.92,Angelus,The sign in front of the school:
 1499.25,1503.48,Angelus,"Formatia trans sicere educatorum, """
-1503.64,1506.53,Jenny,Enter all ye who seek knowledge."
+1503.64,1506.53,Jenny,"Enter all ye who seek knowledge."""
 1507.73,1511.08,Angelus,What can I say?
 1507.73,1511.08,Angelus,I'm a knowledge seeker.
 1511.49,1513.37,Jenny,"Angel, I've got good news."
@@ -554,7 +552,7 @@
 1566.72,1571.39,Angelus,Youyou put the secrets
 1566.72,1571.39,Angelus,to restoring my soul... here!
 1573.91,1577.04,Angelus,It comes out here!
-1580.38,1583.2,Angelus,The Ritual of Restoration."
+1580.38,1583.2,Angelus,"The Ritual of Restoration."""
 1583.71,1586.84,Angelus,Wow. This... This brings back memories.
 1586.87,1589.2,Jenny,"Wait, that's your..."
 1589.2,1590.59,Angelus,"Oh, my cure?"
@@ -647,27 +645,27 @@
 1903.19,1906.48,Joyce,and tell me I'm grossing you out.
 1908.32,1911.3,Buffy,You're not.
 1915.42,1917.46,Joyce,"Oh, well..."
-1918.55,1921.11,Joyce,I guess that was "the talk".
+1918.55,1921.11,Joyce,"I guess that was ""the talk""."
 1922.32,1924.64,Buffy,So how'd it go?
 1926.08,1929.14,Joyce,I don't know. It was my first.
 1953.97,1956.01,Giles,Hello?
 1959.52,1961.36,Giles,Jenny?
 1967.67,1970.2,Giles,It's me!
-1970.23,1974.04,Officer,i># Sei mia</i>
-1974.08,1977.24,Officer,i># V'aspettan gli amici</i>
-1977.7,1982.34,Officer,i># Già mi mandi via?</i>
-1983.35,1986.65,Officer,"i># Vorrei dir, ma non oso</i>"
-1987.11,1988.95,Giles,i># Di'!</i>
-1994.64,1998.57,Officer,i># O soave fanciulla</i>
-1999.03,2002.12,Officer,i># O dolce viso</i>
-2002.16,2008.34,Officer,i># di mite circonfuso alba lunar</i>
-2010.31,2014.83,Officer,i># In te ravviso</i>
-2015.96,2019.41,Officer,i># Il sogno ch'io vorrei</i>
-2019.41,2026.36,Officer,i># sempre sognar!</i>
-2026.62,2030.32,Officer,"i># Ah, tu sol</i>"
-2030.32,2034.68,Officer,"i># comandi, amor!</i>"
-2034.77,2036.65,Officer,i># Le dolcezze estreme</i>
-2036.69,2042.55,Officer,"i># Tu sol comandi, amor!</i>"
+1970.23,1974.04,Officer,# Sei mia
+1974.08,1977.24,Officer,# V'aspettan gli amici
+1977.7,1982.34,Officer,# Già mi mandi via?
+1983.35,1986.65,Officer,"# Vorrei dir, ma non oso"
+1987.11,1988.95,Giles,# Di'!
+1994.64,1998.57,Officer,# O soave fanciulla
+1999.03,2002.12,Officer,# O dolce viso
+2002.16,2008.34,Officer,# di mite circonfuso alba lunar
+2010.31,2014.83,Officer,# In te ravviso
+2015.96,2019.41,Officer,# Il sogno ch'io vorrei
+2019.41,2026.36,Officer,# sempre sognar!
+2026.62,2030.32,Officer,"# Ah, tu sol"
+2030.32,2034.68,Officer,"# comandi, amor!"
+2034.77,2036.65,Officer,# Le dolcezze estreme
+2036.69,2042.55,Officer,"# Tu sol comandi, amor!"
 2050.45,2052.75,Officer,"Mr. Giles, I need to ask you"
 2050.45,2052.75,Officer,to come with us.
 2052.96,2056.37,Officer,Just to... answer a few questions.
@@ -797,5 +795,5 @@
 2558.14,2560.43,,Angel is gone.
 2560.47,2563.54,,Nothing's ever gonna bring him back.
 2567.12,2572.2,,Subtitles extended & timed by UAR
-0.5,4.02,,font color="#ffff00" size=14>www.tvsubtitles.net</font>
+0.5,4.02,,"font color=""#ffff00"" size=14>www.tvsubtitles.net</font>"
 0.5,4.02,,end

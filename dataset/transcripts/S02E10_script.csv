@@ -25,7 +25,7 @@
 66.48,68.4,Buffy,To do what exactly?
 68.4,69.81,Kendra,To do my duty.
 69.85,72.74,Kendra,I'm here to kill vampires.
-152.32,155.77,Kendra,b>"What's My Line. Part 2"</b>
+152.32,155.77,Kendra,"""What's My Line. Part 2"""
 155.8,159.01,Giles,"And your watcher is Sam Zabuto, you say?"
 159.05,159.74,Kendra,"Yes, sir."
 159.74,160.98,Giles,We've never met.
@@ -51,8 +51,8 @@
 192.47,194.72,Buffy,As in person you hang with? Amigo?
 194.75,196.76,Kendra,I don't understand.
 196.79,201.02,Buffy,You try. I'm tapped.
-199.05,202.48,Giles,"Kendra, there are a few people "
-202.48,205.99,Giles,"civilians, if you like "
+199.05,202.48,Giles,"Kendra, there are a few people"
+202.48,205.99,Giles,"civilians, if you like"
 202.48,205.99,Giles,who know Buffy's identity.
 206.02,208.36,Giles,Willow is one of them.
 206.02,208.36,Giles,And they also...
@@ -283,7 +283,7 @@
 808.26,813.02,Giles,the handbook would be
 808.26,813.02,Giles,of no use in your case.
 811.04,813.05,Buffy,What do you mean
-811.04,813.05,Buffy,it would be of no use in my case"?
+811.04,813.05,Buffy,"it would be of no use in my case""?"
 813.05,814.6,Buffy,Whawhat's wrong with my case?
 814.64,818.33,Giles,"Kendra, um, perhaps you'd like to show me"
 814.64,818.33,Giles,"the, the part in, uh, Dramius Six where,"
@@ -315,7 +315,7 @@
 864.23,867.5,Willow,for the both of you.
 867.53,869.24,Buffy,"Yeah, but did you see"
 867.53,869.24,Buffy,how they were vibing?
-869.24,871.51,Buffy,Volume 6. Hahaha!"
+869.24,871.51,Buffy,"Volume 6. Hahaha!"""
 871.61,874.84,Willow,"Buffy, no one could replace you."
 874.84,877.56,Willow,You'll always be Giles' favourite.
 877.6,879.44,Buffy,I wonder.
@@ -329,7 +329,7 @@
 893.97,896.98,Buffy,Maybe after this thing
 893.97,896.98,Buffy,"with Spike and the assassins is over,"
 899.02,900.31,Buffy,"I could say ""Kendra, you slay."
-899.02,900.31,Buffy,I'm going to Disneyland."
+899.02,900.31,Buffy,"I'm going to Disneyland."""
 900.34,902.89,Willow,"But not forever, right?"
 902.93,905.84,Buffy,No. Disneyland would get boring
 902.93,905.84,Buffy,after a few months.
@@ -393,7 +393,7 @@
 1043.92,1047.26,Cordelia,"Xander, let's go!"
 1047.29,1050.44,Cordelia,OK? Let's go!
 1060.69,1064.29,Buffy,My tests say that I should look into
-1060.69,1064.29,Buffy,law enforcement...  duh! 
+1060.69,1064.29,Buffy,law enforcement...  duh!
 1064.3,1066.32,Willow,and environmental design.
 1066.35,1069.79,Willow,"Environmental design,"
 1066.35,1069.79,Willow,"that's landscaping, right?"
@@ -460,7 +460,7 @@
 1249.86,1251.75,Cordelia,Hi. Nice to meet you.
 1251.78,1256.02,Xander,"A slayer, huh?"
 1254.05,1257.14,Xander,"I knew this ""I'm the only one,"
-1254.05,1257.14,Xander,I'm the only one" thing
+1254.05,1257.14,Xander,"I'm the only one"" thing"
 1257.14,1259.21,Xander,was just an attentiongetter.
 1259.21,1260.91,Buffy,"Just say hello, Xander."
 1262.65,1264.85,Xander,Welcome. So...
@@ -567,7 +567,7 @@
 1503.48,1506.92,Kendra,dey also know you are de Slayer?
 1506.95,1507.3,Buffy,Yep.
 1507.3,1509.51,Kendra,Did anyone explain to you
-1509.55,1512.42,Kendra,what "secret identity" means?
+1509.55,1512.42,Kendra,"what ""secret identity"" means?"
 1512.46,1514.26,Buffy,"Nope. Must be in the handbook, right"
 1514.26,1516.32,Kendra,after the chapter on personality removal.
 1516.36,1518.55,Kendra,Be careful with that thing!
@@ -628,7 +628,7 @@
 1640.78,1643.48,Buffy,Mm... I guess that explains it.
 1643.51,1644.61,Kendra,Explains what?
 1644.61,1647.44,Buffy,"Oh, well... When we were fighting..."
-1647.48,1652.08,Buffy,You're amazing. Your technique 
+1647.48,1652.08,Buffy,You're amazing. Your technique
 1647.48,1652.08,Buffy,it's flawless. It's... better than mine.
 1652.12,1653.77,Kendra,I know.
 1653.8,1658.06,Buffy,Still... I would have kicked
@@ -660,8 +660,8 @@
 1710.77,1713.73,Buffy,That guy... The sleazoid
 1710.77,1713.73,Buffy,you nearly decked in the bar.
 1713.97,1716.07,Kendra,You tink he might help us?
-1716.07,1718.25,Buffy,I "tink" we might make him.
-1720.75,1723.35,Drusilla,Say "uncle".
+1716.07,1718.25,Buffy,"I ""tink"" we might make him."
+1720.75,1723.35,Drusilla,"Say ""uncle""."
 1723.38,1727.42,Drusilla,"Oh, that's right! You killed my uncle."
 1727.46,1729.9,Spike,"That's it, then. Off to church."
 1729.93,1732.15,Drusilla,It makes pretty colours.
@@ -689,7 +689,7 @@
 1779.15,1782.47,Drusilla,"Spike, no!"
 1787.39,1790.25,Spike,Oh... Right.
 1790.29,1793.37,Spike,Right... You almost got me.
-1793.4,1799.33,Spike,Aren't you a "throw himself to the lions"
+1793.4,1799.33,Spike,"Aren't you a ""throw himself to the lions"""
 1793.4,1799.33,Spike,sort of sap these days?
 1799.37,1802.93,Spike,"Well, the lions are onto you, baby."
 1802.96,1808.18,Spike,"If I kill you now, you go quick..."
@@ -826,9 +826,9 @@
 2329.37,2332.01,,"So, I'm wondering, do the other"
 2329.37,2332.01,,cookie animals feel sorta ripped?
 2332.05,2336.81,,"Like is the hippo going ""Hey, man. Where"
-2332.05,2336.81,,are my pants? I have my hippo dignity."
+2332.05,2336.81,,"are my pants? I have my hippo dignity."""
 2336.85,2340.17,,And the monkey's just
-2336.85,2340.17,,I mock you with my monkey pants!"
+2336.85,2340.17,,"I mock you with my monkey pants!"""
 2340.72,2343.17,,And then there's a big coup in the zoo.
 2343.21,2346.08,,The monkey is French?
 2343.21,2346.08,,All monkeys are French.
@@ -913,5 +913,5 @@
 2543.41,2546.36,,I'll see that you get strong again.
 2549.28,2552.44,,Like me.
 2555.35,2559.1,,Subtitles Extended & timed by: UAR
-0.5,4.02,,font color="#ffff00" size=14>www.tvsubtitles.net</font>
+0.5,4.02,,"font color=""#ffff00"" size=14>www.tvsubtitles.net</font>"
 0.5,4.02,,end

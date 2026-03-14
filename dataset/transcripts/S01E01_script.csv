@@ -24,7 +24,7 @@
 134.25,136.16,Darla,Are you sure?
 136.16,138.77,Boy,"Yes, I'm sure."
 139.79,141.85,Darla,OK.
-201.94,207.68,Boy,b>Welcome to the Hellmouth</b>
+201.94,207.68,Boy,Welcome to the Hellmouth
 248.94,250.82,Joyce,Buffy?
 252.4,254.05,Buffy,"I'm up, Mom!"
 254.08,257.05,Joyce,Don't wanna be late for your first day!
@@ -52,7 +52,7 @@
 332.88,335.94,Xander,Please be my study buddy.
 335.97,337.78,Willow,"Well, what's in it for me?"
 337.78,338.83,Xander,A shiny nickel.
-338.91,342.54,Willow,OK. Do you have "Theories in Trig"?
+338.91,342.54,Willow,"OK. Do you have ""Theories in Trig""?"
 338.91,342.54,Willow,You should check it out.
 342.57,343.71,Xander,Check it out?
 343.79,346.36,Willow,From the library. Where the books live.
@@ -96,7 +96,7 @@
 424.87,426.92,Mr. Flutie,Buffy. Don't worry.
 427,429.73,Mr. Flutie,"Any other school, they might say"
 429.74,433.02,Mr. Flutie,"Watch your step,"""
-429.74,433.02,Mr. Flutie,or "We'll be watching you."
+429.74,433.02,Mr. Flutie,"or ""We'll be watching you."""
 433.06,436.4,Mr. Flutie,But that's just not the way here.
 436.59,441.39,Mr. Flutie,We want to service your needs
 436.59,441.39,Mr. Flutie,and help you to respect our needs.
@@ -116,7 +116,7 @@
 485.22,488.23,Xander,both... go there.
 489.06,490.36,Buffy,Great!
 490.44,492.52,Buffy,It was nice to meet you.
-495.69,498.65,Xander,We both go to school." Very suave.
+495.69,498.65,Xander,"We both go to school."" Very suave."
 498.74,501.62,Xander,Very not pathetic. Oh! Hey!
 502.66,506.29,Xander,Hey! You forgot your stake.
 513.25,518.59,Teacher,It's estimated that about 25 million people
@@ -165,7 +165,7 @@
 608.72,611.85,Cordelia,No wonder you're
 608.72,611.85,Cordelia,such a guymagnet. Are you done?
 617.27,620.82,Cordelia,"If you wanna fit in here,"
-617.27,620.82,Cordelia,the first rule is "know your losers".
+617.27,620.82,Cordelia,"the first rule is ""know your losers""."
 620.9,624.99,Cordelia,"Once you can identify them all by sight,"
 620.9,624.99,Cordelia,they're a lot easier to avoid.
 632.04,636.17,Cordelia,"And if you're not swamped with catching up,"
@@ -195,7 +195,7 @@
 704.2,707.66,Giles,I'm Mr Giles. The librarian.
 707.74,709.83,Giles,I was told you were coming.
 710.41,714.16,Buffy,"Great. So, um, I'm gonna need"
-710.41,714.16,Buffy,Perspectives on 20thCentury..."
+710.41,714.16,Buffy,"Perspectives on 20thCentury..."""
 714.25,716.58,Giles,I know what you're after.
 721.13,723.63,Buffy,That's not what I'm looking for.
 724.68,726.16,Giles,Are you sure?
@@ -323,7 +323,7 @@
 995.03,999.2,Buffy,He's got two little holes in his neck
 995.03,999.2,Buffy,and all his blood's been drained.
 999.29,1002.58,Buffy,Isn't that bizarre?
-999.29,1002.58,Buffy,Aren't you just going "Oooh..."?
+999.29,1002.58,Buffy,"Aren't you just going ""Oooh...""?"
 1003.75,1005.5,Giles,I was afraid of this.
 1005.5,1006.75,Buffy,"Well, I wasn't."
 1006.83,1011.21,Buffy,It's my first day. I was afraid that
@@ -432,7 +432,7 @@
 1269.85,1272.15,Luke,Amen!
 1278.03,1280.61,Buffy,Hi! I'm an enormous slut!
 1281.15,1284.57,Buffy,Hello. Would you like a copy
-1281.15,1284.57,Buffy,of "The Watchtower"?
+1281.15,1284.57,Buffy,"of ""The Watchtower""?"
 1285.2,1287.28,Buffy,I used to be so good at this.
 1287.37,1288.76,Joyce,"Hi, hon."
 1288.76,1289.45,Buffy,Hey!
@@ -538,11 +538,11 @@
 1697.49,1700.7,Willow,"Oh, that's... that's OK."
 1697.49,1700.7,Willow,You don't have to come back.
 1700.79,1702.87,Buffy,I'll be back in a minute.
-1704.67,1706.88,Willow,Seize the moment."
+1704.67,1706.88,Willow,"Seize the moment."""
 1726.02,1729.11,Buffy,So... you like to party with students?
 1726.02,1729.11,Buffy,Ain't that skanky?
 1729.19,1731.57,Giles,"Oh, right! This is me having fun."
-1731.65,1735.28,Giles,Watching "clown hair" prance about
+1731.65,1735.28,Giles,"Watching ""clown hair"" prance about"
 1731.65,1735.28,Giles,is hardly my idea of a party.
 1735.36,1738.53,Giles,I'd rather be at home
 1735.36,1738.53,Giles,with a cup of Bovril and a good book.
@@ -562,7 +562,7 @@
 1760.1,1766.06,Buffy,sort of way. I figured you two were buds.
 1766.6,1768.19,Buffy,No.
 1768.98,1771.65,Giles,The Harvest... Did he say anything else?
-1771.73,1776.32,Buffy,Something about the "mouth of Hell".
+1771.73,1776.32,Buffy,"Something about the ""mouth of Hell""."
 1771.73,1776.32,Buffy,I really didn't like him.
 1786.87,1792.38,Giles,Look at them. Throwing themselves about.
 1786.87,1792.38,Giles,Unaware of the danger that surrounds them.
@@ -575,7 +575,7 @@
 1806.89,1810.65,Cordelia,Mom doesn't even get out of bed any more.
 1806.89,1810.65,Cordelia,The doctor says it's EpsteinBarr.
 1810.73,1815.65,Cordelia,"I'm, like, ""It's chronic hepatitis"
-1810.73,1815.65,Cordelia,or at least chronic fatigue syndrome."
+1810.73,1815.65,Cordelia,"or at least chronic fatigue syndrome."""
 1815.74,1818.82,Cordelia,"I mean, nobody cool"
 1815.74,1818.82,Cordelia,has EpsteinBarr any more.
 1818.91,1820.39,Jesse,"Hey, Cordelia!"
@@ -782,17 +782,16 @@
 2479.78,2483.04,Luke,You think you can stop me? Stop us?
 2487.71,2490.71,Luke,You have no idea what you're dealing with.
 2495.55,2501.59,Luke,"And like a plague of boils,"
-2495.55,2501.59,Luke,the race of Man covered the Earth."
+2495.55,2501.59,Luke,"the race of Man covered the Earth."""
 2502.26,2507.18,Luke,But on the third day of the newest light
 2502.26,2507.18,Luke,will come the Harvest
 2507.27,2510.69,Luke,and the blood of men will flow as wine
 2511.27,2515.07,Luke,when the Master
-2511.27,2515.07,Luke,will walk among them once more."
-2516.69,2520.36,Luke,The Earth will belong to the Old Ones."
-2522.62,2527,Luke,And Hell itself will come to town."
+2511.27,2515.07,Luke,"will walk among them once more."""
+2516.69,2520.36,Luke,"The Earth will belong to the Old Ones."""
+2522.62,2527,Luke,"And Hell itself will come to town."""
 2554.61,2556.61,,Amen.
 2563.07,2568.59,,Subtitles by: Claire Bates
 2563.07,2568.59,,Adjusted by: UAR
-2603.08,2605.31,,
-0.5,4.02,,font color="#ffff00" size=14>www.tvsubtitles.net</font>
+0.5,4.02,,"font color=""#ffff00"" size=14>www.tvsubtitles.net</font>"
 0.5,4.02,,end

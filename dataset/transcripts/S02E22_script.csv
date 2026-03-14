@@ -30,10 +30,10 @@
 60.57,64.27,Officer#2,"Homicide suspect. Female, blond,"
 60.57,64.27,Officer#2,approximately sixteen years old.
 64.29,67.07,Officer#2,Suspect is very dangerous.
-118.03,123.47,Officer#2,b>"Becoming"
-118.03,123.47,Officer#2,Part 2</b>
-123.49,127.09,Officer#2,"i>Dr. Michaels,"
-123.49,127.09,Officer#2,"report to 91, please.</i>"
+118.03,123.47,Officer#2,"""Becoming"""
+118.03,123.47,Officer#2,Part 2
+123.49,127.09,Officer#2,"Dr. Michaels,"
+123.49,127.09,Officer#2,"report to 91, please."
 155.32,158.64,Buffy,Xander! Oh!
 159.67,162.68,Buffy,I was so worried. I didn't know
 159.67,162.68,Buffy,if you were OK. The... The cops were...
@@ -195,7 +195,7 @@
 546.43,548.76,Buffy,"OK, you do remember"
 546.43,548.76,Buffy,"that you're a vampire, right?"
 548.81,552.28,Spike,We like to talk big. Vampires do.
-552.34,554.92,Spike,I'm going to destroy the world."
+552.34,554.92,Spike,"I'm going to destroy the world."""
 555.07,557.14,Spike,It's just toughguy talk.
 557.16,560.72,Spike,Struttin' around with your friends
 557.16,560.72,Spike,over a... pint of blood.
@@ -347,7 +347,7 @@
 1022.57,1024.92,Joyce,Have we met?
 1025.08,1028.22,Spike,Er... You hit me with an axe one time.
 1028.83,1031.83,Spike,"Remember, uh,"
-1028.83,1031.83,Spike,Get the hell away from my daughter"?
+1028.83,1031.83,Spike,"Get the hell away from my daughter""?"
 1032.11,1033.7,Joyce,Oh.
 1038.58,1041.62,Joyce,"So, do you, uh... live here in town?"
 1043.14,1044.89,Joyce,Is Willow all right?
@@ -420,8 +420,8 @@
 1160.55,1162.66,Buffy,"I'm sorry, mum,"
 1160.55,1162.66,Buffy,but I don't have time for this.
 1162.68,1165.1,Joyce,"No, I am tired of"
-1162.68,1165.1,Joyce,I don't have time" or...
-1165.13,1168.11,Joyce,You wouldn't understand".
+1162.68,1165.1,Joyce,"I don't have time"" or..."
+1165.13,1168.11,Joyce,"You wouldn't understand""."
 1165.13,1168.11,Joyce,I am your mother
 1168.13,1171.15,Joyce,and you will make time to explain yourself.
 1171.39,1173.87,Buffy,I told you. I'm a vampire slayer.
@@ -474,7 +474,7 @@
 1271.72,1273.36,Xander,"Look, it's not a good idea."
 1273.36,1275.25,Willow,There's no use arguing with me.
 1275.29,1277.59,Willow,Do you see my resolve face?
-1277.62,1280.17,Willow,You've seen it before 
+1277.62,1280.17,Willow,You've seen it before
 1277.62,1280.17,Willow,you know what it means.
 1280.29,1284.49,Willow,This can help Buffy.
 1280.29,1284.49,Willow,"If we turn Angel back soon enough,"
@@ -600,7 +600,7 @@
 1716.18,1718.31,Drusilla,I was in the moment.
 1731.28,1733.17,Buffy,Whistler.
 1733.17,1735.41,Buffy,"What did you mean,"
-1733.17,1735.41,Buffy,The sword isn't enough?"
+1733.17,1735.41,Buffy,"The sword isn't enough?"""
 1735.44,1738.56,Whistler,"You know, raidin' an Englishman's fridge"
 1735.44,1738.56,Whistler,is like dating a nun.
 1738.79,1740.54,Whistler,You're never gonna get the good stuff.
@@ -638,14 +638,10 @@
 1832.13,1835.93,Xander,She... told me to tell you...
 1836.94,1839.18,Buffy,Tell me what?
 1840.07,1845.02,Xander,Kick his ass.
-1848.92,1852.83,Xander,"i>Acathla, mundatus sum."
-1848.92,1852.83,Xander,i>
-1853.3,1855.18,Xander,i>Pro te necavi.
-1853.3,1855.18,Xander,i>
-1855.22,1860.06,Xander,i>Sanguinem meum pro te effundam...
-1855.22,1860.06,Xander,i>
-1860.19,1865.15,Xander,i>quo me dignum... esse demonstram.
-1860.19,1865.15,Xander,i>
+1848.92,1852.83,Xander,"Acathla, mundatus sum."
+1853.3,1855.18,Xander,Pro te necavi.
+1855.22,1860.06,Xander,Sanguinem meum pro te effundam...
+1860.19,1865.15,Xander,quo me dignum... esse demonstram.
 1865.36,1866.8,Willow,Are we ready?
 1866.8,1869.02,Cordelia,Stinky herbs are go!
 1869.11,1871.59,Oz,Did I mention I didn't take Latin?
@@ -668,10 +664,8 @@
 1928.55,1930.59,Spike,"Painful, isn't it?"
 1949.82,1952.07,Spike,"I don't wanna hurt you, baby."
 1954.82,1956.66,Spike,Doesn't mean I won't.
-1959.2,1961.2,Oz,i>Quod perditum est...
-1959.2,1961.2,Oz,i>
-1961.7,1963.37,Oz,i>invenietur!
-1961.7,1963.37,Oz,i>
+1959.2,1961.2,Oz,Quod perditum est...
+1961.7,1963.37,Oz,invenietur!
 1963.41,1966.4,Willow,"Not dead, nor not of the living."
 1966.43,1969.72,Willow,"Spirits of the interregnum, I call."
 1970.76,1973.91,Xander,Giles! Giles!
@@ -699,16 +693,13 @@
 2093.81,2096.19,Willow,I call on...
 2097.56,2098.57,Oz,Willow?
 2098.57,2100.15,Cordelia,Are you OK?
-2101.94,2103.94,Willow,"i>Te implor Doamne,"
-2101.94,2103.94,Willow,i>
-2103.94,2107.27,Willow,i>nu ignora accasta rugaminte!
-2103.94,2107.27,Willow,i>
+2101.94,2103.94,Willow,"Te implor Doamne,"
+2103.94,2107.27,Willow,nu ignora accasta rugaminte!
 2107.57,2109,Oz,Is this a good thing?
-2109,2111.45,Willow,"i> Nici mort, nici al fiintei...</i>"
+2109,2111.45,Willow,"Nici mort, nici al fiintei..."
 2111.48,2112.2,Cordelia,Hey... speak English!
-2112.2,2113.47,Willow,i> Lasa orbita sa fie vasul carei</i>
-2113.47,2117.55,Willow,"i>va transporta, sufletul la el."
-2113.47,2117.55,Willow,i>
+2112.2,2113.47,Willow,Lasa orbita sa fie vasul carei
+2113.47,2117.55,Willow,"va transporta, sufletul la el."
 2133.65,2136.4,Spike,"Sorry, baby."
 2133.65,2136.4,Spike,I wish there was another way.
 2147.41,2150.1,Spike,"God, he's gonna kill her."
@@ -719,9 +710,8 @@
 2166.54,2168.59,Angelus,Take all that away...
 2168.59,2170.83,Angelus,and what's left?
 2173.69,2175.4,Buffy,Me.
-2211.96,2215.95,Willow,i>Asa sa fie! Asa sa fie! Acum!
-2211.96,2215.95,Willow,i>
-2217.89,2219.77,Willow,i>Acum! </i>
+2211.96,2215.95,Willow,Asa sa fie! Asa sa fie! Acum!
+2217.89,2219.77,Willow,Acum!
 2241.68,2244.68,Angel,Buffy?
 2249.39,2252.05,Angel,What's going on?
 2261.28,2265.06,Angel,Where are we?
@@ -740,23 +730,22 @@
 2341.98,2346.12,Buffy,I love you.
 2348.24,2351.15,Buffy,Close your eyes.
 2379.2,2381.24,Angel,Buffy?
-2398.63,2402.04,Angel,b><i></b></i>
-2402.04,2405.12,Lyrics,i># The winter here's cold</i>
-2405.17,2407.69,Lyrics,i># And bitter</i>
-2407.72,2412.9,Lyrics,i># It's chilled us to the bone</i>
-2413.93,2418.77,Lyrics,i># We haven't seen the sun for weeks</i>
-2418.8,2423.88,Lyrics,"i># Too long, too far from home</i>"
-2424.15,2428.43,Lyrics,i># I feel just like I'm sinking</i>
+2402.04,2405.12,Lyrics,# The winter here's cold
+2405.17,2407.69,Lyrics,# And bitter
+2407.72,2412.9,Lyrics,# It's chilled us to the bone
+2413.93,2418.77,Lyrics,# We haven't seen the sun for weeks
+2418.8,2423.88,Lyrics,"# Too long, too far from home"
+2424.15,2428.43,Lyrics,# I feel just like I'm sinking
 2428.53,2429.41,Joyce,Buffy?
-2429.41,2434.72,Lyrics,i> # And I claw for solid ground</i>
-2435.85,2440.89,Lyrics,i># I'm pulled down by the undertow</i>
-2441.04,2445.95,Lyrics,i># I never thought I could feel so low</i>
-2446.05,2450.75,Lyrics,"i># Oh darkness, I feel like</i>"
-2450.75,2455.29,Lyrics,i># letting go</i>
-2456.68,2462.21,Lyrics,i># If all of the strength
-2456.68,2462.21,Lyrics,and all of the courage</i>
-2462.25,2467.6,Lyrics,i># Come and lift me from this place</i>
-2467.61,2469.99,Lyrics,i># I know I can love you</i>
+2429.41,2434.72,Lyrics,# And I claw for solid ground
+2435.85,2440.89,Lyrics,# I'm pulled down by the undertow
+2441.04,2445.95,Lyrics,# I never thought I could feel so low
+2446.05,2450.75,Lyrics,"# Oh darkness, I feel like"
+2450.75,2455.29,Lyrics,# letting go
+2456.68,2462.21,Lyrics,# If all of the strength
+2456.68,2462.21,Lyrics,and all of the courage
+2462.25,2467.6,Lyrics,# Come and lift me from this place
+2467.61,2469.99,Lyrics,# I know I can love you
 2469.99,2470.56,Giles,"Willow,"
 2470.59,2472.25,Giles,are you sure
 2470.59,2472.25,Giles,you should be out of bed?
@@ -788,24 +777,24 @@
 2512.52,2514.83,Cordelia,We still have school.
 2514.83,2515.38,Willow,Yeah.
 2515.49,2517.43,Willow,She'll be here in a while.
-2517.49,2521.4,The camera pans down to a sign that reads,i># Everything we say and do</i>
-2521.75,2525.81,The camera pans down to a sign that reads,i># Hurts us all the more</i>
-2525.84,2528.96,The camera pans down to a sign that reads,i># It's just that we stayed</i>
-2529.25,2532.22,The camera pans down to a sign that reads,i># Too long</i>
-2532.25,2537.47,The camera pans down to a sign that reads,i># In the same old sickly skin</i>
-2538.64,2542.57,The camera pans down to a sign that reads,i># I'm pulled down by the undertow</i>
-2543.64,2548.76,The camera pans down to a sign that reads,i># I never thought I could feel so low</i>
-2548.79,2551.45,The camera pans down to a sign that reads,"i># And, oh, darkness,</i>"
-2551.45,2557.77,The camera pans down to a sign that reads,i># I feel like letting go</i>
-2559.91,2564.89,The camera pans down to a sign that reads,i># If all of the strength
-2559.91,2564.89,The camera pans down to a sign that reads,and all of the courage</i>
-2564.93,2570.46,The camera pans down to a sign that reads,i># Come and lift me from this place</i>
-2570.55,2576.08,The camera pans down to a sign that reads,i># I know I could love you
-2570.55,2576.08,The camera pans down to a sign that reads,much better than this</i>
-2577.43,2580.83,The camera pans down to a sign that reads,i># Full of grace</i>
-2592.44,2599.43,The camera pans down to a sign that reads,i># I know I could love you
-2592.44,2599.43,The camera pans down to a sign that reads,much better than this</i>
-2602.45,2605.77,Lyrics,i># It's better this way</i>
+2517.49,2521.4,The camera pans down to a sign that reads,# Everything we say and do
+2521.75,2525.81,The camera pans down to a sign that reads,# Hurts us all the more
+2525.84,2528.96,The camera pans down to a sign that reads,# It's just that we stayed
+2529.25,2532.22,The camera pans down to a sign that reads,# Too long
+2532.25,2537.47,The camera pans down to a sign that reads,# In the same old sickly skin
+2538.64,2542.57,The camera pans down to a sign that reads,# I'm pulled down by the undertow
+2543.64,2548.76,The camera pans down to a sign that reads,# I never thought I could feel so low
+2548.79,2551.45,The camera pans down to a sign that reads,"# And, oh, darkness,"
+2551.45,2557.77,The camera pans down to a sign that reads,# I feel like letting go
+2559.91,2564.89,The camera pans down to a sign that reads,# If all of the strength
+2559.91,2564.89,The camera pans down to a sign that reads,and all of the courage
+2564.93,2570.46,The camera pans down to a sign that reads,# Come and lift me from this place
+2570.55,2576.08,The camera pans down to a sign that reads,# I know I could love you
+2570.55,2576.08,The camera pans down to a sign that reads,much better than this
+2577.43,2580.83,The camera pans down to a sign that reads,# Full of grace
+2592.44,2599.43,The camera pans down to a sign that reads,# I know I could love you
+2592.44,2599.43,The camera pans down to a sign that reads,much better than this
+2602.45,2605.77,Lyrics,# It's better this way
 2606.08,2609.5,,Subtitles corrected and extended by UAR
-0.5,4.02,,font color="#ffff00" size=14>www.tvsubtitles.net</font>
+0.5,4.02,,"font color=""#ffff00"" size=14>www.tvsubtitles.net</font>"
 0.5,4.02,,end

@@ -118,7 +118,7 @@
 295.82,297.73,Xander,Why don't you pick on
 295.82,297.73,Xander,someone your own species?
 297.73,300.69,Kyle,"What, are you gonna get in my face?"
-392.58,398.41,Willow,b>"The Pack"</b>
+392.58,398.41,Willow,"""The Pack"""
 402.17,404.8,Willow,I thought Xander would be here by now.
 404.88,407.63,Buffy,That'd make him on time.
 404.88,407.63,Buffy,We couldn't have that.
@@ -183,20 +183,19 @@
 528.11,531.78,Buffy,I'm actually known for it.
 531.86,533.32,Xander,That's OK.
 534.99,539.16,Buffy,And the weirdbehavior award goes to...
-539.16,544.02,Buffy,i><b></b></i>
-544.02,543.73,Lyrics,"i># Oh, Reluctant Man,</i>"
+544.02,543.73,Lyrics,"# Oh, Reluctant Man,"
 543.76,545.46,Buffy,"Oh, great! It's the winged monkeys."
-545.46,547.41,Lyrics,"i># who's afraid to touch the world,</i>"
-547.45,550.44,Lyrics,i># why are you hiding?</i>
-550.44,552.56,Lyrics,i># What is the base of all your fears?</i>
-552.56,558.62,Lyrics,i># Do you find yourself
-552.56,558.62,Lyrics,in a cold cruel world?</i>
-558.62,563.16,Lyrics,"i># Dark and desperate,"
-558.62,563.16,Lyrics,scared and lonely?</i>
-563.19,564.62,Buffy,"i># Selfish Man,"
-564.62,567.65,Lyrics,"who never gave to no one else,</i>"
-567.65,570.42,Lyrics,i># what are you holding?</i>
-570.42,572.83,Lyrics,i># Is it worth the price you pay?</i>
+545.46,547.41,Lyrics,"# who's afraid to touch the world,"
+547.45,550.44,Lyrics,# why are you hiding?
+550.44,552.56,Lyrics,# What is the base of all your fears?
+552.56,558.62,Lyrics,# Do you find yourself
+552.56,558.62,Lyrics,in a cold cruel world?
+558.62,563.16,Lyrics,"# Dark and desperate,"
+558.62,563.16,Lyrics,scared and lonely?
+563.19,564.62,Buffy,"# Selfish Man,"
+564.62,567.65,Lyrics,"who never gave to no one else,"
+567.65,570.42,Lyrics,# what are you holding?
+570.42,572.83,Lyrics,# Is it worth the price you pay?
 570.42,572.83,Lyrics,"You know,"
 572.86,575.93,Kyle,I don't understand
 572.86,575.93,Kyle,why you're sitting at our table.
@@ -249,7 +248,7 @@
 706.11,709.65,Willow,you end up being the guy at the pizza place
 706.11,709.65,Willow,that sweeps the floor and says:
 709.74,710.85,Xander,"Hey, kids, where's"
-710.85,712.75,Willow,the cool parties this weekend?"
+710.85,712.75,Willow,"the cool parties this weekend?"""
 712.78,714.26,Xander,We've been through this.
 714.26,715.67,Willow,Do you have a headache?
 715.75,719.34,Xander,Yeah. And I think
@@ -324,19 +323,18 @@
 1029.59,1032.3,Boy#1,Hey! That is not cool.
 1040.26,1041.31,Boy#1,Hey!
 1067.79,1069.88,Xander,Let's do lunch.
-1077.89,1082.81,Willow,i><b></b></i>
-1096.56,1102.49,Lyrics,i># I'm sure this rain won't last</i>
-1104.06,1110.5,Lyrics,i># I'm sure its time is up</i>
-1111.55,1118.34,Lyrics,i># Though it's pouring down</i>
-1118.98,1123.4,Lyrics,i># I'm sure this rain won't last</i>
-1123.43,1127.59,Lyrics,i># And it falls on Job's eyes</i>
-1127.59,1131.46,Lyrics,i># This water of doubt</i>
-1131.46,1136.01,Lyrics,i># And I'm wading in lies</i>
-1136.01,1139.36,Lyrics,i># It's wearing me out</i>
-1139.36,1143.37,Lyrics,"i># But if you want it, alright</i>"
-1143.38,1147.46,Lyrics,"i># I'll buy it, I'll buy it,</i>"
-1147.46,1151.74,Lyrics,"i># I'll buy it, I'll buy it,</i>"
-1151.74,1155.34,Lyrics,"i># I'll buy it, I'll...</i>"
+1096.56,1102.49,Lyrics,# I'm sure this rain won't last
+1104.06,1110.5,Lyrics,# I'm sure its time is up
+1111.55,1118.34,Lyrics,# Though it's pouring down
+1118.98,1123.4,Lyrics,# I'm sure this rain won't last
+1123.43,1127.59,Lyrics,# And it falls on Job's eyes
+1127.59,1131.46,Lyrics,# This water of doubt
+1131.46,1136.01,Lyrics,# And I'm wading in lies
+1136.01,1139.36,Lyrics,# It's wearing me out
+1139.36,1143.37,Lyrics,"# But if you want it, alright"
+1143.38,1147.46,Lyrics,"# I'll buy it, I'll buy it,"
+1147.46,1151.74,Lyrics,"# I'll buy it, I'll buy it,"
+1151.74,1155.34,Lyrics,"# I'll buy it, I'll..."
 1172.55,1175.91,Willow,"I've known him my whole life, Buffy."
 1175.95,1180.61,Willow,"We haven't always been close,"
 1175.95,1180.61,Willow,but he's never...
@@ -430,7 +428,7 @@
 1376.78,1380.16,Buffy,of the animal kingdom.
 1380.24,1384.37,Willow,Why couldn't Xander be possessed
 1380.24,1384.37,Willow,by a puppy or some ducks?
-1384.45,1386.53,Buffy,That's assuming "possession" is the right word.
+1384.45,1386.53,Buffy,"That's assuming ""possession"" is the right word."
 1386.53,1389.78,Buffy,"Oh, I'll say it is."
 1386.53,1389.78,Buffy,The Masai of the Serengeti have spoken of
 1389.82,1392.66,Buffy,animal possession for generations now.
@@ -790,6 +788,5 @@
 2633.67,2637.65,Xander,"Shoot me, stuff me, mount me."
 2641.22,2652.28,,Subtitles by: Claire Bates
 2641.22,2652.28,,Corrections & timing by: UAR
-2688.2,2691.76,,
-0.5,4.02,,font color="#ffff00" size=14>www.tvsubtitles.net</font>
+0.5,4.02,,"font color=""#ffff00"" size=14>www.tvsubtitles.net</font>"
 0.5,4.02,,end

@@ -23,7 +23,7 @@
 50.52,54.39,Joyce,and then get our food.
 54.42,56.8,Joyce,You go to the tailor and pick up my outfit
 56.8,57.94,Buffy,from Everyday Woman.
-57.97,58.74,Buffy,Everyday Woman"?
+57.97,58.74,Buffy,"Everyday Woman""?"
 58.74,60,Joyce,Mmhm. There's the receipt.
 62.02,62.3,Buffy,Why didn't you
 62.02,62.3,Buffy,just go to Muumuus R Us?
@@ -70,7 +70,7 @@
 250.63,253.26,Buffy,Saving the world from vampires?
 254.77,258.63,Joyce,"I swear, sometimes I don't know"
 254.77,258.63,Joyce,what goes on in your head.
-312.54,315.4,Joyce,b>"Bad Eggs"</b>
+312.54,315.4,Joyce,"""Bad Eggs"""
 319.95,320.9,Cordelia,Xander?
 320.9,322.11,Xander,Shhhshsh.
 322.69,326.09,Cordelia,It's just that... I'm worried
@@ -119,7 +119,7 @@
 417.08,420.06,Cordelia,"Well, that depends."
 417.08,420.06,Cordelia,Are you talking about sex
 420.06,423.79,Cordelia,"in the car, or out of the car?"
-420.06,423.79,Cordelia,Because I have a friend  not me 
+420.06,423.79,Cordelia,Because I have a friend  not me
 423.82,425.82,Cordelia,that was in a Miata parked on top of
 425.82,428.04,Mr. Whitmore,the hill and she kicked the gearshift...
 428.08,431.25,Mr. Whitmore,"Yeah, I was thinking of something"
@@ -161,7 +161,7 @@
 506.17,509.45,Buffy,Vampire issues.
 506.17,509.45,Buffy,Did Mr. Whitmore notice I was tardy?
 509.48,512.12,Xander,I think the word you're
-509.48,512.12,Xander,searching for is "absent".
+509.48,512.12,Xander,"searching for is ""absent""."
 512.13,514.19,Willow,Tardy people show.
 514.19,514.88,Buffy,Right.
 514.92,520.21,Willow,"And yes, he did notice,"
@@ -504,7 +504,7 @@
 1582.08,1585.06,Joyce,"much better than that, young lady."
 1585.06,1586.47,Buffy,I had a bad dream?
 1586.47,1587.02,Joyce,"Oh, no,"
-1587.06,1589.76,Joyce,you're about to have a bad dream 
+1587.06,1589.76,Joyce,you're about to have a bad dream
 1587.06,1589.76,Joyce,a dream that you're grounded
 1589.76,1592.1,Joyce,for the rest of your natural life.
 1589.76,1592.1,Joyce,Which means...
@@ -512,7 +512,7 @@
 1592.13,1595.86,Joyce,"no Bronze, no nothing."
 1595.86,1598.22,Joyce,Not until I say so. Do you understand?
 1598.26,1599.57,Buffy,"Yeah, but I think you..."
-1599.57,1600.93,Joyce,"Now, school ends at 2:30 "
+1599.57,1600.93,Joyce,"Now, school ends at 2:30"
 1600.96,1603.65,Joyce,"I want you to go to the library at 2:33,"
 1603.69,1607.61,Joyce,and study until I pick you up there
 1603.69,1607.61,Joyce,at 5:30. Understood?
@@ -527,7 +527,7 @@
 1635.84,1638.06,Cordelia,So I'm totally not wearing it.
 1635.84,1638.06,Cordelia,"Then I thought ""Hey,"""
 1638.1,1639.4,Cordelia,I'm the one who started this
-1639.4,1641.25,Buffy,nationwide craze. What am I ashamed of?"
+1639.4,1641.25,Buffy,"nationwide craze. What am I ashamed of?"""
 1641.28,1645.46,Buffy,"OK, Soliloquy Girl."
 1641.28,1645.46,Buffy,I just wanted to ask about your egg.
 1645.49,1646.25,Cordelia,My egg?
@@ -536,7 +536,7 @@
 1649.9,1650.95,Cordelia,It's in my bear.
 1651.04,1654.78,Buffy,So... your egg isn't acting
 1651.04,1654.78,Buffy,odd or anything?
-1654.81,1656.6,Buffy,It isn't "acting" anything.
+1654.81,1656.6,Buffy,"It isn't ""acting"" anything."
 1656.6,1659.06,Cordelia,"It's an egg, Buffy. It doesn't emote."
 1659.1,1662.99,Cordelia,Shanice! Is that your real hair?
 1659.1,1662.99,Cordelia,Yeah...
@@ -560,13 +560,13 @@
 1707.54,1711.2,Buffy,that a day without an autopsy
 1711.23,1713.48,Buffy,is like a day without sunshine.
 1716.03,1718.07,Xander,Hey.
-1726.68,1728.69,Xander,Can I just say... "gyugh!"
-1729.19,1732.52,Buffy,I see your "gyugh"
-1729.19,1732.52,Buffy,and raise you a "nyagh!"
+1726.68,1728.69,Xander,"Can I just say... ""gyugh!"""
+1729.19,1732.52,Buffy,"I see your ""gyugh"""
+1729.19,1732.52,Buffy,"and raise you a ""nyagh!"""
 1732.55,1733.13,Cordelia,What is it?
 1733.13,1734.97,Xander,"We don't know what it is, Cordelia."
 1737.02,1737.26,Cordelia,That's why we're here. Capeesh?
-1737.29,1740.02,Cordelia,Capeesh"? What are you 
+1737.29,1740.02,Cordelia,"Capeesh""? What are you"
 1737.29,1740.02,Cordelia,world traveler now?
 1741.02,1743.19,Buffy,"Hey, where's Giles?"
 1741.02,1743.19,Buffy,I know he won't wanna miss this.
@@ -589,7 +589,7 @@
 1769.16,1771.78,Xander,"So, now I guess, uh, we know"
 1769.16,1771.78,Xander,what happened to Mr. Whitmore.
 1771.82,1773.85,Cordelia,He saw this and ran away?
-1773.85,1775.79,Buffy,Try "bestcase scenario".
+1773.85,1775.79,Buffy,"Try ""bestcase scenario""."
 1775.82,1778.67,Willow,It's possible that
 1775.82,1778.67,Willow,Mr. Whitmore wasn't harmed.
 1778.71,1782.34,Willow,Maybe the offspring simply used him
@@ -621,12 +621,12 @@
 1911.98,1917.15,Joyce,"They can be such a... Oh,"
 1911.98,1917.15,Joyce,"I don't want to say ""burden"", but, uh..."
 1918.51,1920.75,Joyce,"Actually, I kind of"
-1918.51,1920.75,Joyce,do want to say "burden".
+1918.51,1920.75,Joyce,"do want to say ""burden""."
 1920.75,1922.6,Giles,Feel free.
 1922.63,1925.36,Joyce,"Oh, they're just so irresponsible."
 1925.36,1926.16,Giles,Sometimes.
-1927.29,1929.3,Joyce,Bristow's Demon Index"?.
-1929.3,1930.89,Giles,Hell's Offspring"?.
+1927.29,1929.3,Joyce,"Bristow's Demon Index""?."
+1929.3,1930.89,Giles,"Hell's Offspring""?."
 1931.05,1935.82,Giles,A hobby of mine. But having
 1931.05,1935.82,Giles,nothing to do with Buffy in any way.
 1937.32,1942.42,Giles,Um... you say Buffy told you
@@ -683,7 +683,7 @@
 2132.84,2134.74,Buffy,"attach themselves to a host,"""
 2134.74,2137.46,Buffy,taking control of their motor functions
 2134.74,2137.46,Buffy,through neural clamping.'
-2137.5,2140.88,Xander,Neural clamping"?
+2137.5,2140.88,Xander,"Neural clamping""?"
 2137.5,2140.88,Xander,That sounds skippable.
 2140.92,2143.65,Buffy,"So, our people are taking orders"
 2140.92,2143.65,Buffy,from the mamma bezoar.
@@ -784,5 +784,5 @@
 2593.64,2596.03,,Buffy? Are you going to bed?
 2596.15,2599.2,,In a minute!
 2612.51,2618.2,,Subtitles extended & timed by UAR
-0.5,4.02,,font color="#ffff00" size=14>www.tvsubtitles.net</font>
+0.5,4.02,,"font color=""#ffff00"" size=14>www.tvsubtitles.net</font>"
 0.5,4.02,,end

@@ -3,9 +3,9 @@
 4.59,9.07,,"the demons and the forces of darkness,"
 9.11,12.09,,"She is the Slayer,"
 13.98,18.98,,A lot of educators tell students
-13.98,18.98,,Think of your principal as your pal."
+13.98,18.98,,"Think of your principal as your pal."""
 19.02,23.52,,"I say ""Think of me as your judge,"
-19.02,23.52,,jury and executioner."
+19.02,23.52,,"jury and executioner."""
 24.61,29.79,,"Tell me, who do you think is the most"
 24.61,29.79,,troublesome student in this school?
 33.38,35.88,,"Well, it is quite a match between you two."
@@ -85,7 +85,7 @@
 177.93,183.32,Xander,"Well, you guys don't know."
 177.93,183.32,Xander,Maybe this time it'll be different.
 212.34,215.4,Spike,Home sweet home.
-266.99,270,Vampire#1,b>"School Hard"</b>
+266.99,270,Vampire#1,"""School Hard"""
 270.5,275.99,Vampire#1,The Master is dead.
 270.5,275.99,Vampire#1,Someone has to take his place.
 276.02,280.47,Vampire#2,"As long as the Slayer's alive, whoever"
@@ -310,21 +310,21 @@
 784.96,788.23,Sheila,a school building one time?
 788.27,791.96,Buffy,Well... not actually one time.
 792.47,793.76,Sheila,Cool.
-793.93,796.69,Lyrics,i># A drink you can't resist</i>
-797.06,798.9,Buffy,i># And in your head...</i>
+793.93,796.69,Lyrics,# A drink you can't resist
+797.06,798.9,Buffy,# And in your head...
 799.56,803.55,Buffy,La vâche doit me touche...
 803.58,806.75,Buffy,"de la... jeudi,"
 807.7,811.17,Willow,Was it wrong? Should I use the plural?
 807.7,811.17,Willow,"No, but..."
-811.21,814.29,Willow,You said "The cow should
-811.21,814.29,Willow,touch me from Thursday."
+811.21,814.29,Willow,"You said ""The cow should"
+811.21,814.29,Willow,"touch me from Thursday."""
 814.58,816.89,Buffy,Maybe that's what I was feeling.
 816.89,818.55,Willow,Then you said it wrong.
 818.58,820.53,Buffy,"Oh, je stink."
 820.56,824.39,Willow,You're just not focused.
 820.56,824.39,Willow,It's Angel missage.
 824.43,826.57,Buffy,"Well, he didn't say for sure. It was"
-826.57,828.77,Xander,a "Maybe see you there" kind of deal.
+826.57,828.77,Xander,"a ""Maybe see you there"" kind of deal."
 828.81,831.18,Xander,"Guys, I'm all alone out there."
 828.81,831.18,Xander,Somebody has to dance with me.
 831.21,832.72,Willow,"Well, we are studying."
@@ -332,16 +332,15 @@
 834.05,836.64,Xander,You've been studying nearly 12 minutes.
 836.64,838.43,Buffy,No wonder my brain's fried.
 838.46,843.02,Buffy,Come on.
-841.05,843.73,Spike,i><b></b></i>
-847.22,854.17,Lyrics,i># III... did a stupid thing last night</i>
-854.96,857.47,Lyrics,i># I called you</i>
-857.56,859.6,Lyrics,i># A moment of weakness</i>
-859.64,861.12,Spike,"i># No, not a moment,"
-861.12,863.81,Lyrics,more like three months of weakness</i>
-863.85,868.84,Lyrics,i># I'm one step away
-863.85,868.84,Lyrics,from crashin' to my knees</i>
-872.15,873.91,Spike,i># One step away
-873.91,877.53,Lyrics,from spillin' my guts to you...</i>
+847.22,854.17,Lyrics,# III... did a stupid thing last night
+854.96,857.47,Lyrics,# I called you
+857.56,859.6,Lyrics,# A moment of weakness
+859.64,861.12,Spike,"# No, not a moment,"
+861.12,863.81,Lyrics,more like three months of weakness
+863.85,868.84,Lyrics,# I'm one step away
+863.85,868.84,Lyrics,from crashin' to my knees
+872.15,873.91,Spike,# One step away
+873.91,877.53,Lyrics,from spillin' my guts to you...
 894.68,896.89,Spike,Go get something to eat.
 902.94,905.38,Spike,Where's the phone?
 902.94,905.38,Spike,I need to call the police.
@@ -395,7 +394,7 @@
 1086.12,1089.12,Jenny,all the help we can get come this Saturday.
 1089.15,1091.82,Xander,"So, this Night of St Vigeous deal."
 1091.86,1094.71,Xander,"If they're gonna attack in force,"
-1091.86,1094.71,Xander,aren't we thinking "vacation"?
+1091.86,1094.71,Xander,"aren't we thinking ""vacation""?"
 1094.74,1098.28,Willow,We can't run. That would be wrong.
 1094.74,1098.28,Willow,Could we hide?
 1098.31,1101.93,Willow,"I mean, if that Spike guy"
@@ -467,7 +466,7 @@
 1286.13,1291.97,Giles,For three nights the unholy ones
 1286.13,1291.97,Giles,"scourge themselves into a fury,"
 1294.02,1296.24,Giles,culminating in a savage attack
-1294.02,1296.24,Giles,on the Night of St Vigeous."
+1294.02,1296.24,Giles,"on the Night of St Vigeous."""
 1296.27,1298.98,Xander,Does anybody remember when
 1296.27,1298.98,Xander,Saturday night meant date night?
 1299.02,1299.86,Cordelia,You sure don't.
@@ -857,6 +856,5 @@
 2609.49,2613.54,,and a little more fun around here.
 2623.15,2626.74,,Let's see what's on TV.
 2631.08,2640.02,,Subtitles extended and timed by UAR
-2677.12,2679.95,,
-0.5,4.02,,font color="#ffff00" size=14>www.tvsubtitles.net</font>
+0.5,4.02,,"font color=""#ffff00"" size=14>www.tvsubtitles.net</font>"
 0.5,4.02,,end

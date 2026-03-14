@@ -43,7 +43,7 @@
 117.95,120.91,Buffy,Angel? I can just
 117.95,120.91,Buffy,see him in a relationship.
 120.99,124.49,Buffy,"Hi, honey, you're in grave danger."
-120.99,124.49,Buffy,I'll see ya next month."
+120.99,124.49,Buffy,"I'll see ya next month."""
 124.58,127.55,Willow,"He's not around much, it's true."
 129.01,133.21,Buffy,"When he is around,"
 129.01,133.21,Buffy,it's like the lights dim everywhere else.
@@ -84,7 +84,7 @@
 251.04,253.57,Buffy,OK. OK. Nice.
 253.66,258.25,Buffy,"OK. OK. Look, I really don't wanna"
 253.66,258.25,Buffy,fight all three of you unless I have to.
-323.17,326.38,Angel,b>"Angel"</b>
+323.17,326.38,Angel,"""Angel"""
 331.27,334.69,Angel,Good dogs don't... bite.
 343.35,345.38,Buffy,Look out!
 351.97,354.45,Buffy,Run!
@@ -245,8 +245,8 @@
 770.31,772.47,Master,"True, they did fail."
 772.47,773.98,Collin,"But also true,"
 773.99,777.97,Master,we who walk at night share a common bond.
-780.02,782.74,Master,The taking of a life 
-780.02,782.74,Master,"I'm not talking about humans, of course "
+780.02,782.74,Master,The taking of a life
+780.02,782.74,Master,"I'm not talking about humans, of course"
 783.04,785.69,Collin,is a serious matter.
 785.72,788.29,Collin,"So, you would spare them?"
 789,791.13,Master,"I am weary,"
@@ -797,55 +797,53 @@
 2483.73,2488.19,Buffy,I feel like he's still watching me.
 2488.23,2491.26,Willow,"Well, in a way he sort of is."
 2491.26,2494.03,Willow,In the way of that he's right over there.
-2494.05,2495.55,Xander,i><b></b></i>
-2496.25,2498.8,Willow,i># I can hear a heart beat
-2496.25,2498.8,Willow,Is it yours or is it mine?</i>
-2500.47,2501.41,Xander,i># I look at your lips
-2501.41,2502.71,Willow,I know how soft they can be </i>
+2496.25,2498.8,Willow,# I can hear a heart beat
+2496.25,2498.8,Willow,Is it yours or is it mine?
+2500.47,2501.41,Xander,# I look at your lips
+2501.41,2502.71,Willow,I know how soft they can be
 2502.74,2506.41,Xander,And I don't need to watch
 2502.74,2506.41,Xander,because I'm not threatened.
 2506.45,2508.56,Xander,I'm just gonna look this way.
-2508.63,2512.89,Lyrics,i># Did they know what they wanted</i>
-2513.74,2517.6,Lyrics,i># the times they kissed me?</i>
-2519.89,2522.68,Angel,i># And your hands
-2522.68,2525.46,Lyrics,I held in mine</i>
+2508.63,2512.89,Lyrics,# Did they know what they wanted
+2513.74,2517.6,Lyrics,# the times they kissed me?
+2519.89,2522.68,Angel,# And your hands
+2522.68,2525.46,Lyrics,I held in mine
 2525.49,2528.32,Angel,I just wanted to see if you were OK
 2525.49,2528.32,Angel,and your mother.
 2529.98,2532.57,Buffy,We're both good. You?
 2533.53,2537.99,Angel,If I can go a little while without
 2533.53,2537.99,Angel,getting shot or stabbed I'll be alright.
-2538.74,2540.49,Angel,i># I'll remember you</i>
+2538.74,2540.49,Angel,# I'll remember you
 2540.87,2543.09,Angel,"Look, this can't..."
 2543.09,2546.02,Buffy,Ever be anything. I know.
 2546.33,2551.6,Buffy,"For one thing, you're like"
 2546.33,2551.6,Buffy,years older than I am.
-2551.6,2553.88,Angel,i># But that is all that I can do</i>
+2551.6,2553.88,Angel,# But that is all that I can do
 2553.92,2555.97,Angel,I just gotta...
 2556.63,2558.72,Angel,I gotta walk away from this.
 2559.59,2562.31,Buffy,"I know. Me, too."
 2566.48,2568.9,Buffy,One of us has to go here.
 2569.65,2572.06,Angel,I know.
-2574.81,2577.46,Lyrics,i># Your eyes</i>
-2577.46,2582.8,Lyrics,i>#  That always make me shiver</i>
-2583.1,2586.15,Lyrics,i># Now they are closed</i>
-2586.15,2590.82,Lyrics,i># They just sometimes twitch a little</i>
+2574.81,2577.46,Lyrics,# Your eyes
+2577.46,2582.8,Lyrics,#  That always make me shiver
+2583.1,2586.15,Lyrics,# Now they are closed
+2586.15,2590.82,Lyrics,# They just sometimes twitch a little
 2590.85,2592.68,Xander,What's going on?
 2592.68,2593.59,Willow,Nothing.
 2593.67,2595.71,Xander,"Well, as long as they're not kissing."
-2595.74,2598.31,,i># And your body
-2595.74,2598.31,,I could hold for an hour</i>
-2598.8,2602.27,,i># It sent me to Heaven</i>
-2602.27,2606.73,,i># With its heat and power...</i>
+2595.74,2598.31,,# And your body
+2595.74,2598.31,,I could hold for an hour
+2598.8,2602.27,,# It sent me to Heaven
+2602.27,2606.73,,# With its heat and power...
 2607.97,2609.02,,You OK?
 2610.81,2614.31,,It's just...
 2610.81,2614.31,,Painful.
 2614.4,2616.48,,I know.
 2618.73,2620.82,,See you around?
-2620.82,2626.61,,i># I'll remember you
-2620.82,2626.61,,And that is all that I can do</i>
-2626.61,2630.88,,i># But I'll remember...</i>
+2620.82,2626.61,,# I'll remember you
+2620.82,2626.61,,And that is all that I can do
+2626.61,2630.88,,# But I'll remember...
 2635.04,2641.73,,Subtitles by Visiontext
 2635.04,2641.73,,Corrections & timing by UAR
-2675.12,2678.54,,
-0.5,4.02,,font color="#ffff00" size=14>www.tvsubtitles.net</font>
+0.5,4.02,,"font color=""#ffff00"" size=14>www.tvsubtitles.net</font>"
 0.5,4.02,,end

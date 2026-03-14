@@ -4,12 +4,12 @@
 8.89,10.94,,She is the Slayer.
 13.31,16.66,,I will be whole.
 16.7,19.52,,I will be new.
-41.71,45.11,,i># Learning to love yourself</i>
-45.11,50.02,,i># is the greatest love of all.</i>
-50.06,52.5,,i># I decided long ago
-52.5,56.61,Cordelia,never to walk in anyone's shadows</i>
-56.61,59.59,Cordelia,i># If I fail
-56.61,59.59,Cordelia,if I succeed...</i>
+41.71,45.11,,# Learning to love yourself
+45.11,50.02,,# is the greatest love of all.
+50.06,52.5,,# I decided long ago
+52.5,56.61,Cordelia,never to walk in anyone's shadows
+56.61,59.59,Cordelia,# If I fail
+56.61,59.59,Cordelia,if I succeed...
 59.63,63.41,Giles,"Thank you, Cordelia."
 59.63,63.41,Giles,Thathat's going to be lovely.
 63.45,66.65,Cordelia,But I didn't do
@@ -119,7 +119,7 @@
 344.98,346.44,Emily,Hello?
 363.67,365.76,Emily,Hello?
 370.39,373.52,Demon,I will be flesh!
-423.68,428.97,Marc,b>"The Puppet Show"</b>
+423.68,428.97,Marc,"""The Puppet Show"""
 431.02,432.43,Marc,I reach into the hat and out comes...
 433.22,435.89,Marc,"Uh, has anybody seen a rabbit?"
 444.82,446.03,Xander,I can't do this.
@@ -170,7 +170,7 @@
 530.14,532.86,Snyder,these days: discipline.
 532.94,536.64,Snyder,I know Principal Flutie would have said:
 532.94,536.64,Snyder,"Kids need understanding,"""
-536.64,539.53,Snyder,kids are human beings."
+536.64,539.53,Snyder,"kids are human beings."""
 539.57,543.58,Snyder,"That's the kind of woollyheaded,"
 539.57,543.58,Snyder,liberal thinking that leads to being eaten.
 543.61,546.9,Giles,"II think, perhaps, it was"
@@ -199,7 +199,7 @@
 621.85,623.85,Giles,Her heart was removed.
 623.85,624.4,Willow,Yikes.
 624.9,628.32,Buffy,Does that mean anything to you?
-624.9,628.32,Buffy,Besides "oooh!"
+624.9,628.32,Buffy,"Besides ""oooh!"""
 629.19,633.16,Giles,There are various demons
 629.19,633.16,Giles,"which feed off human hearts, but..."
 635.08,637.91,Buffy,But demons have claws and teeth.
@@ -216,7 +216,7 @@
 656.98,660.82,Buffy,Mystical activity is totally rife here.
 660.82,662.23,Buffy,"This, to me, says demon."
 662.23,664.06,Giles,I'd like to think you're right.
-664.1,667.35,Giles,A demon is a creature of... evil 
+664.1,667.35,Giles,A demon is a creature of... evil
 664.1,667.35,Giles,pure and very simple.
 667.39,670.88,Giles,"A person driven to kill isis, um..."
 667.39,670.88,Giles,It's more complex.
@@ -319,7 +319,7 @@
 882.06,884.66,Xander,The guy talks to his puppet.
 884.66,886.42,Willow,And for his puppet.
 886.55,889.53,Buffy,"Yeah, but what about"
-886.55,889.53,Buffy,the whole "it's a demon" theory?
+886.55,889.53,Buffy,"the whole ""it's a demon"" theory?"
 889.56,892.6,Giles,"I'm looking into that, but..."
 889.56,892.6,Giles,my investigation is somewhat...
 892.6,895.34,Giles,hampered by life in the theatre.
@@ -507,8 +507,8 @@
 1395.69,1399.63,Giles,"Well, he seems to be"
 1395.69,1399.63,Giles,getting weaker every day.
 1399.67,1403.99,Mrs. Jackson,It was as a result of this that
-1399.67,1403.99,Mrs. Jackson,President Monroe put forth the eponymous 
-1404.07,1407.28,Mrs. Jackson,meaning "named after oneself" 
+1399.67,1403.99,Mrs. Jackson,President Monroe put forth the eponymous
+1404.07,1407.28,Mrs. Jackson,"meaning ""named after oneself"""
 1404.07,1407.28,Mrs. Jackson,"Monroe Doctrine,"
 1407.37,1412.17,Mrs. Jackson,"which, in one sense, established"
 1407.37,1412.17,Mrs. Jackson,the US as a local peacekeeper...
@@ -554,7 +554,7 @@
 1549.41,1550.72,Mrs. Jackson,I put it right here.
 1550.76,1554.39,Morgan,He knew to wait for me.
 1550.76,1554.39,Morgan,He knew I'd be back.
-1554.43,1556.19,Mrs. Jackson,What do you mean "he"?
+1554.43,1556.19,Mrs. Jackson,"What do you mean ""he""?"
 1556.19,1558.2,Morgan,What did you do with him?
 1558.28,1560.95,Morgan,Where is he?
 1573.56,1574.86,Buffy,Where did you get that?
@@ -608,13 +608,13 @@
 1740.75,1744.5,Buffy,And I know how to take care of myself.
 1747.76,1751.21,Snyder,"All right, then."
 1765.69,1768.7,Willow,Look what I found in the section of
-1765.69,1768.7,Willow,Toys and Magic".
+1765.69,1768.7,Willow,"Toys and Magic""."
 1768.73,1771.89,Willow,On rare occasions inanimate objects
 1768.73,1771.89,Willow,"of human quality,"
 1771.93,1776.1,Willow,"such as dolls and mannequins, already"
 1771.93,1776.1,Willow,"mystically possessed of consciousness,"
 1776.13,1782.08,Willow,have acted upon their desire
-1776.13,1782.08,Willow,to become human by harvesting organs."
+1776.13,1782.08,Willow,"to become human by harvesting organs."""
 1782.12,1783.21,Giles,Emily's heart.
 1783.21,1784.38,Willow,Morgan's dummy.
 1814.21,1815.27,Giles,What is it?
@@ -777,7 +777,7 @@
 2307.43,2311.73,Willow,"Look at this. ""In case of emergency,"
 2307.43,2311.73,Willow,"contact Dr Dale Leggett,"
 2311.77,2314.68,Willow,"California Institute of Neurosurgery,"
-2314.68,2315.7,Xander,Cancer Ward."
+2314.68,2315.7,Xander,"Cancer Ward."""
 2315.74,2316.61,Xander,Brain cancer?
 2316.61,2319.03,Willow,That's why he had all the headaches.
 2319.06,2322.16,Buffy,This means that whatever's out there
@@ -878,6 +878,5 @@
 2668.6,2672.52,,"Memory of, uh... ill deeds I have done."
 2673.97,2680.9,,Subtitles by Visiontext
 2673.97,2680.9,,Additions & timing by UAR
-2686.29,2688.38,,
-0.5,4.02,,font color="#ffff00" size=14>www.tvsubtitles.net</font>
+0.5,4.02,,"font color=""#ffff00"" size=14>www.tvsubtitles.net</font>"
 0.5,4.02,,end

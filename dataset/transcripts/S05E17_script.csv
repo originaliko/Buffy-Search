@@ -1,5 +1,5 @@
 2.93,3.68,,What're you doin'?
-3.68,5.4,GILES VOICEOVER,Previously on "Buffy the Vampire Slayer":
+3.68,5.4,GILES VOICEOVER,"Previously on ""Buffy the Vampire Slayer"":"
 5.57,6.82,PARAMEDIC,Your mother's dead.
 6.82,8.72,BUFFY,She just wouldn't believe me.
 9.41,13.02,DAWN,"Oh, God."
@@ -70,13 +70,13 @@
 272.9,274.57,XANDER,"Your dad's still AWOL, huh?"
 274.93,279.53,BUFFY,"The number he left for us in Spain is no good,"
 274.93,279.53,BUFFY,and I've left messages everywhere.
-280.73,285.68,BUFFY,How about a line that says "After the burial
-280.73,285.68,BUFFY,there will be no wake"? Or "gathering"?
+280.73,285.68,BUFFY,"How about a line that says ""After the burial"
+280.73,285.68,BUFFY,"there will be no wake""? Or ""gathering""?"
 286.13,288.77,BUFFY,At the request of Joyce there will be
-288.77,291.05,DAWN,no gathering"? That sounds lame.
+288.77,291.05,DAWN,"no gathering""? That sounds lame."
 292.89,295.49,DAWN,"What are we gonna do? After, I mean."
 297.77,300.53,DAWN,Are we just gonna come back here?
-301.97,307.25,BUFFY,I don't know. I guess so. How about "At the
+301.97,307.25,BUFFY,"I don't know. I guess so. How about ""At the"
 301.97,307.25,BUFFY,"request of the family, there will be no wake""?"
 307.33,308.24,XANDER,"Good, yeah."
 308.24,310.05,DAWN,I don't wanna be here.
@@ -174,7 +174,7 @@
 688.25,690.05,XANDER,It was more intense.
 690.05,692.04,ANYA,It's because of Joyce.
 692.13,694.52,XANDER,Right. Huh?
-695.53,700.37,ANYA,"Well, she got me thinking "
+695.53,700.37,ANYA,"Well, she got me thinking"
 695.53,700.37,ANYA,"about how people die all the time,"
 700.45,702.57,ANYA,"and how they get born too,"
 702.65,706.36,ANYA,and how you kind of need one
@@ -254,14 +254,14 @@
 927.69,932.61,ANGEL,Yeah. You'll find your way.
 927.69,932.61,ANGEL,"I mean, not all at once, but in..."
 934.01,938.02,BUFFY,I don't know.
-937.01,939.69,BUFFY,I keep thinking about it 
+937.01,939.69,BUFFY,I keep thinking about it
 939.77,942.16,BUFFY,when I found her.
 942.25,945.69,BUFFY,If I had just gotten there ten minutes earlier...
 946.25,949.93,ANGEL,You said they told you
 946.25,949.93,ANGEL,it wouldn't have made a difference.
-950.01,951.7,BUFFY,They said "probably"
+950.01,951.7,BUFFY,"They said ""probably"""
 951.7,954.4,ANGEL,wouldn't have made a difference.
-956.41,959.88,BUFFY,The exact thing they said was "probably".
+956.41,959.88,BUFFY,"The exact thing they said was ""probably""."
 961.73,963.8,BUFFY,I haven't told that to anyone.
 963.89,968.17,ANGEL,Doesn't make it your fault. You
 963.89,968.17,ANGEL,couldn't have done anything different.
@@ -320,7 +320,7 @@
 1168.06,1169.21,BEN,That's not what I...
 1169.29,1171.68,JINX,I understand. Sorry to bother you. I'll leave.
 1171.77,1175.56,BEN,You understand what? When I said
-1171.77,1175.56,BEN,innocent" I didn't mean that the Key is...
+1171.77,1175.56,BEN,"innocent"" I didn't mean that the Key is..."
 1175.65,1176.8,BEN,It's not a person.
 1176.8,1177.69,JINX,Of course not.
 1177.77,1182.05,BEN,"You're gonna tell her, aren't you? Do you"
@@ -343,9 +343,9 @@
 1223.69,1225.33,DAWN,I might not be here.
 1225.33,1227.21,WILLOW,"Well, I'll try my luck."
 1229.37,1231.36,TARA,"Take care, Dawn."
-1268.13,1270.12,DAWN,Age of Levitation."
-1270.53,1272.92,DAWN,War of the Warlocks."
-1274.85,1277.65,DAWN,Resurrection: A Controversy Born."
+1268.13,1270.12,DAWN,"Age of Levitation."""
+1270.53,1272.92,DAWN,"War of the Warlocks."""
+1274.85,1277.65,DAWN,"Resurrection: A Controversy Born."""
 1301.21,1304.17,GILES,"You don't have to do that, Dawn. Just relax."
 1304.25,1308.45,ANYA,"Yes, sit down. We have some very"
 1304.25,1308.45,ANYA,amusing chicken feet you can play with.
@@ -701,6 +701,6 @@
 2506.85,2508.84,,It's OK.
 2548.85,2549.81,,Visiontext Subtitles: Abigail Smith
 2557.85,2559.84,,ENGLISH
-2560.31,2566.71,,Support us and become VIP member 
+2560.31,2566.71,,Support us and become VIP member
 2560.31,2566.71,,to remove all ads from www.OpenSubtitles.org
 2560.31,2566.71,,end

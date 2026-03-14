@@ -69,8 +69,8 @@
 227.52,230.65,Buffy,No. I don't wanna bug Giles.
 230.72,233.85,Buffy,He's still kinda twitchy when it
 230.72,233.85,Buffy,comes to the subject of Angel.
-233.92,237.16,Xander,It must be that whole "Angel killed
-233.92,237.16,Xander,his girlfriend and tortured her" thing.
+233.92,237.16,Xander,"It must be that whole ""Angel killed"
+233.92,237.16,Xander,"his girlfriend and tortured her"" thing."
 237.23,239.86,Xander,Giles is pretty petty
 237.23,239.86,Xander,when it comes to stuff like that.
 239.93,242.3,Buffy,"Xander, enough, okay?"
@@ -198,9 +198,6 @@
 546.16,547.6,Buffy,"No, thank you."
 547.66,549.89,Joyce,"Joyce: Oh, honey,"
 547.66,549.89,Joyce,this one's perfect.
-553.24,556.17,Joyce,
-565.25,568.18,Joyce,
-576.13,577.72,Joyce,
 576.13,577.43,Joyce,TV: Merry Christmas...
 577.43,577.72,Faith,Yeah?
 577.79,580.63,Faith,Happy New Year...
@@ -231,7 +228,6 @@
 634.55,636.99,Buffy,I like the lights.
 637.05,641.96,Faith,"Yeah. Well, 'tis the season."
 637.05,641.96,Faith,Whatever that means.
-645,647.66,Faith,
 647.73,648.96,Giles,Just a minute.
 656.4,658.02,Giles,Hello.
 658.1,659.26,Angel,Um...
@@ -310,7 +306,6 @@
 859.87,862.13,Angelus,No matter what.
 862.2,865.76,Margaret,"Sir, my son!"
 865.84,868.74,Angelus,He'll make a fine dessert.
-874.38,875.75,Angelus,
 899.34,901.57,Jenny,Trouble sleeping?
 901.64,903.47,Angel,You're not here.
 903.54,905.48,Jenny,I'm always here.
@@ -419,7 +414,7 @@
 1137.5,1140.44,Businessman,that I felt how cold they were.
 1140.5,1145.77,Businessman,"You grabbed me, and I thought,"
 1140.5,1145.77,Businessman,Who would go to so much trouble
-1145.84,1148.28,Businessman,to arrange them like that?"
+1145.84,1148.28,Businessman,"to arrange them like that?"""
 1149.91,1152.18,Margaret,But you see...
 1152.25,1155.27,Margaret,that's what makes you
 1152.25,1155.27,Margaret,different than other beasts.
@@ -438,7 +433,6 @@
 1177.57,1179.87,Angel,A demon isn't a man.
 1177.57,1179.87,Angel,I was a man once.
 1179.94,1183.38,Jenny,"Oh, yes, and what a man you were."
-1183.45,1185.71,Jenny,
 1188.65,1191.59,Margaret,"A drunken, whoring layabout..."
 1191.65,1195.52,Margaret,and a terrible disappointment
 1191.65,1195.52,Margaret,to your parents.
@@ -448,7 +442,6 @@
 1201.73,1204.96,Margaret,You were a worthless being
 1201.73,1204.96,Margaret,before you were ever a monster.
 1205.03,1207.2,Angel,Stop it! Stop.
-1207.27,1209.7,Angel,
 1209.77,1211.93,Jenny,"I don't wanna hurt you, Angel..."
 1214.02,1213.94,Jenny,but you have to understand.
 1215.95,1219.07,Jenny,Cruelty's the only thing
@@ -525,7 +518,7 @@
 1488.53,1490.29,Buffy,They call themselves...
 1490.36,1491.35,Xander,The Bringers.
 1491.43,1493.7,Buffy,"Bringers, Harbingers."
-1493.77,1496.29,Buffy,They have a "no eyes"
+1493.77,1496.29,Buffy,"They have a ""no eyes"""
 1493.77,1496.29,Buffy,kind of look.
 1496.37,1497.3,Willy,Doesn't ring a bell.
 1497.37,1500.13,Xander,How about I ring
@@ -649,7 +642,6 @@
 1786.33,1788.09,Joyce,Angel or star?
 1788.17,1792.19,Buffy,"Oh, uh, star."
 1792.27,1793.83,Buffy,Star.
-1793.91,1795.34,Buffy,
 1802.58,1804.14,Faith,Hey.
 1805.25,1806.48,Buffy,Hi.
 1807.72,1810.15,Faith,"Uh, looked like"
@@ -680,7 +672,6 @@
 1861.44,1863.24,Angel,Buffy.
 1863.31,1865.37,Buffy,What is it?
 1865.44,1867.74,Angel,Uh...
-1867.81,1867.81,Buffy,
 1867.81,1869.37,Angel,I gotta... I...
 1870.82,1873.58,Angel,"Look, I, uh,"
 1870.82,1873.58,Angel,"I had to see you, um..."
@@ -751,7 +742,7 @@
 2036.91,2041.28,Buffy,A child shall be born of man
 2036.91,2041.28,Buffy,and goat and have two heads...
 2041.35,2044.28,Buffy,and the First shall speak
-2041.35,2044.28,Buffy,only in riddles..."
+2041.35,2044.28,Buffy,"only in riddles..."""
 2044.35,2047.65,Buffy,No wonder you like this stuff.
 2044.35,2047.65,Buffy,It's like reading the sun.
 2047.72,2049.31,Giles,Yes. Ah.
@@ -763,16 +754,15 @@
 2056.5,2058.79,Giles,Nothing shall grow
 2056.5,2058.79,Giles,above or below them.
 2058.87,2060.83,Giles,"No seed shall flower,"
-2058.87,2060.83,Giles,neither in man nor..."
+2058.87,2060.83,Giles,"neither in man nor..."""
 2060.9,2064.67,Giles,"They're rebels, and they'll never,"
 2060.9,2064.67,Giles,ever be any good.
 2064.74,2066.53,Giles,Nothing specific about their haunts.
 2066.53,2067.33,Buffy,Let me see that.
 2071.08,2073.31,Buffy,The Harbingers of Death.
 2073.38,2076.91,Buffy,Nothing shall grow
-2073.38,2076.91,Buffy,above or below."
+2073.38,2076.91,Buffy,"above or below."""
 2079.35,2081.58,Giles,What?
-2105.08,2106.55,Giles,
 2143.25,2146.78,Buffy,"All right, ten more minutes of chanting,"
 2143.25,2146.78,Buffy,and then you guys have to go to bed.
 2148.96,2150.22,Buffy,Uhh!
@@ -938,6 +928,6 @@
 2606.4,2608.37,,and enjoy the change
 2606.4,2608.37,,in the weather.
 2681.35,2683.78,,Grr. Argh.
-2684.31,2690.55,,Support us and become VIP member 
+2684.31,2690.55,,Support us and become VIP member
 2684.31,2690.55,,to remove all ads from www.OpenSubtitles.org
 2684.31,2690.55,,end

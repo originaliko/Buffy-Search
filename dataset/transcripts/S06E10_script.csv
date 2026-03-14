@@ -50,7 +50,7 @@
 231.28,233.16,BUFFY,Shoe. Need my shoe.
 233.16,235.43,SPIKE,"What's the hurry, love?"
 235.56,239.52,BUFFY,The hurry is I left Dawn all night.
-235.56,239.52,BUFFY,And don't call me "love".
+235.56,239.52,BUFFY,"And don't call me ""love""."
 239.64,242.95,SPIKE,You didn't seem to take issue
 239.64,242.95,SPIKE,with that last night.
 243.08,246.11,SPIKE,Or with any of the nasties we whispered.
@@ -307,7 +307,7 @@
 960.4,962.55,RACK,What do you want me to do about that?
 964.88,967.24,WILLOW,I don't know. I thought...
 968.2,970.67,WILLOW,Amy said...
-968.2,970.67,WILLOW,Amy said. "
+968.2,970.67,WILLOW,"Amy said. """
 971.68,976.47,RACK,Amy said I could help you.
 971.68,976.47,RACK,But did Amy say how you could help me?
 978.64,981.12,WILLOW,"No. I have some money, a bit..."
@@ -484,7 +484,7 @@
 1722.02,1723.31,WILLOW,and we're gonna have fun.
 1728.02,1728.72,DAWN,I'm serious.
 1728.02,1728.72,DAWN,I think we should just get out of here.
-1728.84,1732.12,DAWN,We should just get out of here. "
+1728.84,1732.12,DAWN,"We should just get out of here. """
 1732.24,1736.84,WILLOW,"Come on, Dawnie, it's grownup time. Do"
 1732.24,1736.84,WILLOW,you wanna play with the grownups or not?
 1736.96,1738.87,DAWN,Why are you acting this way?
@@ -649,6 +649,6 @@
 2395.28,2399.24,,Now I don't have to.
 2399.36,2401.95,,Cos it's over.
 2403.08,2406.07,,Exactly. It's over.
-2407.31,2413.52,,Support us and become VIP member 
+2407.31,2413.52,,Support us and become VIP member
 2407.31,2413.52,,to remove all ads from www.OpenSubtitles.org
 2407.31,2413.52,,end

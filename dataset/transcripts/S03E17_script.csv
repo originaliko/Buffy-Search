@@ -70,7 +70,7 @@
 182.21,184.54,Faith,The willpower thing?
 182.21,184.54,Faith,Nice job.
 184.61,186.54,Buffy,Thanks. What?
-186.61,189.55,Faith,The "close but no cigar"
+186.61,189.55,Faith,"The ""close but no cigar"""
 186.61,189.55,Faith,deal with Angel.
 189.61,192.55,Faith,I don't know if I could
 189.61,192.55,Faith,"handle, you know,"
@@ -78,7 +78,6 @@
 192.62,194.52,Faith,not handling it.
 194.59,197.99,Buffy,"Faith, when it comes to Angel,"
 194.59,197.99,Buffy,do me a favor. Duck!
-198.06,198.99,Buffy,
 199.06,200.49,Demon,"Ow! What are you, nuts?"
 200.56,202.36,Demon,Going around
 200.56,202.36,Demon,punching people?
@@ -237,7 +236,7 @@
 491.33,493.19,Wesley,"May 26, 1723."
 493.26,494.7,Giles,Tomorrow is
 493.26,494.7,Giles,the ascension.
-494.77,496.53,Giles,God help us all."
+494.77,496.53,Giles,"God help us all."""
 497.93,499.7,Giles,It was the last
 497.93,499.7,Giles,anyone heard.
 499.77,501.7,Wesley,Of Kane?
@@ -328,8 +327,8 @@
 707.21,708.14,Angel,Come on.
 708.21,710.2,Angel,Start from the beginning.
 710.28,711.71,Faith,Mind if I skip past
-711.78,713.72,Faith,the "Mom never
-711.78,713.72,Faith,loved me" part
+711.78,713.72,Faith,"the ""Mom never"
+711.78,713.72,Faith,"loved me"" part"
 713.78,715.34,Faith,and get right to it?
 716.95,719.25,Faith,I'm scaring myself.
 719.32,720.91,Angel,I know the feeling.
@@ -594,7 +593,7 @@
 1238.03,1241.29,Buffy,Faith would never do that.
 1241.36,1243.3,Willow,Faith would totally do that.
 1243.36,1245.13,Willow,Faith was built to do that.
-1245.2,1246.83,Willow,She's the "Do that" girl.
+1245.2,1246.83,Willow,"She's the ""Do that"" girl."
 1246.9,1248.06,Buffy,"Comfort, remember?"
 1246.9,1248.06,Buffy,Comfort here.
 1248.14,1249.47,Willow,"I mean, please."
@@ -687,7 +686,6 @@
 1415.67,1419.7,Faith,Yaa nafs idhhabii!
 1419.77,1427.55,Faith,Utrukii ayyaah wa'trukiih
 1419.77,1427.55,Faith,naHruuman wanajisan!
-1427.62,1429.64,Faith,
 1459.88,1461.82,Angel,Thanks... so much.
 1464.12,1467.25,Angel,It's good to have the taste
 1464.12,1467.25,Angel,of a slayer back in my mouth.
@@ -825,7 +823,7 @@
 1693.64,1695.32,Mayor,"attitude may get you attention,"
 1695.39,1696.95,Mayor,but courtesy wins respect.
 1697.03,1701.62,Mayor,Heh heh. I am the one responsible
-1697.03,1701.62,Mayor,for your "new" attitude.
+1697.03,1701.62,Mayor,"for your ""new"" attitude."
 1701.7,1704.72,Angel,That's why I'm here.
 1704.8,1708.36,Mayor,No trouble with the transition?
 1704.8,1708.36,Mayor,No side effects?
@@ -892,10 +890,8 @@
 1823.39,1824.58,Faith,Let's do it.
 1827.29,1831.35,Mayor,Uh... try to have her
 1827.29,1831.35,Mayor,home by 11:00.
-1836.97,1839.2,Mayor,
 1839.27,1841.57,Mayor,She's not
 1839.27,1841.57,Mayor,a little girl anymore.
-1841.64,1843.5,Mayor,
 1843.67,1845.47,Xander,"I love when you talk, Wesley."
 1845.54,1847.91,Xander,"I love when you sing, Wesley."""
 1847.98,1850.47,Xander,Can you say the words
@@ -1020,8 +1016,6 @@
 2088.9,2089.79,Willow,new playmate.
 2089.86,2092.19,Willow,Faith and Angel? Together?
 2092.26,2094.92,Xander,Imagine the possibilities.
-2095,2097.16,Xander,
-2099.84,2100.83,Xander,
 2102.27,2103.93,Buffy,"Mornin', sleepyhead."
 2106.02,2106.57,Buffy,You know what
 2106.02,2106.57,Buffy,I just can't believe?
@@ -1087,7 +1081,7 @@
 2207.94,2209.74,,That's not my fault.
 2209.81,2211.25,,"Everyone always asks,"
 2211.31,2213.41,,Why can't you
-2211.31,2213.41,,be more like Buffy?"
+2211.31,2213.41,,"be more like Buffy?"""
 2213.48,2215.88,,But did anyone ever ask
 2213.48,2215.88,,if you could be more like me?
 2215.95,2217.39,Angel,I know I didn't.
@@ -1162,7 +1156,6 @@
 2339.08,2341.37,Angel,I think we know
 2339.08,2341.37,Angel,everything she knows.
 2342.45,2344.61,Buffy,May I say something?
-2346.02,2347.38,Buffy,
 2347.45,2348.92,Buffy,Psych.
 2348.99,2351.72,Faith,You played me.
 2348.99,2351.72,Faith,You played me!
@@ -1211,8 +1204,8 @@
 2463.81,2465.14,Willow,"That's good, right?"
 2465.21,2467.84,Xander,Yes. I feel so much better
 2467.91,2469.94,Xander,knowing that he broke my face
-2467.91,2469.94,Xander,in the "good" way.
-2470.02,2471.92,Xander,It's a "good" bruise.
+2467.91,2469.94,Xander,"in the ""good"" way."
+2470.02,2471.92,Xander,"It's a ""good"" bruise."
 2471.98,2476.02,Buffy,"He was only acting, Xander."
 2475.95,2478.01,Buffy,It was just an act.
 2478.09,2480.61,Mayor,"Mayor: Well, you win some,"
@@ -1233,7 +1226,7 @@
 2496.47,2498.87,Mayor,friend you'll ever have.
 2498.94,2501.71,Mayor,"Besides, once"
 2498.94,2501.71,Mayor,"the ascension starts,"
-2501.78,2504.51,Mayor,the "in crowd" you're
+2501.78,2504.51,Mayor,"the ""in crowd"" you're"
 2501.78,2504.51,Mayor,so concerned about? Whoo!
 2504.58,2506.81,Mayor,They'll be lucky if there's enough
 2504.58,2506.81,Mayor,of them left to fill a pothole.
@@ -1272,6 +1265,6 @@
 2610.62,2612.65,Angel,You still my girl?
 2616.63,2618.22,,Always.
 2662.13,2664.42,,Grr! Arrgh!
-2665.31,2671.42,,Support us and become VIP member 
+2665.31,2671.42,,Support us and become VIP member
 2665.31,2671.42,,to remove all ads from www.OpenSubtitles.org
 2665.31,2671.42,,end

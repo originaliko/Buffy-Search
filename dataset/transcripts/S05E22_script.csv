@@ -1,4 +1,4 @@
-2.21,3.93,GILES VOICEOVER,Previously on "Buffy the Vampire Slayer":
+2.21,3.93,GILES VOICEOVER,"Previously on ""Buffy the Vampire Slayer"":"
 4.01,8.05,GILES,You are the Slayer.
 4.01,8.05,GILES,Into each generation a slayer is born.
 8.13,10.04,BUFFY,"Let's start with ""Hi, I'm Buffy""."
@@ -23,9 +23,9 @@
 91.82,94.21,VAMP,"No, she wants to stay."
 95.33,97.4,VAMP,I don't mind a little appetiser.
 98.85,103.32,BUFFY,Have you ever heard the expression
-98.85,103.32,BUFFY,Biting off more than you can chew"?
+98.85,103.32,BUFFY,"Biting off more than you can chew""?"
 103.41,105.17,BUFFY,OK.
-105.25,107.97,BUFFY,How about the expression "vampire slayer"?
+105.25,107.97,BUFFY,"How about the expression ""vampire slayer""?"
 108.05,110.1,VAMP,What the hell you talkin' about?
 110.1,111.76,BUFFY,Wow. Never heard that one.
 111.85,116.09,BUFFY,"OK. How about ""Oh, God, my leg""?"
@@ -62,7 +62,7 @@
 295.17,297.93,WILLOW,That's only if the energy is stopped.
 298.01,303.33,WILLOW,"And now the key is human, is Dawn..."
 305.21,310.92,GILES,"The blood flows, the gates will open."
-305.21,310.92,GILES,The gates will close when it flows no more."
+305.21,310.92,GILES,"The gates will close when it flows no more."""
 311.01,313.45,GILES,When Dawn is dead.
 314.89,316.88,TARA,I have places to be.
 321.41,324.61,XANDER,Why blood? Why Dawn's blood?
@@ -623,6 +623,6 @@
 2493.77,2495.17,,For me.
 2548.89,2550.04,,Visiontext Subtitles
 2557.85,2559.84,,ENGLISH
-2560.31,2566.71,,Support us and become VIP member 
+2560.31,2566.71,,Support us and become VIP member
 2560.31,2566.71,,to remove all ads from www.OpenSubtitles.org
 2560.31,2566.71,,end
