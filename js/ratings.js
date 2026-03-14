@@ -92,15 +92,17 @@ export function initRatings(stats) {
 }
 
 function addCallouts(chart, data, episodes, el) {
+  // Clear existing callouts (onComplete fires on every update())
+  el.querySelectorAll('.chart-callout').forEach(n => n.remove());
   const wrap = el.querySelector('.chart-wrap');
   const meta = chart.getDatasetMeta(0);
 
+  const ratedEps = episodes.filter(ep => ep.rating != null);
   const peakIdx = episodes.findIndex(ep => ep.id === (
-    episodes.reduce((best, ep) => (ep.rating ?? 0) > (best.rating ?? 0) ? ep : best)
+    ratedEps.reduce((best, ep) => ep.rating > best.rating ? ep : best)
   ).id);
   const lowIdx = episodes.findIndex(ep => ep.id === (
-    episodes.filter(ep => ep.rating != null)
-             .reduce((worst, ep) => ep.rating < worst.rating ? ep : worst)
+    ratedEps.reduce((worst, ep) => ep.rating < worst.rating ? ep : worst)
   ).id);
 
   function makeCallout(idx, isLow) {
@@ -116,10 +118,10 @@ function addCallouts(chart, data, episodes, el) {
     const left = canvasRect.left - wrapRect.left + pt.x;
     const top  = canvasRect.top  - wrapRect.top  + pt.y + (isLow ? 12 : -36);
     div.style.cssText = `left:${left}px;top:${top}px;transform:translateX(-50%)`;
-    wrap.style.position = 'relative';
     wrap.appendChild(div);
   }
 
+  wrap.style.position = 'relative';
   makeCallout(peakIdx, false);
   makeCallout(lowIdx, true);
 }
