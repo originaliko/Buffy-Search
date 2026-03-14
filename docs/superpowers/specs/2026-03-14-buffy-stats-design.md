@@ -9,7 +9,7 @@
 
 A static web application hosted on GitHub Pages that combines a full-text transcript search with data visualizations inspired by [sheets.works/data-viz/friends](https://sheets.works/data-viz/friends). The site covers all 7 seasons (143 episodes) of Buffy the Vampire Slayer (1997–2003).
 
-**Target audience:** 40–50 year old Buffy fans. Minimum font size is 13px throughout the UI. Mobile is explicitly out of scope.
+**Target audience:** 40–50 year old Buffy fans. Minimum font size is 13px throughout the UI.
 
 ---
 
