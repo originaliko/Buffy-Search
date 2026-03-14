@@ -118,12 +118,12 @@ def accumulate_episode(rows, ep_id, alias_map, stats):
                         stats["phrase_by_char"][phrase].get(canonical, 0) + 1
                     )
 
-        stats["ep_line_count"][ep_id] = stats["ep_line_count"].get(ep_id, 0) + 1
+        stats["ep_line_count"][ep_id] += 1
 
 
 def build_stats_json(stats, episode_meta):
     """Assemble the stats.json structure from accumulated stats."""
-    total_lines = sum(stats["char_lines"].values())
+    total_lines = sum(stats["ep_line_count"].values())
     peak = max(episode_meta.values(), key=lambda e: e.get("rating") or 0)
     lowest = min(episode_meta.values(), key=lambda e: e.get("rating") or 9999)
     top_speaker_name = max(stats["char_lines"], key=stats["char_lines"].get) if stats["char_lines"] else ""
@@ -159,8 +159,8 @@ def build_stats_json(stats, episode_meta):
 
     catchphrases_out = []
     for phrase in CATCHPHRASES:
-        total = stats["phrase_totals"].get(phrase, 0)
         by_char = stats["phrase_by_char"].get(phrase, {})
+        total = sum(by_char.values())
         top_char = max(by_char, key=by_char.get) if by_char else ""
         catchphrases_out.append({
             "phrase": phrase,
