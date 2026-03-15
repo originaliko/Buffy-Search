@@ -1,7 +1,7 @@
-2.06,4.46,,In every generation there is a Chosen One.
-4.46,10.09,,"She alone will stand against the vampires,"
-4.46,10.09,,the demons and the forces of darkness.
-10.09,12.62,,She is the Slayer.
+2.06,4.46,Narrator,In every generation there is a Chosen One.
+4.46,10.09,Narrator,"She alone will stand against the vampires,"
+4.46,10.09,Narrator,the demons and the forces of darkness.
+10.09,12.62,Narrator,She is the Slayer.
 29.37,31.66,Xander,May I cut in?
 40.84,42.08,Xander,You all right?
 42.08,43.68,Buffy,"Oh, thanks to you."
@@ -25,12 +25,12 @@
 124.94,126.82,Buffy,With other ants?
 127.61,130.66,Dr. Gregory,"From the homework,"
 127.61,130.66,Dr. Gregory,ants are communicating...
-134.7,136.37,,Touch
-136.45,139.37,,"and, um..."
-141.63,143.5,,BO?
-143.59,146.34,,Thank God someone finally
-143.59,146.34,,found the courage to mention that.
-147.22,150.01,,"That would be touch and smell,"
+134.7,136.37,Buffy,Touch
+136.45,139.37,Buffy,"and, um..."
+141.63,143.5,Buffy,BO?
+143.59,146.34,Blayne,Thank God someone finally
+143.59,146.34,Blayne,found the courage to mention that.
+147.22,150.01,Dr. Gregory,"That would be touch and smell,"
 150.01,151.22,Dr. Gregory,Miss Summers?
 152.64,155.89,Dr. Gregory,Is there anything else Miss Rosenberg
 152.64,155.89,Dr. Gregory,would like to tell you?
@@ -797,98 +797,94 @@
 2306.04,2310.48,Natalie,"and then finds a mate to fertilise them."""
 2311.71,2313.47,Willow,"Come on, Buffy!"
 2319.98,2322.6,,You!
-2319.98,2322.6,,Me.
-2322.82,2325.42,,Come on! Come on! Where is she?
-2325.46,2329.49,,Which house is it?
-2325.46,2329.49,,I know you're afraid of her. I saw you!
-2329.57,2331.66,,"Come on, come on."
-2332.33,2336.04,,What? What is it?
-2332.33,2336.04,,"This is her, isn't it? This is her house."
-2336.08,2339.17,,This is it! Better than radar!
-2340.96,2342.29,,Buffy!
-2356.65,2359.44,,Kiss me.
-2360.27,2362.53,,Kiss me.
-2360.27,2362.53,,Can I say one thing?
-2362.57,2364.4,,Help!
-2364.43,2366.36,,Help!
-2369.16,2372.66,,"Uh, hey! Oover here!"
-2369.16,2372.66,,Hello! In the cage!
-2373.11,2375.12,,Let him go!
-2390.33,2392.6,,Help me!
-2390.33,2392.6,,Get them out of here.
-2394.77,2396.86,,Help me! Help me!
-2398.54,2401.12,,Remember Dr Gregory?
-2398.54,2401.12,,You scarfed his head.
-2401.16,2404.47,,"Yeah, well, he taught me:"
-2401.16,2404.47,,"you do your homework, you learn stuff."
-2404.5,2407.58,,Like what happens to your nervous system
-2404.5,2407.58,,when you hear this.
-2407.61,2410.18,,Extremely important to file
-2407.61,2410.18,,"not simply alphabetically..."""
-2410.21,2412.98,,Giles!
-2410.21,2412.98,,It's the wrong side!
-2441.54,2445.46,,Bat sonar. Makes your
-2441.54,2445.46,,whole nervous system go to hell.
-2445.54,2447.42,,You can go there with it.
-2472.3,2474.85,,"Well, I'd say it's deceased."
-2474.85,2476.4,,And dissected.
-2476.41,2479.29,,You OK?
-2476.41,2479.29,,Yeah.
-2479.37,2481.65,,"Just for the record, you were right."
-2481.65,2485.29,,"I'm an idiot, and God bless you."
-2486.31,2489.13,,"And thank you guys, too."
-2486.31,2489.13,,"Yeah, really."
-2489.16,2491.92,,Pleasure.
-2489.16,2491.92,,I'm really glad you're OK.
-2491.96,2495.76,,It's so unfair
-2491.96,2495.76,,how she only went after virgins.
-2497.17,2498.72,,What?
-2498.72,2500.96,,"I mean, here you guys are,"
-2498.72,2500.96,,"doing the right thing,"
-2500.96,2503.77,,"the smart thing,"
-2500.96,2503.77,,when a lot of other boys your age...
-2503.81,2508.02,,"Flag down on that play, babe."
-2503.81,2508.02,,I am not...
-2506.04,2508.69,,"Well, you see,"
-2506.04,2508.69,,that's the SheMantis' modus operandi.
-2508.69,2510.63,,"Uh, she only preys on the pure."
-2510.66,2513.72,,"Well, isn't this a perfect ending"
-2510.66,2513.72,,to a wonderful day!
-2513.75,2514.92,,My dad's a lawyer.
-2514.92,2516.49,,"If anybody repeats this to anybody,"
-2516.49,2518.74,,they're gonna find themselves
-2516.49,2518.74,,facing a lawsuit.
-2518.77,2521.21,,"Blayne, shut up!"
-2521.24,2525.47,,I don't think it's bad.
-2521.24,2525.47,,I think it's really... sweet.
-2525.51,2529.14,,But it's certainly nothing
-2525.51,2529.14,,I'll ever bring up again.
-2542.97,2547.17,,"# It's ladies choice snowball,"
-2542.97,2547.17,,the guys are in line
-2547.17,2550.84,,# he knows who he's waiting for
-2550.87,2554.71,,# and she goes and picks somebody else
-2554.74,2558.09,,"# then a stranger finds him, he says,"
-2558.13,2559.69,,I heard a rumour there was
-2559.69,2564.27,,"one less vampire walking round,"
-2559.69,2564.27,,making a nuisance of himself.
-2564.31,2568.05,,There is. I guess
-2564.31,2568.05,,I should thank you for the tip.
-2568.08,2569.71,,The pleasure's mine.
-2569.74,2573.89,,"Of course, it would be easier"
-2569.74,2573.89,,if I knew how to get in touch with you.
-2573.92,2575.86,,I'll be around.
-2575.95,2578.05,,Or who you were.
-2581.75,2586.23,,"Well, anyway, you can"
-2581.75,2586.23,,have your jacket back.
-2586.26,2589.52,,It looks better on you.
-2595.96,2598.14,,"Oh, boy."
-2598.32,2602.18,,All midterm papers
-2598.32,2602.18,,will be exactly six pages long.
-2602.21,2604.56,,"No more, no less."
-2604.59,2609.2,,One third of your grade
-2604.59,2609.2,,will be dependent on those papers.
-2609.24,2613.28,,"No more, no less."
-2659.09,2664.68,,Subtitles by: Natasha Cohn
-2659.09,2664.68,,Corrected by: UAR
-0.5,4.02,,"font color=""#ffff00"" size=14>www.tvsubtitles.net</font>"
-0.5,4.02,,end
+2319.98,2322.6,Buffy,Me.
+2322.82,2325.42,Buffy,Come on! Come on! Where is she?
+2325.46,2329.49,Buffy,Which house is it?
+2325.46,2329.49,Buffy,I know you're afraid of her. I saw you!
+2329.57,2331.66,Buffy,"Come on, come on."
+2332.33,2336.04,Buffy,What? What is it?
+2332.33,2336.04,Buffy,"This is her, isn't it? This is her house."
+2336.08,2339.17,Buffy,This is it! Better than radar!
+2340.96,2342.29,Willow,Buffy!
+2356.65,2359.44,Natalie,Kiss me.
+2360.27,2362.53,Natalie,Kiss me.
+2360.27,2362.53,Xander,Can I say one thing?
+2362.57,2364.4,Xander,Help!
+2364.43,2366.36,Xander,Help!
+2369.16,2372.66,Blayne,"Uh, hey! Oover here!"
+2369.16,2372.66,Blayne,Hello! In the cage!
+2373.11,2375.12,Buffy,Let him go!
+2390.33,2392.6,Blayne,Help me!
+2390.33,2392.6,Buffy,Get them out of here.
+2394.77,2396.86,Blayne,Help me! Help me!
+2398.54,2401.12,Buffy,Remember Dr Gregory?
+2398.54,2401.12,Buffy,You scarfed his head.
+2401.16,2404.47,Buffy,"Yeah, well, he taught me:"
+2401.16,2404.47,Buffy,"you do your homework, you learn stuff."
+2404.5,2407.58,Buffy,Like what happens to your nervous system
+2404.5,2407.58,Buffy,when you hear this.
+2407.61,2410.18,Giles,Extremely important to file
+2407.61,2410.18,Giles,"not simply alphabetically..."""
+2410.21,2412.98,Buffy,Giles!
+2410.21,2412.98,Giles,It's the wrong side!
+2441.54,2445.46,Buffy,Bat sonar. Makes your
+2441.54,2445.46,Buffy,whole nervous system go to hell.
+2445.54,2447.42,Buffy,You can go there with it.
+2472.3,2474.85,Giles,"Well, I'd say it's deceased."
+2474.85,2476.4,Willow,And dissected.
+2476.41,2479.29,Xander,You OK?
+2476.41,2479.29,Buffy,Yeah.
+2479.37,2481.65,Xander,"Just for the record, you were right."
+2481.65,2485.29,Xander,"I'm an idiot, and God bless you."
+2486.31,2489.13,Xander,"And thank you guys, too."
+2486.31,2489.13,Blayne,"Yeah, really."
+2489.16,2491.92,Giles,Pleasure.
+2489.16,2491.92,Willow,I'm really glad you're OK.
+2491.96,2495.76,Willow,It's so unfair
+2491.96,2495.76,Willow,how she only went after virgins.
+2497.17,2498.72,Xander,What?
+2498.72,2500.96,Willow,"I mean, here you guys are,"
+2498.72,2500.96,Willow,"doing the right thing,"
+2500.96,2503.77,Willow,"the smart thing,"
+2500.96,2503.77,Willow,when a lot of other boys your age...
+2503.81,2508.02,Blayne,"Flag down on that play, babe."
+2503.81,2508.02,Blayne,I am not...
+2506.04,2508.69,Giles,"Well, you see,"
+2506.04,2508.69,Giles,that's the SheMantis' modus operandi.
+2508.69,2510.63,Giles,"Uh, she only preys on the pure."
+2510.66,2513.72,Xander,"Well, isn't this a perfect ending"
+2510.66,2513.72,Xander,to a wonderful day!
+2513.75,2514.92,Blayne,My dad's a lawyer.
+2514.92,2516.49,Willow,"If anybody repeats this to anybody,"
+2516.49,2518.74,Willow,they're gonna find themselves
+2516.49,2518.74,Willow,facing a lawsuit.
+2518.77,2521.21,Xander,"Blayne, shut up!"
+2521.24,2525.47,Xander,I don't think it's bad.
+2521.24,2525.47,Xander,I think it's really... sweet.
+2525.51,2529.14,Xander,But it's certainly nothing
+2525.51,2529.14,Xander,I'll ever bring up again.
+2542.97,2547.17,Superfine ♫,"# It's ladies choice snowball,"
+2542.97,2547.17,Superfine ♫,# the guys are in line
+2547.17,2550.84,Superfine ♫,# he knows who he's waiting for
+2550.87,2554.71,Superfine ♫,# and she goes and picks somebody else
+2554.74,2558.09,Superfine ♫,"# then a stranger finds him, he says,"
+2558.13,2559.69,Angel,I heard a rumour there was
+2559.69,2564.27,Angel,"one less vampire walking round,"
+2559.69,2564.27,Angel,making a nuisance of himself.
+2564.31,2568.05,Buffy,There is. I guess
+2564.31,2568.05,Buffy,I should thank you for the tip.
+2568.08,2569.71,Angel,The pleasure's mine.
+2569.74,2573.89,Buffy,"Of course, it would be easier"
+2569.74,2573.89,Buffy,if I knew how to get in touch with you.
+2573.92,2575.86,Angel,I'll be around.
+2575.95,2578.05,Buffy,Or who you were.
+2581.75,2586.23,Buffy,"Well, anyway, you can"
+2581.75,2586.23,Buffy,have your jacket back.
+2586.26,2589.52,Angel,It looks better on you.
+2595.96,2598.14,Buffy"Oh, boy."
+2598.32,2602.18,New Prof.,All midterm papers
+2598.32,2602.18,New Prof.,will be exactly six pages long.
+2602.21,2604.56,New Prof.,"No more, no less."
+2604.59,2609.2,New Prof.,One third of your grade
+2604.59,2609.2,New Prof.,will be dependent on those papers.
+2609.24,2613.28,New Prof.,"No more, no less."

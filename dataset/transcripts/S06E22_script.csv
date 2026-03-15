@@ -1,35 +1,5 @@
-2.08,4.28,,"Get nice and comfy, Slayer."
-2.08,4.28,,I'll be back.
-4.4,6.39,,Previously
-4.4,6.39,,on Buffy the Vampire Slayer:
-6.52,10.35,,And you want to return
-6.52,10.35,,to your former self?
-10.48,11.99,,Bitch is gonna see a change.
-12.12,14.59,,You think you can just do that to me?
-18.76,21.51,,How did this happen?
-18.76,21.51,,"Warren, he had a gun."
-21.64,22.71,,We need to find Willow.
-22.84,26.88,,She's off the wagon big time.
-22.84,26.88,,Warren's a dead man if she finds him.
-31.28,33.27,,Willow.
-33.4,36.28,,What about Warren?
-33.4,36.28,,She killed him. The two of you are next.
-36.4,37.96,,Get in.
-36.4,37.96,,Go.
-39.32,41.68,,"Willow, just stop for a second."
-43.6,45.91,,Is she coming?
-43.6,45.91,,I don't see anything.
-48.92,51.04,,I get it now. It's about the power.
-53.84,55.43,,Let's go.
-53.84,55.43,,What about Willow?
-55.56,57.71,,Buffy can handle her.
-55.56,57.71,,Are you sure?
-57.84,58.99,,No. That's why we're leaving.
-59.12,63.4,,And there's no one in the world
-59.12,63.4,,who has the power to stop me now.
-66.2,67.68,,I'd like to test that theory.
-75.28,76.92,,Giles?
-78.2,79.52,,Giles.
+75.28,76.92,BUFFY,Giles?
+78.2,79.52,ANUA,Giles.
 80.76,84.29,WILLOW,Daddy's home. I'm in wicked trouble now.
 84.29,85.79,GILES,You have no idea.
 86.48,89.28,GILES,You have to stop what you're doing.
@@ -61,8 +31,6 @@
 153.12,156.8,WILLOW,"You called me a rank, arrogant amateur."
 159.4,161.47,WILLOW,"Well, buckle up, Rupert."
 164.24,166.36,WILLOW,Cos I've turned pro.
-170.02,174.07,WILLOW,Advertise your product or brand here
-170.02,174.07,WILLOW,contact www.OpenSubtitles.org today
 219.88,221.39,WILLOW,"Asmodea, bring forth..."
 226.02,225.48,WILLOW,No! Get off!
 240.92,242.24,BUFFY,What did you do?
@@ -595,7 +563,7 @@
 2263.56,2267.95,BUFFY,Things have really sucked lately.
 2263.56,2267.95,BUFFY,That's all gonna change.
 2270.04,2272.43,BUFFY,And I wanna be there when it does.
-2274.12,2276.51,,I wanna see my friends happy again.
+2274.12,2276.51,BUFFY,I wanna see my friends happy again.
 2278.6,2281.19,BUFFY,I wanna see you grow up.
 2282.2,2284.51,BUFFY,The woman you're gonna become.
 2285.32,2287.83,BUFFY,Because she's gonna be beautiful.
@@ -606,11 +574,8 @@
 2306.96,2309.92,BUFFY,There's so much that I wanna show you.
 2426.96,2430.48,DEMON VOICE,You have endured the required trials.
 2431.56,2433.68,SPIKE,Bloody right I have.
-2441.12,2443.27,,So you give me what I want.
-2443.4,2447.15,,Make me what I was
-2443.4,2447.15,,so Buffy can get what she deserves.
-2448.32,2450.52,,Very well.
-2451.56,2454.39,,We will return your soul.
-2455.31,2461.48,,Support us and become VIP member
-2455.31,2461.48,,to remove all ads from www.OpenSubtitles.org
-2455.31,2461.48,,end
+2441.12,2443.27,SPIKE,So you give me what I want.
+2443.4,2447.15,SPIKE,Make me what I was
+2443.4,2447.15,SPIKE,so Buffy can get what she deserves.
+2448.32,2450.52,DEMON VOICE,Very well.
+2451.56,2454.39,DEMON VOICE,We will return your soul.

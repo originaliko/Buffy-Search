@@ -1,4 +1,4 @@
-14.96,16.8,Buffy,We haven't been properly introduced.
+ 14.96,16.8,Buffy,We haven't been properly introduced.
 16.83,19.55,Buffy,"I'm Buffy, and you're... history!"
 22.57,25.63,Giles,"Poor technique. Prioritising, subpar."
 25.85,28.22,Giles,"Execution was adequate,"
@@ -10,8 +10,8 @@
 37.73,39.93,Giles,It's... You're spending
 37.73,39.93,Giles,too much time and energy.
 39.93,41.14,Giles,It should simply be
-41.14,43.24,you're spending too much time and energy. It should simply be,"plunge and move on, plunge and..."
-43.28,45.46,you're spending too much time and energy. It should simply be,Hello.
+41.14,43.24,Giles,"plunge and move on, plunge and..."
+43.28,45.46,Giles,Hello.
 50.89,52.53,Buffy,"Oh, that's great!"
 52.57,55.71,Buffy,"I kill 'em, you fence their stuff."
 55.8,57.43,Buffy,What is it?
@@ -858,13 +858,13 @@
 2492.29,2493.71,Owen,Friends.
 2495.09,2496.92,Owen,Yeah.
 2499.02,2498.5,Owen,Great.
-2498.55,2502.41,Lyrics,# The world will keep on turning
-2503.1,2505.62,Lyrics,# It'll all be there
-2505.65,2507.79,Lyrics,# come morning
+2498.55,2502.41,Kim Richey ♫,# The world will keep on turning
+2503.1,2505.62,Kim Richey ♫,# It'll all be there
+2505.65,2507.79,Kim Richey ♫,# come morning
 2507.79,2509.08,Buffy,Yeah. Great.
-2509.12,2514.56,Lyrics,# So tonight...
-2516.16,2520.16,Lyrics,# Let the sun fall down
-2521.03,2521.81,Lyrics,# all around you
+2509.12,2514.56,Kim Richey ♫,# So tonight...
+2516.16,2520.16,Kim Richey ♫,# Let the sun fall down
+2521.03,2521.81,Kim Richey ♫,# all around you
 2521.81,2522.88,Giles,I was ten years old when my...
 2522.88,2525.98,Giles,father told me
 2522.88,2525.98,Giles,I was destined to be a watcher.
@@ -908,12 +908,8 @@
 2610.68,2613.86,Master,"wherever he is,"
 2613.87,2617.11,Giles,is having a fairly bad day himself.
 2618.69,2622.69,Master,"And in this time will come the Anointed,"
-2623.69,2626.4,,"and the Slayer will not know him."""
-2627.66,2629.74,,"She will not stop him."""
-2630.74,2633.5,,And he will lead her
-2633.58,2635.67,,"into Hell."""
-2639.38,2641.46,,"Welcome, my friend."
-2646.28,2655.64,,Subtitles by: Doreen Trenerry
-2646.28,2655.64,,Corrections by: UAR
-0.5,4.02,,"font color=""#ffff00"" size=14>www.tvsubtitles.net</font>"
-0.5,4.02,,end
+2623.69,2626.4,Master,"and the Slayer will not know him."""
+2627.66,2629.74,Master,"She will not stop him."""
+2630.74,2633.5,Master,And he will lead her
+2633.58,2635.67,Master,"into Hell."""
+2639.38,2641.46,Master,"Welcome, my friend."

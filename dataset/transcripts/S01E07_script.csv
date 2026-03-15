@@ -1,9 +1,9 @@
-2.02,2.59,,"In every generation, there is a Chosen One."
-2.67,8.05,,"She alone will stand against the vampires,"
-2.67,8.05,,the demons and the forces of darkness.
-8.13,9.97,,She is the Slayer.
-20.85,24.11,,Zachary didn't return
-20.85,24.11,,from the hunt last night.
+2.02,2.59,Narrator,"In every generation, there is a Chosen One."
+2.67,8.05,Narrator,"She alone will stand against the vampires,"
+2.67,8.05,Narrator,the demons and the forces of darkness.
+8.13,9.97,Narrator,She is the Slayer.
+20.85,24.11,Master,Zachary didn't return
+20.85,24.11,Master,from the hunt last night.
 24.19,25.69,Darla,The Slayer.
 25.78,28.69,Master,Zachary was strong and he was careful.
 28.78,31.4,Master,"But still the Slayer takes him,"
@@ -29,7 +29,7 @@
 90.67,94.26,Willow,It's a lot of fun.
 90.67,94.26,Willow,What's it like where you are?
 95.51,97.56,Xander,I'm sorry. I was just...
-97.56,99.43,,thinking about things.
+97.56,99.43,Xander,thinking about things.
 99.51,101.92,Willow,"So, we're talking about a guy?"
 101.92,103.37,Buffy,Not exactly a guy.
 103.41,105.27,Buffy,"For us to have a conversation about a guy,"
@@ -262,9 +262,9 @@
 824.98,828.91,Giles,with the basic tools of combat.
 829.7,831.42,Buffy,"Now, let's begin..."
 831.42,833.42,Giles,"with the quarterstaff,"
-833.5,837.8,,which incidentally will require
-833.5,837.8,,countless hours of vigorous training.
-837.88,839.57,,I speak from experience.
+833.5,837.8,Giles,which incidentally will require
+833.5,837.8,Giles,countless hours of vigorous training.
+837.88,839.57,Giles,I speak from experience.
 839.57,840.97,Buffy,"Giles, 20th century?"
 841.05,843.31,Buffy,I'm not gonna be fighting Friar Tuck.
 843.31,845.92,Giles,You never know with whom or what
@@ -804,10 +804,10 @@
 2502.74,2506.41,Xander,And I don't need to watch
 2502.74,2506.41,Xander,because I'm not threatened.
 2506.45,2508.56,Xander,I'm just gonna look this way.
-2508.63,2512.89,Lyrics,# Did they know what they wanted
-2513.74,2517.6,Lyrics,# the times they kissed me?
+2508.63,2512.89,Sophie Zelmani ♫,# Did they know what they wanted
+2513.74,2517.6,Sophie Zelmani ♫,# the times they kissed me?
 2519.89,2522.68,Angel,# And your hands
-2522.68,2525.46,Lyrics,I held in mine
+2522.68,2525.46,Sophie Zelmani ♫,I held in mine
 2525.49,2528.32,Angel,I just wanted to see if you were OK
 2525.49,2528.32,Angel,and your mother.
 2529.98,2532.57,Buffy,We're both good. You?
@@ -824,26 +824,22 @@
 2559.59,2562.31,Buffy,"I know. Me, too."
 2566.48,2568.9,Buffy,One of us has to go here.
 2569.65,2572.06,Angel,I know.
-2574.81,2577.46,Lyrics,# Your eyes
-2577.46,2582.8,Lyrics,#  That always make me shiver
-2583.1,2586.15,Lyrics,# Now they are closed
-2586.15,2590.82,Lyrics,# They just sometimes twitch a little
+2574.81,2577.46,Sophie Zelmani ♫,# Your eyes
+2577.46,2582.8,Sophie Zelmani ♫,#  That always make me shiver
+2583.1,2586.15,Sophie Zelmani ♫,# Now they are closed
+2586.15,2590.82,Sophie Zelmani ♫,# They just sometimes twitch a little
 2590.85,2592.68,Xander,What's going on?
 2592.68,2593.59,Willow,Nothing.
 2593.67,2595.71,Xander,"Well, as long as they're not kissing."
-2595.74,2598.31,,# And your body
-2595.74,2598.31,,I could hold for an hour
-2598.8,2602.27,,# It sent me to Heaven
-2602.27,2606.73,,# With its heat and power...
-2607.97,2609.02,,You OK?
-2610.81,2614.31,,It's just...
-2610.81,2614.31,,Painful.
-2614.4,2616.48,,I know.
-2618.73,2620.82,,See you around?
-2620.82,2626.61,,# I'll remember you
-2620.82,2626.61,,And that is all that I can do
-2626.61,2630.88,,# But I'll remember...
-2635.04,2641.73,,Subtitles by Visiontext
-2635.04,2641.73,,Corrections & timing by UAR
-0.5,4.02,,"font color=""#ffff00"" size=14>www.tvsubtitles.net</font>"
-0.5,4.02,,end
+2595.74,2598.31,Sophie Zelmani ♫ ,# And your body
+2595.74,2598.31,Sophie Zelmani ♫,I could hold for an hour
+2598.8,2602.27,Sophie Zelmani ♫,# It sent me to Heaven
+2602.27,2606.73,Sophie Zelmani ♫,# With its heat and power...
+2607.97,2609.02,Buffy,You OK?
+2610.81,2614.31,Angel,It's just...
+2610.81,2614.31,Buffy,Painful.
+2614.4,2616.48,Buffy,I know.
+2618.73,2620.82,Buffy,See you around?
+2620.82,2626.61,Sophie Zelmani ♫,# I'll remember you
+2620.82,2626.61,Sophie Zelmani ♫,And that is all that I can do
+2626.61,2630.88,Sophie Zelmani ♫,# But I'll remember...

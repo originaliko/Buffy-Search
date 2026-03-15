@@ -1,7 +1,7 @@
-2.06,4.46,,In every generation there is a Chosen One.
-4.46,10.09,,"She alone will stand against the vampires,"
-4.46,10.09,,the demons and the forces of darkness.
-10.09,12.62,,She is the Slayer.
+2.06,4.46,Narrator,In every generation there is a Chosen One.
+4.46,10.09,Narrator,"She alone will stand against the vampires,"
+4.46,10.09,Narrator,the demons and the forces of darkness.
+10.09,12.62,Narrator,She is the Slayer.
 71.01,73.12,Darla,Are you sure this is a good idea?
 73.12,76.45,Boy,"It's a great idea. Now, come on."
 82.28,84.22,Darla,Do you go to school here?
@@ -790,8 +790,4 @@
 2511.27,2515.07,Luke,"will walk among them once more."""
 2516.69,2520.36,Luke,"The Earth will belong to the Old Ones."""
 2522.62,2527,Luke,"And Hell itself will come to town."""
-2554.61,2556.61,,Amen.
-2563.07,2568.59,,Subtitles by: Claire Bates
-2563.07,2568.59,,Adjusted by: UAR
-0.5,4.02,,"font color=""#ffff00"" size=14>www.tvsubtitles.net</font>"
-0.5,4.02,,end
+2554.61,2556.61,Luke,Amen.

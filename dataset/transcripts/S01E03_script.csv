@@ -1,15 +1,15 @@
-2.06,4.46,,In every generation there is a Chosen One.
-4.46,10.09,,"She alone will stand against the vampires,"
-4.46,10.09,,the demons and the forces of darkness.
-10.09,12.62,,She is the Slayer.
-15.28,16.9,,This is madness.
-16.98,19.45,,What can you have been thinking?
-19.53,22.91,,You are the Slayer. Lives depend upon you.
-22.99,25.5,,"I make allowances for your youth,"
-25.5,27.42,,but I expect
-25.5,27.42,,a certain amount of responsibility.
-27.48,34.02,,"Instead of which,"
-27.48,34.02,,you enslave yourself to thisthis... cult?
+2.06,4.46,Narrator,In every generation there is a Chosen One.
+4.46,10.09,Narrator,"She alone will stand against the vampires,"
+4.46,10.09,Narrator,the demons and the forces of darkness.
+10.09,12.62,Narrator,She is the Slayer.
+15.28,16.9,Giles,This is madness.
+16.98,19.45,Giles,What can you have been thinking?
+19.53,22.91,Giles,You are the Slayer. Lives depend upon you.
+22.99,25.5,Giles,"I make allowances for your youth,"
+25.5,27.42,Giles,but I expect
+25.5,27.42,Giles,a certain amount of responsibility.
+27.48,34.02,Giles,"Instead of which,"
+27.48,34.02,Giles,you enslave yourself to thisthis... cult?
 32.71,35.42,Buffy,You don't like the colour?
 35.42,36.04,Giles,I d...
 37.71,39.63,Giles,"Do you, erm... do you ignore"
@@ -893,16 +893,12 @@
 2622.91,2624.68,Amy,Yeah. That's for sure.
 2625.72,2628.64,Amy,"Catherine the Great."""
 2628.73,2631.27,Buffy,And there's been no sign of her?
-2631.35,2635.86,,That last spell?
-2631.35,2635.86,,She said I'd never make trouble again.
-2635.94,2639.15,,"Wherever she is,"
-2635.94,2639.15,,I don't think we'll have to worry.
-2641.41,2643.49,,Twisted.
-2644.91,2647.12,,I'm just happy to have my body back.
-2647.2,2648.97,,I'm thinking of getting fat.
-2648.97,2652.75,,"You know, I hear"
-2648.97,2652.75,,that look's in for spring.
-2658.11,2669.6,,Subtitles by: Claire Bates
-2658.11,2669.6,,Corrected and adjusted by: UAR
-0.5,4.02,,"font color=""#ffff00"" size=14>www.tvsubtitles.net</font>"
-0.5,4.02,,end
+2631.35,2635.86,Amy,That last spell?
+2631.35,2635.86,Amy,She said I'd never make trouble again.
+2635.94,2639.15,Amy,"Wherever she is,"
+2635.94,2639.15,Amy,I don't think we'll have to worry.
+2641.41,2643.49,Buffy,Twisted.
+2644.91,2647.12,Amy,I'm just happy to have my body back.
+2647.2,2648.97,Amy,I'm thinking of getting fat.
+2648.97,2652.75,Amy,"You know, I hear"
+2648.97,2652.75,Amy,that look's in for spring.

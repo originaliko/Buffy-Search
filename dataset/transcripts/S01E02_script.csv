@@ -1,12 +1,12 @@
-1.85,4.65,,In every generation there is a Chosen One.
-4.65,7.29,,"She alone will stand against the vampires,"
-7.32,9.99,,the demons and the forces of darkness.
-10,12.47,,She is the Slayer.
-36.6,38.06,,No! Get off!
-38.15,39.94,,Hey!
-52.91,54.79,,Xander!
-62.88,64.91,,"Xander, are you OK?"
-64.91,66.96,,"Man, something hit me."
+1.85,4.65,Narrator,In every generation there is a Chosen One.
+4.65,7.29,Narrator,"She alone will stand against the vampires,"
+7.32,9.99,Narrator,the demons and the forces of darkness.
+10,12.47,Narrator,She is the Slayer.
+36.6,38.06,Buffy,No! Get off!
+38.15,39.94,Willow,Hey!
+52.91,54.79,Willow,Xander!
+62.88,64.91,Willow,"Xander, are you OK?"
+64.91,66.96,Xander,"Man, something hit me."
 66.96,67.7,Buffy,Where's Jesse?
 67.7,69.46,Willow,I don't know. They surrounded us.
 69.55,71.18,Xander,That girl grabbed him and took off.
@@ -785,7 +785,3 @@
 2648.91,2651.07,Buffy,"more subtle approach, you know?"
 2651.07,2653.79,Buffy,Like... excessive not studying.
 2654.17,2656.25,Giles,The Earth is doomed!
-2658.3,2662.26,,Subtitles by: Claire Bates
-2658.3,2662.26,,Completed and adjusted by: UAR
-0.5,4.02,,"font color=""#ffff00"" size=14>www.tvsubtitles.net</font>"
-0.5,4.02,,end
