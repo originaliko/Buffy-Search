@@ -1,9 +1,9 @@
-4.12,6.96,,# I think I slip the net
-6.99,10.33,,# But I cut myself free
-10.45,13.67,,# I'm not losing yet
-13.71,15.97,,# So don't forget me
+4.12,6.96,Lyrics,# I think I slip the net
+6.99,10.33,Lyrics,# But I cut myself free
+10.45,13.67,Lyrics,# I'm not losing yet
+13.71,15.97,Lyrics,# So don't forget me
 18.02,21.02,Lyrics,"# I'll say it, replay it"
-19.04,20.94,,"Passion,"
+19.04,20.94,Angelus,"Passion,"
 22.57,24.41,Angelus,It lies in all of us...
 25.07,28.97,Angelus,"sleeping, waiting,"
 31.02,32.44,Angelus,"And though unwanted, unbidden..."
@@ -784,16 +784,13 @@
 2521.33,2524.37,Buffy,When I had the chance.
 2528.77,2531.26,Buffy,I wasn't ready.
 2533.05,2536.85,Buffy,But I think I finally am.
-2537.38,2539.17,,Hi.
-2539.51,2543.41,,Principal Snyder asked me
-2539.51,2543.41,,to fill in for Ms Calendar...
-2543.44,2547.58,,until the new
-2543.44,2547.58,,computerscience teacher arrives.
-2548.23,2553.61,,"So, I'm just gonna stick to"
-2548.23,2553.61,,the lesson plan she left.
-2554.93,2558.11,,I can't hold on to the past any more.
-2558.14,2560.43,,Angel is gone.
-2560.47,2563.54,,Nothing's ever gonna bring him back.
-2567.12,2572.2,,Subtitles extended & timed by UAR
-0.5,4.02,,"font color=""#ffff00"" size=14>www.tvsubtitles.net</font>"
-0.5,4.02,,end
+2537.38,2539.17,Buffy,Hi.
+2539.51,2543.41,Willow,Principal Snyder asked me
+2539.51,2543.41,Willow,to fill in for Ms Calendar...
+2543.44,2547.58,Willow,until the new
+2543.44,2547.58,Willow,computerscience teacher arrives.
+2548.23,2553.61,Willow,"So, I'm just gonna stick to"
+2548.23,2553.61,Willow,the lesson plan she left.
+2554.93,2558.11,Buffy,I can't hold on to the past any more.
+2558.14,2560.43,Buffy,Angel is gone.
+2560.47,2563.54,Buffy,Nothing's ever gonna bring him back.

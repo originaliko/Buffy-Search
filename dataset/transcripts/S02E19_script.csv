@@ -1,25 +1,25 @@
-2.63,7.43,,# The way you love
-8.26,12.66,,# Have you got a name for it?
-13.49,17.88,,# Cos I don't understand
-18.27,22.04,,# It
-25.15,30.27,,# The language is an annoying necessity
-30.3,35.63,,# And I depend on all the regular things
-36.11,41.22,,# Got a list tattooed on my memory
-41.25,47.1,,# Of how our tryst should unfold
-53.93,55.47,,Hey.
-53.93,55.47,,# I'm falling from the opposite
-55.81,60.68,,I'm Ben. We had
-55.81,60.68,,Algebra II together last year?
-60.71,65.19,,"I'm sorry, I pretty much repress"
-60.71,65.19,,anything mathrelated.
-65.23,68.15,,Ms. Jackson? Second period?
-68.16,70.85,,You sat in the seat three over
-68.16,70.85,,and one behind.
-70.89,73.28,,"Oh! Yeah, I remember now."
-70.89,73.28,,It's the one with the
-73.28,75.56,,"desks, and the chalkboards,"
-73.28,75.56,,"and pencils, and stuff, right?"
-75.6,77.08,,That's the one.
+2.63,7.43,Lyrics,# The way you love
+8.26,12.66,,Lyrics# Have you got a name for it?
+13.49,17.88,Lyrics,# Cos I don't understand
+18.27,22.04,Lyrics,# It
+25.15,30.27,Lyrics,# The language is an annoying necessity
+30.3,35.63,Lyrics,# And I depend on all the regular things
+36.11,41.22,Lyrics,# Got a list tattooed on my memory
+41.25,47.1,Lyrics,# Of how our tryst should unfold
+53.93,55.47,Ben,Hey.
+53.93,55.47,Lyrics,# I'm falling from the opposite
+55.81,60.68,Ben,I'm Ben. We had
+55.81,60.68,Ben,Algebra II together last year?
+60.71,65.19,Buffy,"I'm sorry, I pretty much repress"
+60.71,65.19,Buffy,anything math-related.
+65.23,68.15,Ben,Ms. Jackson? Second period?
+68.16,70.85,Ben,You sat in the seat three over
+68.16,70.85,Ben,and one behind.
+70.89,73.28,Buffy,"Oh! Yeah, I remember now."
+70.89,73.28,Buffy,It's the one with the
+73.28,75.56,Buffy,"desks, and the chalkboards,"
+73.28,75.56,Buffy,"and pencils, and stuff, right?"
+75.6,77.08,Ben,That's the one.
 77.08,78.85,Buffy,Like a steel trap.
 78.89,82.08,Ben,"So, I was wonderin',"
 78.89,82.08,Ben,you know the dance tomorrow night?
@@ -42,8 +42,8 @@
 115.18,117.12,Lyrics,# Fight the map with no key attached
 117.15,117.97,Buffy,Sorry.
 117.97,121.32,Lyrics,"My heart's enlarged, and I charge"
-121.5,124.1,,# I'm falling from the opposite
-124.13,126.59,,# What good is it?
+121.5,124.1,Lyrics,# I'm falling from the opposite
+124.13,126.59,Lyrics,# What good is it?
 127.13,129.93,Lyrics,# Fight the map with no key attached
 129.96,134.53,Lyrics,# My heart's enlarged and I charge
 140.89,143.88,Willow,Hey. You're bailin'?
@@ -291,13 +291,13 @@
 810.1,811.77,Ms. Frank,It doesn't matter what I feel.
 811.77,813.49,Buffy,Then tell me you don't love me.
 813.85,816.49,James,Say it!
-817.61,819.85,,Will that help?
-819.88,822.26,,Is that what you have to hear?
-823.24,827.12,,I don't. I don't!
-827.62,830.34,,Now let me go.
-827.62,830.34,,No.
-830.38,834.03,,A person doesn't just wake up one day
-830.38,834.03,,and stop loving somebody.
+817.61,819.85,Ms. Frank,Will that help?
+819.88,822.26,Ms. Frank,Is that what you have to hear?
+823.24,827.12,Ms. Frank,I don't. I don't!
+827.62,830.34,Ms. Frank,Now let me go.
+827.62,830.34,George,No.
+830.38,834.03,George,A person doesn't just wake up one day
+830.38,834.03,George,and stop loving somebody.
 835.75,838.5,George,Love is forever.
 843.45,848.11,George,I'm not afraid to use it.
 843.45,848.11,George,If I can't be with you...
@@ -305,14 +305,14 @@
 860.92,863.68,Voice,I need you.
 867.7,869.63,Giles,Jenny.
 873.8,876.32,James,"Don't! Don't do that, dammit!"
-876.32,879.62,,Don't talk to me like I'm some dumb...
-900.75,904.82,,What's going on?
-900.75,904.82,,What's going on?!
-904.86,907.73,,You just shot a woman.
-913.21,915.34,,And this...
-915.38,918.36,,This is the garden.
-918.4,920.3,,Wow!
-920.63,924.56,,Look. Jasmine.
+876.32,879.62,George,Don't talk to me like I'm some dumb...
+900.75,904.82,George,What's going on?
+900.75,904.82,Giles,What's going on?!
+904.86,907.73,Giles,You just shot a woman.
+913.21,915.34,Angelus,And this...
+915.38,918.36,Angelus,This is the garden.
+918.4,920.3,Drusilla,Wow!
+920.63,924.56,Drusilla,Look. Jasmine.
 924.59,926.58,Angelus,Nightblooming.
 926.58,927.71,Drusilla,Like us.
 927.75,933.12,Drusilla,"Oh, Angel... it's fairyland."
@@ -757,20 +757,20 @@
 2202.89,2206.93,Ms. Newman,Will that help?
 2208.51,2211.05,Ms. Newman,I don't.
 2211.24,2214.55,Angelus,I don't. Now let me go.
-2214.55,2214.98,,No!
-2214.99,2219.52,,A person doesn't just wake up
-2214.99,2219.52,,and stop loving somebody!
-2223.75,2226.23,,Love is forever.
-2228.13,2231.04,,"I'm not afraid to use it, I swear!"
-2231.26,2233.67,,If I can't be with you...
-2233.76,2236.24,,"Oh, my God!"
-2236.89,2239.73,,Don't walk away from me...
-2236.89,2239.73,,bitch!
-2242.72,2244.59,,Stop it!
-2244.62,2246.68,,Stop it! Don't make me!
-2246.71,2248.95,,All right. Just...
-2254.41,2257.25,,You know you don't wanna do this.
-2258.16,2260.37,,Let's both...
+2214.55,2214.98,Buffy,No!
+2214.99,2219.52,Buffy,A person doesn't just wake up
+2214.99,2219.52,Buffy,and stop loving somebody!
+2223.75,2226.23,Buffy,Love is forever.
+2228.13,2231.04,Buffy,"I'm not afraid to use it, I swear!"
+2231.26,2233.67,Buffy,If I can't be with you...
+2233.76,2236.24,Angelus,"Oh, my God!"
+2236.89,2239.73,Jacksonmes,Don't walk away from me...
+2236.89,2239.73,Buffy,bitch!
+2242.72,2244.59,Buffy,Stop it!
+2244.62,2246.68,Buffy,Stop it! Don't make me!
+2246.71,2248.95,Angelus,All right. Just...
+2254.41,2257.25,Ms. Newman,You know you don't wanna do this.
+2258.16,2260.37,Ms. Newman,Let's both...
 2260.41,2262.94,Ms. Newman,just calm down.
 2264.32,2267.17,Ms. Newman,Now give me the gun.
 2268.17,2271.71,James,"Don't! Don't do that, dammit!"
@@ -833,6 +833,3 @@
 2592.45,2596.58,Angelus,Sorry. Try to have fun without me.
 2605.58,2608.72,Spike,"Oh, I will."
 2623.73,2626.18,Spike,Sooner than you think.
-2626.18,2630.61,,Subtitles extended and timed by UAR
-0.5,4.02,,"font color=""#ffff00"" size=14>www.tvsubtitles.net</font>"
-0.5,4.02,,end

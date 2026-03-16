@@ -352,17 +352,17 @@
 971.79,973.92,Angel,"with you guys, right?"
 973.95,975.6,Willow,Let me just see if I can...
 975.6,976.03,Buffy,Willow?
-976.06,977.21,,Are you still up?
-976.06,977.21,,Ack! Go!
-977.24,980.24,,"Uh, I'm just going to bed now, Mom!"
-980.27,982.95,,Come by tomorrow at sunset.
-980.27,982.95,,I'll keep looking.
-982.99,984.88,,Don't tell Buffy
-982.99,984.88,,"what we're doing, all right?"
-984.88,986.91,,You want me to lie to her?
-984.88,986.91,,It's Buffy!
-986.94,989.35,,Just don't bring it up
-986.94,989.35,,till we know what's what.
+976.06,977.21,Mrs. Rosenberg,Are you still up?
+976.06,977.21,Willow,Ack! Go!
+977.24,980.24,Willow,"Uh, I'm just going to bed now, Mom!"
+980.27,982.95,Willow,Come by tomorrow at sunset.
+980.27,982.95,Willow,I'll keep looking.
+982.99,984.88,Angel,Don't tell Buffy
+982.99,984.88,Angel,"what we're doing, all right?"
+984.88,986.91,Willow,You want me to lie to her?
+984.88,986.91,Willow,It's Buffy!
+986.94,989.35,Angel,Just don't bring it up
+986.94,989.35,Angel,till we know what's what.
 989.42,992.16,Willow,OK. It's probably nothing.
 992.16,993.74,Angel,That'd be nice.
 1003.38,1005.82,Buffy,Willow!
@@ -900,44 +900,41 @@
 2470.19,2473.34,Buffy,For the body.
 2475.2,2476.67,Ford,What happened?
 2476.67,2479.39,Spike,We're stuck in a basement.
-2480.2,2482.04,,Buffy?
-2483.33,2485.91,,She's not stuck in the basement.
-2486.46,2490.52,,"Hey, well... I delivered."
-2486.46,2490.52,,I handed her to you.
-2490.55,2492.84,,Yes. I suppose you did.
-2493.96,2497.92,,So? What about my reward?
-2551.56,2554.02,,I don't know what I'm supposed to say.
-2554.07,2556.79,,You needn't say anything.
-2557.82,2560.86,,Be simpler if I could just hate him.
-2561.57,2563.6,,I think he wanted me to.
-2563.6,2567.96,,I think it made it easier for him
-2563.6,2567.96,,to be the villain of the piece.
-2568.46,2571.6,,Really he was just scared.
-2571.63,2575.86,,"Yes, I suppose he was."
-2571.63,2575.86,,Nothing's ever simple any more.
-2575.9,2578.89,,I'm constantly trying to work it out.
-2578.93,2583.3,,"Who to love or hate, who to trust."
-2583.9,2587.87,,"It's just like the more I know,"
-2583.9,2587.87,,the more confused I get.
-2587.91,2592.65,,"Well, I believe that's called growing up."
-2592.69,2597.18,,"I'd like to stop, then. OK?"
-2592.69,2597.18,,I know the feeling.
-2597.22,2599.85,,Does it ever get easy?
-2612.25,2614.5,,You mean life?
-2614.95,2618.63,,Yeah. Does it get easy?
-2619.76,2622.42,,What do you want me to say?
-2625.19,2628.04,,Lie to me.
-2629.14,2631.79,,"Yes, it's terribly simple."
-2632.59,2635.11,,The good guys are always
-2632.59,2635.11,,stalwart and true.
-2635.14,2637.39,,The bad guys
-2635.14,2637.39,,are easily distinguished by
-2637.39,2639.65,,their pointy horns or black hats.
-2639.68,2642.48,,"And, uh, we always defeat them"
-2639.68,2642.48,,and save the day.
-2642.51,2646.82,,No one ever dies and...
-2642.51,2646.82,,everybody lives happily ever after.
-2647.91,2650.34,,Liar.
-2650.84,2654.38,,Subtitles extended & timed by: UAR
-0.5,4.02,,"font color=""#ffff00"" size=14>www.tvsubtitles.net</font>"
-0.5,4.02,,end
+2480.2,2482.04,Ford,Buffy?
+2483.33,2485.91,Spike,She's not stuck in the basement.
+2486.46,2490.52,Ford,"Hey, well... I delivered."
+2486.46,2490.52,Ford,I handed her to you.
+2490.55,2492.84,Spike,Yes. I suppose you did.
+2493.96,2497.92,Ford,So? What about my reward?
+2551.56,2554.02,Buffy,I don't know what I'm supposed to say.
+2554.07,2556.79,Giles,You needn't say anything.
+2557.82,2560.86,Buffy,Be simpler if I could just hate him.
+2561.57,2563.6,Buffy,I think he wanted me to.
+2563.6,2567.96,Buffy,I think it made it easier for him
+2563.6,2567.96,Buffy,to be the villain of the piece.
+2568.46,2571.6,Buffy,Really he was just scared.
+2571.63,2575.86,Giles,"Yes, I suppose he was."
+2571.63,2575.86,Buffy,Nothing's ever simple any more.
+2575.9,2578.89,Buffy,I'm constantly trying to work it out.
+2578.93,2583.3,Buffy,"Who to love or hate, who to trust."
+2583.9,2587.87,Buffy,"It's just like the more I know,"
+2583.9,2587.87,Buffy,the more confused I get.
+2587.91,2592.65,Giles,"Well, I believe that's called growing up."
+2592.69,2597.18,Buffy,"I'd like to stop, then. OK?"
+2592.69,2597.18,Giles,I know the feeling.
+2597.22,2599.85,Buffy,Does it ever get easy?
+2612.25,2614.5,Giles,You mean life?
+2614.95,2618.63,Buffy,Yeah. Does it get easy?
+2619.76,2622.42,Giles,What do you want me to say?
+2625.19,2628.04,Buffy,Lie to me.
+2629.14,2631.79,Giles,"Yes, it's terribly simple."
+2632.59,2635.11,Giles,The good guys are always
+2632.59,2635.11,Giles,stalwart and true.
+2635.14,2637.39,Giles,The bad guys
+2635.14,2637.39,Giles,are easily distinguished by
+2637.39,2639.65,Giles,their pointy horns or black hats.
+2639.68,2642.48,Giles,"And, uh, we always defeat them"
+2639.68,2642.48,Giles,and save the day.
+2642.51,2646.82,Giles,No one ever dies and...
+2642.51,2646.82,Giles,everybody lives happily ever after.
+2647.91,2650.34,Buffy,Liar.

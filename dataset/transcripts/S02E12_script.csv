@@ -1,7 +1,7 @@
-2.02,4.22,,"In every generation, there is a Chosen One,"
-4.26,10.48,,"She alone will stand against the vampires,"
-4.26,10.48,,"the demons and the forces of darkness,"
-10.51,13.05,,"She is the Slayer,"
+2.09,4.34,Giles V.O.,"In every generation there is a Chosen One,"
+4.59,9.07,Giles V.O.,"She alone will stand against the vampires,"
+4.59,9.07,Giles V.O.,"the demons and the forces of darkness,"
+9.11,12.09,Giles V.O.,"She is the Slayer,"
 21.8,23.33,Buffy,"Come on, Mom. Please?"
 23.33,24.56,Joyce,"I'm sorry, honey."
 24.59,26.87,Buffy,Don't you understand
@@ -702,87 +702,84 @@
 2214.37,2216.87,Xander,What are they diggin' up?
 2221.46,2223.61,Buffy,"Oh, boy."
 2225.88,2227.96,Buffy,We can't let them spread those eggs.
-2227.96,2231.54,,"I'll handle it. Um, can you,"
-2227.96,2231.54,,"uh, hold down the fort?"
-2231.92,2235.58,,I'm gonna need a weapon.
-2231.92,2235.58,,I'm gonna need a big weapon.
-2235.62,2237.31,,Yeah.
-2274.43,2279.02,,I told you this weren't over.
-2274.43,2279.02,,"She's so cute, and little."
-2279.05,2281.02,,Think we can keep her?
-2281.02,2283.76,,"Guys, this really isn't a great time."
-2283.8,2286.28,,"Oh, it's gonna be."
-2290.5,2292.76,,Hey! That's my brother!
-2298.55,2301.35,,What the hell is this?
-2302.21,2304.29,,Mom?
-2304.76,2306.89,,Kill them.
-2319.97,2322.01,,What the hell is goin' on?
-2323.73,2325.61,,Long story.
-2358.7,2361.96,,Cordelia! I don't want to hurt you...
-2358.7,2361.96,,some of the time.
-2365.53,2367.57,,That's my bump!
-2376.38,2378.68,,"Well, all right!"
-2384.76,2386.99,,"Well, lookee there!"
-2392.09,2394.14,,"Well, hello!"
-2399.57,2401.64,,Tector!
-2402.53,2404.68,,Tector?
-2406.86,2410.16,,This is all your fault.
-2406.86,2410.16,,How?
-2472.53,2475.77,,All right. It's over.
-2488.46,2492.36,,"Yes, yes, uh, iiit was aa,"
-2488.46,2492.36,,"a gas leak, everyone."
-2492.39,2496.63,,"But just, er... get some air..."
-2492.39,2496.63,,"and, er... a good night's rest, you know."
-2496.68,2500.66,,You'll be fine. These gas things...
-2496.68,2500.66,,"do happen, actually."
-2500.69,2502.65,,Wwwhat was it really?
-2500.69,2502.65,,Stick with the gas thing.
-2502.65,2505.3,,I'll fill you in tomorrow.
-2502.65,2505.3,,Right.
-2507.11,2508.78,,How you guys doin'?
-2509.01,2511.27,,Did I really hit you?
-2509.01,2511.27,,You knocked me out.
-2511.52,2513.32,,Did I hit you?
-2511.52,2513.32,,Yes! Everyone hit me.
-2513.7,2516.02,,"Good. Well, I don't mean"
-2513.7,2516.02,,"good"" because I hit you,"
-2516.02,2518.26,,but I didn't want to be left out.
-2520.3,2523.11,,How is she?
-2520.3,2523.11,,"She's a bit confused, but..."
-2523.11,2525.31,,It's going around.
-2532.84,2534.81,,Are you OK?
-2532.84,2534.81,,"Buffy, I was worried."
-2534.81,2537.66,,you'd gotten caught in the building.
-2534.81,2537.66,,"There, there was a gas leak."
-2537.85,2540.26,,"Yeah, I just heard. I was in the gym."
-2540.36,2544.52,,I went looking for you in the library.
-2540.36,2544.52,,"Oh, well, I was on my way there when I..."
-2544.55,2547.65,,I thought I made it pretty clear that
-2544.55,2547.65,,you weren't to leave the library
-2547.65,2549.86,,till I came.
-2547.65,2549.86,,The other side of that is
-2549.9,2551.6,,there was a gas leak...
-2549.9,2551.6,,I'm not really interested
-2551.61,2553.52,,in the other side right now.
-2553.56,2556.55,,"Young lady, you have to learn"
-2553.56,2556.55,,"some responsibility, OK?"
-2556.55,2558.72,,Once and for all.
-2556.55,2558.72,,I'm grounded?
-2558.75,2561.16,,You're already grounded!
-2558.75,2561.16,,"Oh, yeah."
-2561.19,2564.18,,"Until further notice,"
-2561.19,2564.18,,you are confined to your room.
-2564.21,2568.65,,You will not leave your room at any time
-2564.21,2568.65,,except to go to school or the bathroom.
-2568.69,2572.68,,Am I making myself clear?
-2568.69,2572.68,,You're clear.
-2572.69,2574.84,,I... won't leave my room.
-2574.87,2577.75,,"You're damn right, you won't."
-2586.12,2590.67,,You sure you're not gonna get in trouble?
-2586.12,2590.67,,Hey. I earned this.
+2227.96,2231.54,Xander,"I'll handle it. Um, can you,"
+2227.96,2231.54,Xander,"uh, hold down the fort?"
+2231.92,2235.58,Buffy,I'm gonna need a weapon.
+2231.92,2235.58,Buffy,I'm gonna need a big weapon.
+2235.62,2237.31,Xander,Yeah.
+2274.43,2279.02,Lyle,I told you this weren't over.
+2274.43,2279.02,Tector,"She's so cute, and little."
+2279.05,2281.02,Tector,Think we can keep her?
+2281.02,2283.76,Buffy,"Guys, this really isn't a great time."
+2283.8,2286.28,Lyle,"Oh, it's gonna be."
+2290.5,2292.76,Lyle,Hey! That's my brother!
+2298.55,2301.35,Lyle,What the hell is this?
+2302.21,2304.29,Buffy,Mom?
+2304.76,2306.89,Willow,Kill them.
+2319.97,2322.01,Lyle,What the hell is goin' on?
+2323.73,2325.61,Buffy,Long story.
+2358.7,2361.96,Xander,Cordelia! I don't want to hurt you...
+2358.7,2361.96,Xander,some of the time.
+2365.53,2367.57,Xander,That's my bump!
+2376.38,2378.68,Tector,"Well, all right!"
+2384.76,2386.99,Tector,"Well, lookee there!"
+2392.09,2394.14,Tector,"Well, hello!"
+2399.57,2401.64,Lyle,Tector!
+2402.53,2404.68,Lyle,Tector?
+2406.86,2410.16,Lyle,This is all your fault.
+2406.86,2410.16,Buffy,How?
+2472.53,2475.77,Lyle,All right. It's over.
+2488.46,2492.36,Giles,"Yes, yes, uh, iiit was aa,"
+2488.46,2492.36,Giles,"a gas leak, everyone."
+2492.39,2496.63,Giles,"But just, er... get some air..."
+2492.39,2496.63,Giles,"and, er... a good night's rest, you know."
+2496.68,2500.66,Giles,You'll be fine. These gas things...
+2496.68,2500.66,Giles,"do happen, actually."
+2500.69,2502.65,Giles,Wwwhat was it really?
+2500.69,2502.65,Xander,Stick with the gas thing.
+2502.65,2505.3,Xander,I'll fill you in tomorrow.
+2502.65,2505.3,Giles,Right.
+2507.11,2508.78,Xander,How you guys doin'?
+2509.01,2511.27,Willow,Did I really hit you?
+2509.01,2511.27,Xander,You knocked me out.
+2511.52,2513.32,Cordelia,Did I hit you?
+2511.52,2513.32,Xander,Yes! Everyone hit me.
+2513.7,2516.02,Cordelia,"Good. Well, I don't mean"
+2513.7,2516.02,Cordelia,"good"" because I hit you,"
+2516.02,2518.26,Cordelia,but I didn't want to be left out.
+2520.3,2523.11,Buffy,How is she?
+2520.3,2523.11,Xander,"She's a bit confused, but..."
+2523.11,2525.31,Xander,It's going around.
+2532.84,2534.81,Buffy,Are you OK?
+2532.84,2534.81,Joyce,"Buffy, I was worried."
+2534.81,2537.66,Joyce,you'd gotten caught in the building.
+2534.81,2537.66,Joyce,"There, there was a gas leak."
+2537.85,2540.26,Buffy,"Yeah, I just heard. I was in the gym."
+2540.36,2544.52,Joyce,I went looking for you in the library.
+2540.36,2544.52,Buffy,"Oh, well, I was on my way there when I..."
+2544.55,2547.65,Joyce,I thought I made it pretty clear that
+2544.55,2547.65,Joyce,you weren't to leave the library
+2547.65,2549.86,Joyce,till I came.
+2547.65,2549.86,Buffy,The other side of that is
+2549.9,2551.6,Buffy,there was a gas leak...
+2549.9,2551.6,Joyce,I'm not really interested
+2551.61,2553.52,Joyce,in the other side right now.
+2553.56,2556.55,Joyce,"Young lady, you have to learn"
+2553.56,2556.55,Joyce,"some responsibility, OK?"
+2556.55,2558.72,Joyce,Once and for all.
+2556.55,2558.72,Buffy,I'm grounded?
+2558.75,2561.16,Joyce,You're already grounded!
+2558.75,2561.16,Buffy,"Oh, yeah."
+2561.19,2564.18,Joyce,"Until further notice,"
+2561.19,2564.18,Joyce,you are confined to your room.
+2564.21,2568.65,Joyce,You will not leave your room at any time
+2564.21,2568.65,Joyce,except to go to school or the bathroom.
+2568.69,2572.68,Joyce,Am I making myself clear?
+2568.69,2572.68,Buffy,You're clear.
+2572.69,2574.84,Buffy,I... won't leave my room.
+2574.87,2577.75,Joyce,"You're damn right, you won't."
+2586.12,2590.67,Angel,You sure you're not gonna get in trouble?
+2586.12,2590.67,Buffy,Hey. I earned this.
 2590.7,2593.41,,"Sides, I'm not breaking any rules."
-2593.64,2596.03,,Buffy? Are you going to bed?
-2596.15,2599.2,,In a minute!
-2612.51,2618.2,,Subtitles extended & timed by UAR
-0.5,4.02,,"font color=""#ffff00"" size=14>www.tvsubtitles.net</font>"
-0.5,4.02,,end
+2593.64,2596.03,Joyce,Buffy? Are you going to bed?
+2596.15,2599.2,Buffy,In a minute!

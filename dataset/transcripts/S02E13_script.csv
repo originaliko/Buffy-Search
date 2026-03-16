@@ -1,8 +1,6 @@
-36.79,40.32,,"(# Cari Howe  ""Anything"""
-36.79,40.32,,by Sean Clement and Sean Murray)
-40.32,45.37,,"# Lyin' down, givin' in to you..."
-45.95,48.48,,"Le hippo a piqué ton pantalon,"
-48.52,52.46,,# I'm a hurricane
+40.32,45.37,Lyrics,"# Lyin' down, givin' in to you..."
+45.95,48.48,Lyrics,"Le hippo a piqué ton pantalon,"
+48.52,52.46,Lyrics,# I'm a hurricane
 52.84,57.6,Lyrics,# I can't describe this feelin'...
 60.7,64.4,Lyrics,# Now that I've found this love
 64.43,67.68,Joyce,"Do you really think you're ready, Buffy?"
@@ -308,12 +306,12 @@
 934.88,937.3,Enyos,"Jenny Calendar."""
 939.88,941.41,Jenny,You startled me.
 941.41,942.75,Enyos,You look well.
-944.26,946.6,Buffy,"Yes, I'm fine."
-949.27,952.41,,I know I haven't written as much lately.
-949.27,952.41,,I've been busy.
-952.44,955.19,,I cannot imagine what is so important
-955.53,959.41,,to make you ignore
-955.53,959.41,,the responsibility to your people.
+944.26,946.6,Jenny,"Yes, I'm fine."
+949.27,952.41,Jenny,I know I haven't written as much lately.
+949.27,952.41,Jenny,I've been busy.
+952.44,955.19,Enyos,I cannot imagine what is so important
+955.53,959.41,Enyos,to make you ignore
+955.53,959.41,Enyos,the responsibility to your people.
 959.45,961.5,Jenny,"Well, I've been working. And..."
 961.5,964.09,Enyos,The elder woman has been reading signs.
 964.12,966.1,Enyos,Something is different.
@@ -776,22 +774,19 @@
 2480.05,2483.82,Angel,It's already closed. You're fine.
 2498.1,2501.43,Buffy,You almost went away today.
 2501.46,2504.12,Angel,We both did.
-2505.08,2507.73,,Angel...
-2508.21,2511.93,,I feel like I lost you.
-2517.6,2520.28,,"You're right, though."
-2521.35,2524.52,,We can't be sure of anything...
-2521.35,2524.52,,Shhh.
-2529.49,2531.32,,I...
-2542,2544.34,,You what?
-2547.43,2549.84,,I love you.
-2550.13,2552.72,,"I try not to, but I can't stop."
-2552.75,2555.12,,Me... Me too.
-2555.77,2558.47,,I can't either.
-2572.66,2574.79,,"Buffy, maybe we shouldn't..."
-2572.66,2574.79,,Don't.
-2576.02,2578.71,,Just kiss me.
-2607.08,2610.02,,Ah! Buffy!
-2613.33,2616.42,,Buffy!
-2616.42,2622.69,,Subtitles extended & timed by UAR
-0.5,4.02,,"font color=""#ffff00"" size=14>www.tvsubtitles.net</font>"
-0.5,4.02,,end
+2505.08,2507.73,Buffy,Angel...
+2508.21,2511.93,Buffy,I feel like I lost you.
+2517.6,2520.28,Buffy,"You're right, though."
+2521.35,2524.52,Buffy,We can't be sure of anything...
+2521.35,2524.52,Angel,Shhh.
+2529.49,2531.32,Angel,I...
+2542,2544.34,Buffy,You what?
+2547.43,2549.84,Angel,I love you.
+2550.13,2552.72,Angel,"I try not to, but I can't stop."
+2552.75,2555.12,Buffy,Me... Me too.
+2555.77,2558.47,Buffy,I can't either.
+2572.66,2574.79,Angel,"Buffy, maybe we shouldn't..."
+2572.66,2574.79,Buffy,Don't.
+2576.02,2578.71,Buffy,Just kiss me.
+2607.08,2610.02,Angel,Ah! Buffy!
+2613.33,2616.42,Angel,Buffy!
