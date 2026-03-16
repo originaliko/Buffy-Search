@@ -1,7 +1,7 @@
-0.74,4.21,,Freeze! Put your hands up.
-0.74,4.21,,"Back away from the girl, slowly."
-4.28,6.78,,"Look, I didn't do anything."
-4.28,6.78,,Do it! Now.
+0.74,4.21,Officer#1:,Freeze! Put your hands up.
+0.74,4.21,Officer#1:,"Back away from the girl, slowly."
+4.28,6.78,Buffy,"Look, I didn't do anything."
+4.28,6.78,Officer#1:,Do it! Now.
 7.93,8.91,Officer#2,This one's dead.
 8.91,10.14,Officer#1,What about up there?
 11.7,12.35,Buffy,Xander!
@@ -777,24 +777,21 @@
 2512.52,2514.83,Cordelia,We still have school.
 2514.83,2515.38,Willow,Yeah.
 2515.49,2517.43,Willow,She'll be here in a while.
-2517.49,2521.4,The camera pans down to a sign that reads,# Everything we say and do
-2521.75,2525.81,The camera pans down to a sign that reads,# Hurts us all the more
-2525.84,2528.96,The camera pans down to a sign that reads,# It's just that we stayed
-2529.25,2532.22,The camera pans down to a sign that reads,# Too long
-2532.25,2537.47,The camera pans down to a sign that reads,# In the same old sickly skin
-2538.64,2542.57,The camera pans down to a sign that reads,# I'm pulled down by the undertow
-2543.64,2548.76,The camera pans down to a sign that reads,# I never thought I could feel so low
-2548.79,2551.45,The camera pans down to a sign that reads,"# And, oh, darkness,"
-2551.45,2557.77,The camera pans down to a sign that reads,# I feel like letting go
-2559.91,2564.89,The camera pans down to a sign that reads,# If all of the strength
-2559.91,2564.89,The camera pans down to a sign that reads,and all of the courage
-2564.93,2570.46,The camera pans down to a sign that reads,# Come and lift me from this place
-2570.55,2576.08,The camera pans down to a sign that reads,# I know I could love you
-2570.55,2576.08,The camera pans down to a sign that reads,much better than this
-2577.43,2580.83,The camera pans down to a sign that reads,# Full of grace
-2592.44,2599.43,The camera pans down to a sign that reads,# I know I could love you
-2592.44,2599.43,The camera pans down to a sign that reads,much better than this
+2517.49,2521.4,Lyrics,# Everything we say and do
+2521.75,2525.81,Lyrics,# Hurts us all the more
+2525.84,2528.96,Lyrics,# It's just that we stayed
+2529.25,2532.22,Lyrics,# Too long
+2532.25,2537.47,Lyrics,# In the same old sickly skin
+2538.64,2542.57,Lyrics,# I'm pulled down by the undertow
+2543.64,2548.76,Lyrics,# I never thought I could feel so low
+2548.79,2551.45,Lyrics,"# And, oh, darkness,"
+2551.45,2557.77,Lyrics,# I feel like letting go
+2559.91,2564.89,Lyrics,# If all of the strength
+2559.91,2564.89,Lyrics,and all of the courage
+2564.93,2570.46,Lyrics,# Come and lift me from this place
+2570.55,2576.08,Lyrics,# I know I could love you
+2570.55,2576.08,Lyrics,much better than this
+2577.43,2580.83,Lyrics,# Full of grace
+2592.44,2599.43,Lyrics,# I know I could love you
+2592.44,2599.43,Lyrics,much better than this
 2602.45,2605.77,Lyrics,# It's better this way
-2606.08,2609.5,,Subtitles corrected and extended by UAR
-0.5,4.02,,"font color=""#ffff00"" size=14>www.tvsubtitles.net</font>"
-0.5,4.02,,end

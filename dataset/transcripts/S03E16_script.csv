@@ -63,25 +63,25 @@
 90.51,92.21,Buffy,Neat.
 92.28,94.3,Willow,Thanks. It's all about
 94.3,95.95,Buffy,emotional control.
-96.02,98.58,,"Plus, obviously, magic."
-98.66,100.42,,"Hey, you want to go"
-98.66,100.42,,to the espresso pump
-100.49,102.58,,and get sugared up on mochas?
-102.66,104.36,,I'm gonna pass.
-102.66,104.36,,Hit the pool and do some laps.
-104.43,106.59,,How come the sudden
-104.43,106.59,,calisthenics?
-106.66,109.5,,Aren't you sort of
-106.66,109.5,,"naturally buff, Buff?"
-109.57,111.19,,Buff Buff.
-111.27,113.57,,"Well, they've got us running around"
-111.27,113.57,,"on the physical side, too."
-113.64,115.3,,A lot of reflex
-113.64,115.3,,evaluation
-115.37,116.43,,"and precision training,"
-115.37,116.43,,you know.
-116.51,118.5,,"I just... Well,"
-116.51,118.5,,I want to do...
+96.02,98.58,Willow,"Plus, obviously, magic."
+98.66,100.42,Willow,"Hey, you want to go"
+98.66,100.42,Willow,to the espresso pump
+100.49,102.58,Willow,and get sugared up on mochas?
+102.66,104.36,Buffy,I'm gonna pass.
+102.66,104.36,Buffy,Hit the pool and do some laps.
+104.43,106.59,Willow,How come the sudden
+104.43,106.59,Willow,calisthenics?
+106.66,109.5,Willow,Aren't you sort of
+106.66,109.5,Willow,"naturally buff, Buff?"
+109.57,111.19,Willow,Buff Buff.
+111.27,113.57,Buffy,"Well, they've got us running around"
+111.27,113.57,Buffy,"on the physical side, too."
+113.64,115.3,Buffy,A lot of reflex
+113.64,115.3,Buffy,evaluation
+115.37,116.43,Buffy,"and precision training,"
+115.37,116.43,Buffy,you know.
+116.51,118.5,Buffy,"I just... Well,"
+116.51,118.5,Buffy,I want to do...
 118.58,120.2,Willow,Better than Faith?
 121.78,123.18,Buffy,So very shallow.
 123.25,126.88,Willow,Competition is
@@ -527,16 +527,16 @@
 958.17,960.87,Lyrics,On my chair *
 960.94,964.93,Lyrics,Like
 960.94,964.93,Lyrics,Do you think I'm sexy *
-965.65,967.34,Guy#2,Hey.
-967.41,969.71,,Rosenberg?
-969.78,973.02,,"What are you doing,"
-969.78,973.02,,trickortreating?
-971.08,974.25,,You're supposed to be at home
-971.08,974.25,,doing my history report.
-974.32,976.79,,"I flunk that class, you're"
-974.32,976.79,,in big trouble with Snyder.
-976.86,981.16,,"Till we graduate,"
-976.86,981.16,,I own your ass.
+965.65,967.34,Percy,Hey.
+967.41,969.71,Percy,Rosenberg?
+969.78,973.02,Percy,"What are you doing,"
+969.78,973.02,Percy,trick-or-treating?
+971.08,974.25,Percy,You're supposed to be at home
+971.08,974.25,Percy,doing my history report.
+974.32,976.79,Percy,"I flunk that class, you're"
+974.32,976.79,Percy,in big trouble with Snyder.
+976.86,981.16,Percy,"Till we graduate,"
+976.86,981.16,Percy,I own your ass.
 981.23,983.13,Evil Willow,Bored now.
 987.43,990.49,Evil Willow,I'm having
 987.43,990.49,Evil Willow,a terrible night.
@@ -557,12 +557,12 @@
 1029.78,1032.87,Xander,naughty touching here.
 1032.95,1034.74,Xander,Don't want to fall
 1032.95,1034.74,Xander,back on bad habits.
-1034.81,1036.75,Willow,Hands. Hands
-1036.75,1039.02,,in new places.
-1037.08,1039.81,,You're alive.
-1039.89,1043.45,,You mentioned that
-1039.89,1043.45,,before.
-1043.52,1044.55,,"Will, are you OK?"
+1034.81,1036.75,Xander,Hands. Hands
+1036.75,1039.02,Xander,in new places.
+1037.08,1039.81,Evil Willow,You're alive.
+1039.89,1043.45,Evil Willow,You mentioned that
+1039.89,1043.45,Evil Willow,before.
+1043.52,1044.55,Evil Willow,"Will, are you OK?"
 1044.62,1049.07,Evil Willow,No. Everything's different.
 1049.21,1050.54,Buffy,There you are.
 1050.61,1051.8,Xander,"Hey, Buff."
@@ -613,7 +613,7 @@
 1176.23,1178.23,Evil Willow,The world's no fun anymore.
 1180.34,1183.03,Evil Willow,We're gonna make it
 1180.34,1183.03,Evil Willow,the way it was.
-1183.11,1185.47,,Starting with The Bronze.
+1183.11,1185.47,Evil Willow,Starting with The Bronze.
 1189.61,1190.72,Alfonse,"Oh, Buffy. I thought you"
 1190.72,1191.78,Giles,were going out tonight.
 1191.85,1193.11,Giles,I didn't expect...

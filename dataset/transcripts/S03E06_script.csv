@@ -1,26 +1,26 @@
-7.7,12.14,,And on that tragic day.
-7.7,12.14,,"an era came to its inevitable end."""
-12.2,14.93,,That's all there is.
-12.2,14.93,,Are you ready?
-17.02,16.4,,Hit me.
-16.47,19.84,,Which of the following best expresses
-16.47,19.84,,the theme of the passage?
-19.91,21.38,,"A"": violence breeds violence..."
-21.45,23.41,,"B"": all things must end..."
-23.48,24.45,,"C""..."
-24.52,28.02,,"B."" I'm going with ""B."""
-26.08,27.98,,"We haven't had a ""B"" in forever."
-28.05,31.65,,This is the S.A.T.s. Buffy. Not
-28.05,31.65,,connectthedots. Please pay attention.
-31.72,35.45,,A low score could seriously harm
-31.72,35.45,,your chances of getting into college.
-35.53,37.49,,Gee. Thanks. That takes
-35.53,37.49,,the pressure right off.
-37.56,40.12,,This isn't meant to be easy. You know.
-37.56,40.12,,It's a rite of passage.
-40.2,41.93,,Is it too late to join a tribe
-42,43.76,,where they just pierce something
-42,43.76,,or cut something off?
+7.7,12.14,Giles,And on that tragic day.
+7.7,12.14,Giles,"an era came to its inevitable end."""
+12.2,14.93,Giles,That's all there is.
+12.2,14.93,Giles,Are you ready?
+17.02,16.4,Buffy,Hit me.
+16.47,19.84,Giles,Which of the following best expresses
+16.47,19.84,Giles,the theme of the passage?
+19.91,21.38,Giles,"A"": violence breeds violence..."
+21.45,23.41,Giles,"B"": all things must end..."
+23.48,24.45,Giles,"C""..."
+24.52,28.02,Buffy,"B."" I'm going with ""B."""
+26.08,27.98,Buffy,"We haven't had a ""B"" in forever."
+28.05,31.65,Giles,This is the S.A.T.s. Buffy. Not
+28.05,31.65,Giles,connectthedots. Please pay attention.
+31.72,35.45,Giles,A low score could seriously harm
+31.72,35.45,Giles,your chances of getting into college.
+35.53,37.49,Buffy,Gee. Thanks. That takes
+35.53,37.49,Buffy,the pressure right off.
+37.56,40.12,Giles,This isn't meant to be easy. You know.
+37.56,40.12,Giles,It's a rite of passage.
+40.2,41.93,Buffy,Is it too late to join a tribe
+42,43.76,Buffy,where they just pierce something
+42,43.76,Buffy,or cut something off?
 43.83,46.27,Giles,Buffy. Please concentrate.
 47.91,48.84,Buffy,Roll!
 48.91,50.93,Giles,What? Huh!
@@ -930,10 +930,10 @@
 2317.7,2321.69,Mayor Wilkins,Call Dave on the Public Works
 2317.7,2321.69,Mayor Wilkins,Committee tomorrow
 2321.77,2323.83,Mayor Wilkins,about sewer maintenance and repair.
-2323.9,2326.87,"I have some concerns regarding exposed gas pipes, infrastructure, ventilation. And, uh... cancel my 3",I have some concerns
-2323.9,2326.87,"I have some concerns regarding exposed gas pipes, infrastructure, ventilation. And, uh... cancel my 3",regarding exposed gas pipes...
-2326.94,2328.57,"I have some concerns regarding exposed gas pipes, infrastructure, ventilation. And, uh... cancel my 3",infrastructure. Ventilation.
-2328.64,2331.61,"I have some concerns regarding exposed gas pipes, infrastructure, ventilation. And, uh... cancel my 3",And. Uh... cancel my 3:00.
+2323.9,2326.87,Mayor Wilkins,I have some concerns
+2323.9,2326.87,Mayor Wilkins,regarding exposed gas pipes...
+2326.94,2328.57,Mayor Wilkins,infrastructure. Ventilation.
+2328.64,2331.61,Mayor Wilkins,And. Uh... cancel my 3:00.
 2339.6,2341.04,Buffy,Hi.
 2368.97,2369.9,Giles,Aah!
 2370.93,2372.96,Giles,Aah!
@@ -1009,20 +1009,20 @@
 2577.91,2581.14,Buffy,I even apply to college.
 2581.21,2584.27,Giles,Then you very possibly might not.
 2584.35,2586.91,Buffy,Well. Let's just keep hope alive.
-2586.98,2587.95,,Hello.
-2588.02,2589.92,,Hi.
-2589.99,2593.65,,I say. Your car seems to have
-2589.99,2593.65,,had an adventure. Doesn't it?
-2593.72,2597.35,,Uh. Buffy assures me that
-2593.72,2597.35,,it happened battling evil...
-2597.43,2600.59,,so I'm letting her pay for it
-2597.43,2600.59,,on the installment plan.
-2600.66,2601.72,,Uh. Hey...
-2601.8,2603.42,,the way things were going...
-2603.5,2605.83,,be glad that's the worst
-2603.5,2605.83,,that happened.
-2605.9,2608.1,,At least I got to the two of you
-2608.17,2609.87,,before you actually did something.
-2613.24,2615.14,,Right.
-2613.24,2615.14,,Indeed.
-2615.21,2617.34,,YYes.
+2586.98,2587.95,Giles,Hello.
+2588.02,2589.92,Joyce,Hi.
+2589.99,2593.65,Giles,I say. Your car seems to have
+2589.99,2593.65,Giles,had an adventure. Doesn't it?
+2593.72,2597.35,Joyce,Uh. Buffy assures me that
+2593.72,2597.35,Joyce,it happened battling evil...
+2597.43,2600.59,Joyce,so I'm letting her pay for it
+2597.43,2600.59,Joyce,on the installment plan.
+2600.66,2601.72,Buffy,Uh. Hey...
+2601.8,2603.42,Buffy,the way things were going...
+2603.5,2605.83,Buffy,be glad that's the worst
+2603.5,2605.83,Buffy,that happened.
+2605.9,2608.1,Buffy,At least I got to the two of you
+2608.17,2609.87,Buffy,before you actually did something.
+2613.24,2615.14,Joyce,Right.
+2613.24,2615.14,Giles,Indeed.
+2615.21,2617.34,Joyce,Y-yes.
