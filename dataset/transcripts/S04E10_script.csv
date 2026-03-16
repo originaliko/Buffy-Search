@@ -1,17 +1,17 @@
-2.65,5.8,,So this is what it is.
-2.65,5.8,,We're talking about communication.
-5.89,9.28,,We're talking about language.
-5.89,9.28,,Not the same thing.
-9.37,14.89,,"It's about inspiration. Not the idea, but"
-9.37,14.89,,the moment before the idea when it's total.
-14.97,17.81,,When it blossoms in your mind
-14.97,17.81,,and connects to everything.
-17.89,22.52,,It's about the thoughts and experiences
-17.89,22.52,,that we don't have a word for.
-22.61,25.45,,A demonstration. Buffy Summers.
-27.29,29.89,,Come on down to the front here.
+2.65,5.8,Walsh,So this is what it is.
+2.65,5.8,Walsh,We're talking about communication.
+5.89,9.28,Walsh,We're talking about language.
+5.89,9.28,Walsh,Not the same thing.
+9.37,14.89,Walsh,"It's about inspiration. Not the idea, but"
+9.37,14.89,Walsh,the moment before the idea when it's total.
+14.97,17.81,Walsh,When it blossoms in your mind
+14.97,17.81,Walsh,and connects to everything.
+17.89,22.52,Walsh,It's about the thoughts and experiences
+17.89,22.52,Walsh,that we don't have a word for.
+22.61,25.45,Walsh,A demonstration. Buffy Summers.
+27.29,29.89,Walsh,Come on down to the front here.
 35.65,38.49,Walsh,"A typical college girl, one assumes."
-38.57,40.85,Walsh (to buffy),Lie down on my desk.
+38.57,40.85,Walsh,(<i>to buffy)</i>) Lie down on my desk.
 40.93,41.31,Buffy,What?
 41.31,43.73,Walsh,"Go ahead, you're perfectly safe."
 47.02,51.07,Walsh,Advertise your product or brand here
@@ -82,7 +82,7 @@
 252.61,254.92,Riley,I guess I won't see you until...
 255.89,257.53,Buffy,Yeah.
 260.97,263.19,Buffy,What papers?
-263.19,264.49,Riley (confused),Papers?
+263.19,264.49,Riley,<i>(confused)</i>Papers?
 266.65,270.53,Buffy,Grading what papers? We only have the final.
 271.85,273.33,Riley,Yeah...
 273.41,276.25,Riley,"No, I... Late papers I gotta look at."
@@ -91,7 +91,7 @@
 282.56,283.89,Buffy,Class.
 284.77,286.33,Riley,I'll see you then.
 286.33,286.76,Buffy,Yeah.
-290.29,292.28,Buffy (petulantly),Fortune favours the brave.
+290.29,292.28,Buffy,<i>(petulantly)</i> Fortune favours the brave.
 347.45,351.13,Giles,"Can't even shout, can't even cry."
 347.45,351.13,Giles,"The Gentlemen are coming by."""
 351.21,356.24,Giles,It sounds vaguely familiar. You're sure it's
@@ -190,7 +190,7 @@
 537.25,540.05,Willow,"I mean, this is all fun, you know."
 540.13,545.33,Willow,But there's also other stuff that we might
 540.13,545.33,Willow,"show an interest in, as a Wicca group."
-546.29,551.02,Wicca1(hesistantly),Like what?
+546.29,551.02,Wicca1,<i>(hesistantly)</i>Like what?
 549.09,554.65,Willow,"Well, there's the wacky notion of spells."
 549.09,554.65,Willow,"You know, conjuring, transmutation."
 554.73,559.89,Willow,"Yeah, then we could get on our broomsticks"
@@ -228,7 +228,7 @@
 630.38,631.77,Buffy,"We almost, but..."
 631.85,635.16,Willow,"Well, get with it."
 631.85,635.16,Willow,I need my vicarious smoochies.
-636.25,638.02,Buffy (whiny),I don't know. I get nervous
+636.25,638.02,Buffy,<i>(whiny)</i> I don't know. I get nervous
 638.02,639.4,Buffy,and I start babbling.
 639.49,642.77,Buffy,And he starts babbling and it's a babblefest.
 642.85,645.32,Buffy,"Plus, every time we talk, I have to lie."
@@ -267,15 +267,15 @@
 723.29,725.73,Xander,Shut up.
 725.81,726.59,Spike,Xander.
 726.59,727.49,Xander,Shut up.
-728.45,730.44,Giles (musing),"They need to take seven."""
-732.45,734.81,Giles (musing),Take seven what?
+728.45,730.44,Giles,"<i>(musing)</i> They need to take seven."
+732.45,734.81,Giles,<i>(musing)</i> Take seven what?
 741.41,742.03,Giles,Olivia.
 742.03,743.61,Olivia,Sorry I'm so late.
 743.69,746.42,Olivia,The flight was a horror.
 746.42,747.21,Giles,"Oh, no."
 747.29,748.8,Giles,Bad weather?
 748.8,750.68,Olivia,Baseball movie.
-750.77,752.18,Giles (amused),So sorry.
+750.77,752.18,Giles,<i>(amused)</i> So sorry.
 752.18,752.97,Olivia,Yeah.
 753.05,755.85,Olivia,"That's enough small talk, don't you think?"
 973.65,976.04,Elevator,Retinal scan accepted.
@@ -287,34 +287,34 @@
 998.49,1003.65,Elevator,next 20 seconds to avoid countermeasures.
 1006.97,1008.96,Elevator,Override code incorrect.
 1012.89,1015.33,Elevator,Lethal countermeasures engaged.
-1137.49,1139.48,A prayer meeting has a chalkboard saying Revelations 15,"news from Sunnydale, California."
-1139.57,1143.09,A prayer meeting has a chalkboard saying Revelations 15,Apparently the entire town has been
-1139.57,1143.09,A prayer meeting has a chalkboard saying Revelations 15,"quarantined, due to an epidemic of"
-1143.17,1145.69,A prayer meeting has a chalkboard saying Revelations 15,as strange as this may sound laryngitis.
-1145.77,1148.33,A prayer meeting has a chalkboard saying Revelations 15,It seems the town has been
-1145.77,1148.33,A prayer meeting has a chalkboard saying Revelations 15,rendered unable to speak.
-1148.41,1152.93,A prayer meeting has a chalkboard saying Revelations 15,There's no word yet what might have caused
-1148.41,1152.93,A prayer meeting has a chalkboard saying Revelations 15,this or what other effects might be seen.
-1153.01,1156.21,A prayer meeting has a chalkboard saying Revelations 15,Local authorities have issued
-1153.01,1156.21,A prayer meeting has a chalkboard saying Revelations 15,a written statement
-1156.29,1158.68,A prayer meeting has a chalkboard saying Revelations 15,blaming recent flu vaccinations.
-1158.77,1161.16,A prayer meeting has a chalkboard saying Revelations 15,A few sceptics call it a citywide hoax.
-1161.25,1164.4,A prayer meeting has a chalkboard saying Revelations 15,Sunnydale has effectively
-1161.25,1164.4,A prayer meeting has a chalkboard saying Revelations 15,shut down all schools.
-1164.49,1166.77,A prayer meeting has a chalkboard saying Revelations 15,Businesses will be closed for the time being.
-1166.85,1169.61,A prayer meeting has a chalkboard saying Revelations 15,Residents are advised
-1166.85,1169.61,A prayer meeting has a chalkboard saying Revelations 15,to stay home and rest up.
-1169.69,1173.16,A prayer meeting has a chalkboard saying Revelations 15,The Centers for Disease Control
-1169.69,1173.16,A prayer meeting has a chalkboard saying Revelations 15,have ordered the town quarantined.
-1173.25,1178.45,A prayer meeting has a chalkboard saying Revelations 15,No one can go in or out until the syndrome
-1173.25,1178.45,A prayer meeting has a chalkboard saying Revelations 15,is identified or the symptoms disappear.
-1178.53,1181.33,A prayer meeting has a chalkboard saying Revelations 15,We'll bring you more on that as it develops.
-1188.29,1194.16,A prayer meeting has a chalkboard saying Revelations 15,Because there will be chaos.
-1188.29,1194.16,A prayer meeting has a chalkboard saying Revelations 15,You will help keep order. Dress as civilians.
-1194.25,1198.49,A prayer meeting has a chalkboard saying Revelations 15,A military presence
-1194.25,1198.49,A prayer meeting has a chalkboard saying Revelations 15,would only increase panic.
-1207.13,1209.44,A prayer meeting has a chalkboard saying Revelations 15,We are looking into it. Go.
-1209.53,1212.73,A prayer meeting has a chalkboard saying Revelations 15,Help maintain order. We will find an answer.
+1137.49,1139.48,Newscaster,"News from Sunnydale, California."
+1139.57,1143.09,Newscaster,Apparently the entire town has been
+1139.57,1143.09,Newscaster,"quarantined, due to an epidemic of"
+1143.17,1145.69,Newscaster,as strange as this may sound laryngitis.
+1145.77,1148.33,Newscaster,It seems the town has been
+1145.77,1148.33,Newscaster,rendered unable to speak.
+1148.41,1152.93,Newscaster,There's no word yet what might have caused
+1148.41,1152.93,Newscaster,this or what other effects might be seen.
+1153.01,1156.21,Newscaster,Local authorities have issued
+1153.01,1156.21,Newscaster,a written statement
+1156.29,1158.68,Newscaster,blaming recent flu vaccinations.
+1158.77,1161.16,Newscaster,A few sceptics call it a citywide hoax.
+1161.25,1164.4,Newscaster,Sunnydale has effectively
+1161.25,1164.4,Newscaster,shut down all schools.
+1164.49,1166.77,Newscaster,Businesses will be closed for the time being.
+1166.85,1169.61,Newscaster,Residents are advised
+1166.85,1169.61,Newscaster,to stay home and rest up.
+1169.69,1173.16,Newscaster,The Centers for Disease Control
+1169.69,1173.16,Newscaster,have ordered the town quarantined.
+1173.25,1178.45,Newscaster,No one can go in or out until the syndrome
+1173.25,1178.45,Newscaster,is identified or the symptoms disappear.
+1178.53,1181.33,Newscaster,We'll bring you more on that as it develops.
+1188.29,1194.16,Newscaster,Because there will be chaos.
+1188.29,1194.16,Newscaster,You will help keep order. Dress as civilians.
+1194.25,1198.49,Newscaster,A military presence
+1194.25,1198.49,Newscaster,would only increase panic.
+1207.13,1209.44,Newscaster,We are looking into it. Go.
+1209.53,1212.73,Newscaster,Help maintain order. We will find an answer.
 2351.09,2353.16,Willow,You were there looking for me?
 2353.25,2357.04,Tara,I thought maybe we could do a spell.
 2353.25,2357.04,Tara,Make people talk again?
@@ -356,8 +356,3 @@
 2486.93,2488.25,Riley,Well...
 2490.73,2493.33,Riley,I guess we have to talk.
 2497.73,2500.33,Buffy,I guess we do.
-2517.81,2521.57,,Subtitles by Visiontext
-2559.29,2561.28,,ENGLISH
-2562.31,2568.32,,Support us and become VIP member
-2562.31,2568.32,,to remove all ads from www.OpenSubtitles.org
-2562.31,2568.32,,end

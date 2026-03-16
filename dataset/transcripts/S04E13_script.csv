@@ -1,25 +1,15 @@
-2.25,5.13,,"Previously on ""Buffy the Vampire Slayer"":"
-5.33,7.53,,What are you?
-5.33,7.53,,I'm the Slayer.
-7.69,12.81,,The implant works. Hostile 17 can't harm
-7.69,12.81,,any living creature without intense pain.
-13.13,14.69,,I can hurt a demon.
-14.77,18.65,,"That's right. I'm back,"
-14.77,18.65,,and I'm a bloody animal.
-21.93,24.24,,I thought we made a pretty good team.
-24.77,28.08,,You're really strong. I like it.
-30.13,34.73,,"I implore you, Neesah, blessed"
-30.13,34.73,,"goddess of chance and fortune,"
-34.81,36.8,,heed my call.
-36.89,39.33,,Send to me the heart I desire.
-39.41,43.2,,"You know, magic at the poker table"
-39.41,43.2,,qualifies as cheating.
-43.29,45.76,,That wasn't magic. I was praying.
-45.85,47.84,,"Two, please."
-50.93,54.02,,Five.
-52.09,55.85,,"An, I keep telling you, four's the max,"
-52.09,55.85,,and only if you have an ace.
-56.81,57.6,,"OK, four."
+30.13,34.73,Willow,"I implore you, Neesah, blessed"
+30.13,34.73,Willow,"goddess of chance and fortune,"
+34.81,36.8,Willow,heed my call.
+36.89,39.33,Willow,Send to me the heart I desire.
+39.41,43.2,Xander,"You know, magic at the poker table"
+39.41,43.2,Xander,qualifies as cheating.
+43.29,45.76,Willow,That wasn't magic. I was praying.
+45.85,47.84,Willow,"Two, please."
+50.93,54.02,Anya,Five.
+52.09,55.85,Xander,"An, I keep telling you, four's the max,"
+52.09,55.85,Xander,and only if you have an ace.
+56.81,57.6,Anya,"OK, four."
 57.6,59.17,Xander,Let's see the ace.
 60.17,62.29,Anya,Three.
 62.37,65.89,Anya,What a stupid game. All these rules
@@ -531,14 +521,14 @@
 1711.69,1715.61,Riley,In the military you learn to
 1711.69,1715.61,Riley,"follow orders, not ask questions."
 1715.69,1717.65,Riley,I don't understand.
-1717.73,1722.68,,Aren't you curious about all the science
-1717.73,1722.68,,and research stuff they're doing?
-1723.13,1727.52,,I know all I need to know. We're doing
-1723.13,1727.52,,good here. Protecting the public.
-1727.61,1730.33,,Removing the subterrestrial threat.
-1730.41,1732.8,,It's work worth doing.
-1736.57,1738.77,,What's 314?
-1744.81,1745.25,,Riley.
+1717.73,1722.68,Buffy,Aren't you curious about all the science
+1717.73,1722.68,Buffy,and research stuff they're doing?
+1723.13,1727.52,Riley,I know all I need to know. We're doing
+1723.13,1727.52,Buffy,good here. Protecting the public.
+1727.61,1730.33,Buffy,Removing the subterrestrial threat.
+1730.41,1732.8,Buffy,"It's work worth doing".
+1736.57,1738.77,Buffy,What's 314?
+1744.81,1745.25,Riley,Riley.
 1745.25,1747.85,Walsh,We have a situation. You're needed.
 1747.93,1749.05,Riley,On my way.
 1749.05,1750.29,Buffy,What is it?
@@ -630,14 +620,14 @@
 1992.13,1999.02,Walsh,"They barely show up on the scanner,"
 1992.13,1999.02,Walsh,and occasionally turn out to be raccoons.
 1997.09,1999.73,Buffy,"Wow. You're not crazy about raccoons, huh?"
-2000.01,2002.77,,We always take precautions.
-2003.21,2005.81,,All we need you to do
-2003.21,2005.81,,is get a visual on this thing.
-2005.89,2009.17,,"This will feed me back an image,"
-2005.89,2009.17,,and I can advise you from there.
-2009.25,2011.61,,I don't wanna put you
-2009.25,2011.61,,in unnecessary danger.
-2012.13,2015.49,,That's OK. Danger's my birthright. Sorry.
+2000.01,2002.77,Walsh,We always take precautions.
+2003.21,2005.81,Walsh,All we need you to do
+2003.21,2005.81,Walsh,is get a visual on this thing.
+2005.89,2009.17,Walsh,"This will feed me back an image,"
+2005.89,2009.17,Walsh,and I can advise you from there.
+2009.25,2011.61,Walsh,I don't wanna put you
+2009.25,2011.61,Walsh,in unnecessary danger.
+2012.13,2015.49,Buffy,That's OK. Danger's my birthright. Sorry.
 2016.65,2018.56,Commando,"Professor Walsh,"
 2018.65,2023.49,Buffy,there's still some stuff
 2018.65,2023.49,Buffy,about all this that I'm not clear on.
@@ -746,28 +736,22 @@
 2429.13,2432.49,Giles,it's not safe for you here.
 2432.57,2433.97,Buffy,No.
 2437.81,2440.2,Buffy,It's not safe for any of us.
-2448.41,2450.4,,So...
-2451.69,2454.73,,"All right, fine."
-2455.81,2458.09,,"If she wants a fight, we'll give her one."
-2458.17,2460.45,,"Won't we, Adam?"
-2460.53,2462.52,,"I've worked too long,"
-2463.41,2468.89,,too long to let some little bitch
-2463.41,2468.89,,threaten this project.
-2469.65,2471.64,,Threaten me.
-2472.93,2476.05,,She has no idea who she's dealing with.
-2478.29,2483.02,,"Once she's gone, Riley will come around."
-2481.09,2483.08,,He'll understand.
-2483.93,2486.73,,It's for the greater good.
-2487.17,2489.4,,He'll see that.
-2490.01,2494.02,,And if he doesn't...
-2493.93,2496.37,,"Well, first things first."
-2497.33,2499.37,,"Remove the complication,"
-2500.25,2502.64,,and when she least expects it...
-2509.77,2512.16,,Adam?
-2515.89,2517.88,,Mommy.
-2517.97,2521.76,,Visiontext Subtitles:
-2517.97,2521.76,,Marisa Castle de Joncaire
-2559.45,2561.44,,ENGLISH
-2562.31,2568.32,,Support us and become VIP member
-2562.31,2568.32,,to remove all ads from www.OpenSubtitles.org
-2562.31,2568.32,,end
+2448.41,2450.4,Walsh,So...
+2451.69,2454.73,Walsh,"All right, fine."
+2455.81,2458.09,Walsh,"If she wants a fight, we'll give her one."
+2458.17,2460.45,Walsh,"Won't we, Adam?"
+2460.53,2462.52,Walsh,"I've worked too long,"
+2463.41,2468.89,Walsh,too long to let some little bitch
+2463.41,2468.89,Walsh,threaten this project.
+2469.65,2471.64,Walsh,Threaten me.
+2472.93,2476.05,Walsh,She has no idea who she's dealing with.
+2478.29,2483.02,Walsh,"Once she's gone, Riley will come around."
+2481.09,2483.08,Walsh,He'll understand.
+2483.93,2486.73,Walsh,It's for the greater good.
+2487.17,2489.4,Walsh,He'll see that.
+2490.01,2494.02,Walsh,And if he doesn't...
+2493.93,2496.37,Walsh,"Well, first things first."
+2497.33,2499.37,Walsh,"Remove the complication,"
+2500.25,2502.64,Walsh,and when she least expects it...
+2509.77,2512.16,Walsh,Adam?
+2515.89,2517.88,Adam,Mommy.
