@@ -1,7 +1,7 @@
-1.9,4.86,,"In every generation there is a Chosen One,"
-4.9,9.52,,"She alone will stand against the vampires,"
-4.9,9.52,,"the demons and the forces of darkness,"
-9.56,10.62,,"She is the Slayer,"
+2.09,4.34,Giles V.O.,"In every generation there is a Chosen One,"
+4.59,9.07,Giles V.O.,"She alone will stand against the vampires,"
+4.59,9.07,Giles V.O.,"the demons and the forces of darkness,"
+9.11,12.09,Giles V.O.,"She is the Slayer,"
 12.54,13.93,Buffy,This is so unfair.
 13.93,16.09,Willow,I don't think it's that bad.
 16.12,19.12,Buffy,It's the übersuck.
@@ -646,20 +646,20 @@
 1726.44,1728.66,Xander,Be careful.
 1728.66,1730.08,Buffy,I will.
 1730.19,1732.03,Cordelia,Hey!
-1733.32,1735.99,,You look good.
-1740.2,1742.37,,Look at that.
-1742.4,1747.28,,Two days in America and Ampata
-1742.4,1747.28,,already seems like she belongs here.
-1747.31,1750.19,,She's really fitting in.
-1750.21,1752.93,,Yeah.
-1753.34,1755.96,,How about that.
-1764.54,1767.78,,# She's in ecstasy
-1767.82,1770.7,,"# Her hollowed sky,"
-1770.71,1774.22,,# Pours down heavenly
-1774.22,1777.32,,"# Fakes desire,"
-1777.32,1783.41,,"# I've been living here in the red,"
-1786.02,1786.22,,Oh! Near faux pas.
-1786.25,1788.94,,I almost wore the same thing.
+1733.32,1735.99,Buffy,You look good.
+1740.2,1742.37,Joyce,Look at that.
+1742.4,1747.28,Joyce,Two days in America and Ampata
+1742.4,1747.28,Joyce,already seems like she belongs here.
+1747.31,1750.19,Joyce,She's really fitting in.
+1750.21,1752.93,Buffy,Yeah.
+1753.34,1755.96,Buffy,How about that.
+1764.54,1767.78,Lyrics,# She's in ecstasy
+1767.82,1770.7,Lyrics,"# Her hollowed sky,"
+1770.71,1774.22,Lyrics,# Pours down heavenly
+1774.22,1777.32,Lyrics,"# Fakes desire,"
+1777.32,1783.41,Lyrics,"# I've been living here in the red,"
+1786.02,1786.22,Cordelia,Oh! Near faux pas.
+1786.25,1788.94,Cordelia,I almost wore the same thing.
 1791.18,1793.39,Lyrics,# We've been bored before
 1793.42,1794.81,Dawn,Hey. Where's Sven?
 1794.81,1797.29,Cordelia,"Ohh, I keep trying to ditch him."
@@ -840,28 +840,25 @@
 2517.55,2519.89,Xander,Can you do that?
 2522.55,2524.39,Ampata,Yes.
 2583.03,2585.54,Xander,"I'm really the funtalking guy today, huh?"
-2585.57,2590.36,,Sorry.
-2585.57,2590.36,,That's OK. You don't have to talk.
-2590.54,2592.82,,"I just, present company excluded,"
-2592.86,2597.84,,I have the worst taste in women
-2592.86,2597.84,,of anyone in the world. Ever.
-2597.87,2599.8,,Ampata wasn't evil.
-2599.93,2602.62,,At least not to begin with.
-2602.65,2604.77,,And I do think she cared about you.
-2604.8,2607.2,,"Yeah, but I think that whole"
-2604.8,2607.2,,sucking the life out of people thing
-2607.2,2609.35,,would have been
-2607.2,2609.35,,a strain on the relationship.
-2609.38,2611.73,,She was gypped.
-2611.82,2615.53,,She was just a girl and she had
-2611.82,2615.53,,her life taken away from her.
-2616.82,2620.71,,I remember how I felt when I heard
-2616.82,2620.71,,the prophecy that I was gonna die.
-2620.74,2624.42,,I wasn't exactly obsessed
-2620.74,2624.42,,with doing the right thing.
-2624.46,2627.8,,"Yeah, but you did."
-2624.46,2627.8,,You gave up your life.
-2629.33,2632.04,,I had you to bring me back.
-2636.14,2639.31,,Subtitles extended and timed by: UAR
-0.5,4.02,,"font color=""#ffff00"" size=14>www.tvsubtitles.net</font>"
-0.5,4.02,,end
+2585.57,2590.36,Xander,Sorry.
+2585.57,2590.36,Buffy,That's OK. You don't have to talk.
+2590.54,2592.82,Xander,"I just, present company excluded,"
+2592.86,2597.84,Xander,I have the worst taste in women
+2592.86,2597.84,Xander,of anyone in the world. Ever.
+2597.87,2599.8,Buffy,Ampata wasn't evil.
+2599.93,2602.62,Buffy,At least not to begin with.
+2602.65,2604.77,Buffy,And I do think she cared about you.
+2604.8,2607.2,Xander,"Yeah, but I think that whole"
+2604.8,2607.2,Xander,sucking the life out of people thing
+2607.2,2609.35,Xander,would have been
+2607.2,2609.35,Xander,a strain on the relationship.
+2609.38,2611.73,Buffy,She was gypped.
+2611.82,2615.53,Buffy,She was just a girl and she had
+2611.82,2615.53,Buffy,her life taken away from her.
+2616.82,2620.71,Buffy,I remember how I felt when I heard
+2616.82,2620.71,Buffy,the prophecy that I was gonna die.
+2620.74,2624.42,Buffy,I wasn't exactly obsessed
+2620.74,2624.42,Buffy,with doing the right thing.
+2624.46,2627.8,Xander,"Yeah, but you did."
+2624.46,2627.8,Xander,You gave up your life.
+2629.33,2632.04,Buffy,I had you to bring me back.

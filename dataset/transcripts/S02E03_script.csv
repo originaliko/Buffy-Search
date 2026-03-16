@@ -1,23 +1,23 @@
-2.09,4.34,,"In every generation there is a Chosen One,"
-4.59,9.07,,"She alone will stand against the vampires,"
-4.59,9.07,,"the demons and the forces of darkness,"
-9.11,12.09,,"She is the Slayer,"
-13.98,18.98,,A lot of educators tell students
-13.98,18.98,,"Think of your principal as your pal."""
-19.02,23.52,,"I say ""Think of me as your judge,"
-19.02,23.52,,"jury and executioner."""
-24.61,29.79,,"Tell me, who do you think is the most"
-24.61,29.79,,troublesome student in this school?
-33.38,35.88,,"Well, it is quite a match between you two."
-35.91,40.88,,"On the one hand, Buffy hasn't stabbed"
-35.91,40.88,,a horticulture teacher with a trowel.
-40.92,44.02,,I didn't stab anyone with a trowel.
-44.02,45.89,,They were pruning shears.
-45.93,50.51,,"On the other hand, Sheila has"
-45.93,50.51,,never burnt down a school building.
-50.55,54.18,,"Well, that was never proven. The fire"
-50.55,54.18,,marshal said it could've been mice.
-54.21,54.85,,Mice?
+2.09,4.34,Giles V.O.,"In every generation there is a Chosen One,"
+4.59,9.07,Giles V.O.,"She alone will stand against the vampires,"
+4.59,9.07,Giles V.O.,"the demons and the forces of darkness,"
+9.11,12.09,Giles V.O.,"She is the Slayer,"
+13.98,18.98,Snyder,A lot of educators tell students
+13.98,18.98,Snyder,"Think of your principal as your pal."""
+19.02,23.52,Snyder,"I say ""Think of me as your judge,"
+19.02,23.52,Snyder,"jury and executioner."""
+24.61,29.79,Snyder,"Tell me, who do you think is the most"
+24.61,29.79,Snyder,troublesome student in this school?
+33.38,35.88,Snyder,"Well, it is quite a match between you two."
+35.91,40.88,Snyder,"On the one hand, Buffy hasn't stabbed"
+35.91,40.88,Snyder,a horticulture teacher with a trowel.
+40.92,44.02,Sheila,I didn't stab anyone with a trowel.
+44.02,45.89,Sheila,They were pruning shears.
+45.93,50.51,Snyder,"On the other hand, Sheila has"
+45.93,50.51,Snyder,never burnt down a school building.
+50.55,54.18,Buffy,"Well, that was never proven. The fire"
+50.55,54.18,Buffy,marshal said it could've been mice.
+54.21,54.85,Snyder,Mice?
 54.85,57.78,Buffy,Mice that were smoking?
 57.82,60.28,Snyder,The two of you seem to be tied
 57.82,60.28,Snyder,in the classcutting
@@ -826,35 +826,32 @@
 2504.3,2506.43,Willow,Ask for some aspirin.
 2506.43,2509.92,Cordelia,And can you please send some asp... Hey!
 2518.98,2520.97,Drusilla,"Spike, did she hurt you?"
-2520.97,2523.13,,"It was close, baby, but..."
-2523.17,2524.97,,Aw. Come here.
-2526.69,2531.73,,A slayer with family and friends.
-2526.69,2531.73,,That sure as hell wasn't in the brochure.
-2531.76,2535.87,,You'll kill her. And then
-2531.76,2535.87,,we'll have a nice celebration.
-2535.91,2541.52,,Yeah. A party.
-2535.91,2541.52,,"Yeah. With streamers, and songs."
-2541.83,2546.26,,How's the Annoying One?
-2541.83,2546.26,,He doesn't wanna play.
-2546.33,2548.1,,Figures.
-2548.13,2552.41,,"Well, I suppose I'd better go make nice."
-2560.58,2565.32,,You failed.
-2560.58,2565.32,,"I, um... I offer penance."
-2565.36,2569.13,,Penance? You should lay down your life!
-2569.26,2570.88,,Our numbers are depleted.
-2570.88,2574.18,,The Feast of St Vigeous has been ruined
-2570.88,2574.18,,by your impatience!
-2574.22,2576.61,,I was rash.
-2576.95,2580.56,,And if I had to do it all over again...
-2580.59,2583.26,,Who am I kidding?
-2583.63,2586.84,,"I would do it exactly the same,"
-2586.87,2588.63,,only I'd do this...
-2588.67,2590.61,,No!
-2588.67,2590.61,,first.
-2602.83,2605.07,,"From now on,"
-2605.11,2608.1,,"we're gonna have a little less ritual,"
-2609.49,2613.54,,and a little more fun around here.
-2623.15,2626.74,,Let's see what's on TV.
-2631.08,2640.02,,Subtitles extended and timed by UAR
-0.5,4.02,,"font color=""#ffff00"" size=14>www.tvsubtitles.net</font>"
-0.5,4.02,,end
+2520.97,2523.13,Spike,"It was close, baby, but..."
+2523.17,2524.97,Drusilla,Aw. Come here.
+2526.69,2531.73,Spike,A slayer with family and friends.
+2526.69,2531.73,Spike,That sure as hell wasn't in the brochure.
+2531.76,2535.87,Drusilla,You'll kill her. And then
+2531.76,2535.87,Drusilla,we'll have a nice celebration.
+2535.91,2541.52,Spike,Yeah. A party.
+2535.91,2541.52,Drusilla,"Yeah. With streamers, and songs."
+2541.83,2546.26,Spike,How's the Annoying One?
+2541.83,2546.26,Drusilla,He doesn't wanna play.
+2546.33,2548.1,Spike,Figures.
+2548.13,2552.41,Spike,"Well, I suppose I'd better go make nice."
+2560.58,2565.32,Colin,You failed.
+2560.58,2565.32,Spike,"I, um... I offer penance."
+2565.36,2569.13,Vampire#2,Penance? You should lay down your life!
+2569.26,2570.88,Vampire#2,Our numbers are depleted.
+2570.88,2574.18,Vampire#2,The Feast of St Vigeous has been ruined
+2570.88,2574.18,Vampire#2,by your impatience!
+2574.22,2576.61,Spike,I was rash.
+2576.95,2580.56,Spike,And if I had to do it all over again...
+2580.59,2583.26,Spike,Who am I kidding?
+2583.63,2586.84,Spike,"I would do it exactly the same,"
+2586.87,2588.63,Spike,only I'd do this...
+2588.67,2590.61,Colin,No!
+2588.67,2590.61,Spike,first.
+2602.83,2605.07,Spike,"From now on,"
+2605.11,2608.1,Spike,"we're gonna have a little less ritual,"
+2609.49,2613.54,Spike,and a little more fun around here.
+2623.15,2626.74,Spike,Let's see what's on TV.

@@ -1,12 +1,12 @@
-0.93,3.48,,In every generation there is a Chosen One.
-3.56,8.86,,"She alone will stand against the vampires,"
-3.56,8.86,,the demons and the forces of darkness.
-8.89,10.94,,She is the Slayer.
-13.31,16.66,,I will be whole.
-16.7,19.52,,I will be new.
-41.71,45.11,,# Learning to love yourself
-45.11,50.02,,# is the greatest love of all.
-50.06,52.5,,# I decided long ago
+0.93,3.48,Narrator,In every generation there is a Chosen One.
+3.56,8.86,Narrator,"She alone will stand against the vampires,"
+3.56,8.86,Narrator,the demons and the forces of darkness.
+8.89,10.94,Narrator,She is the Slayer.
+13.31,16.66,Strange voice,I will be whole.
+16.7,19.52,Strange voice,I will be new.
+41.71,45.11,Cordelia,# Learning to love yourself
+45.11,50.02,Cordelia,# is the greatest love of all.
+50.06,52.5,Cordelia,# I decided long ago
 52.5,56.61,Cordelia,never to walk in anyone's shadows
 56.61,59.59,Cordelia,# If I fail
 56.61,59.59,Cordelia,if I succeed...
@@ -845,38 +845,34 @@
 2546.65,2548.42,Giles,"I must say, all of you,"
 2551.02,2551.93,Giles,your ttiming is impeccable.
 2551.97,2554.83,Sid,And now for the big finish.
-2554.87,2557.2,,What are you doing?
-2557.23,2559.69,,It's not enough.
-2559.72,2562.15,,He'll come back.
-2562.19,2567.48,,"You have to get the heart,"
-2562.19,2567.48,,then all of this will be over.
-2567.51,2571.39,,Let me.
-2567.51,2571.39,,I got it.
-2571.43,2573.85,,Thanks.
-2604.08,2607.34,,It's over.
-2622.97,2625.61,,I don't get it.
-2625.65,2629.69,,What is it? Avantgarde?
-2629.72,2633.71,,"O ruler of my country, Oedipus,"
-2629.72,2633.71,,"you see our company around the altar,"
-2633.74,2636.22,,"and l, the priest of Zeus."
-2633.74,2636.22,,Haha.
-2636.25,2638.32,,They prophesied that
-2636.25,2638.32,,"I should kill my father,"
-2638.32,2640.99,,but he is dead
-2638.32,2640.99,,and hidden deep in the soil.
-2641.03,2643.53,,But surely I must fear my mother's bed.
-2643.56,2646.22,,"Oh, Oedipus, Oedipus, unhappy Oedipus."
-2646.26,2649.6,,That is all I can call you
-2646.26,2649.6,,and all that I ever shall call you.
-2650.23,2652.74,,Darkness! And horror of darkness.
-2652.83,2657.24,,"Unfolding, restless, visitant,"
-2652.83,2657.24,,sped by an ill wind in haste.
-2657.27,2662.34,,Madness and... madness
-2657.27,2662.34,,aaand... stabbing pain and
-2662.43,2664.72,,"and... um, oh..."
-2666.64,2668.52,,Oh...
-2668.6,2672.52,,"Memory of, uh... ill deeds I have done."
-2673.97,2680.9,,Subtitles by Visiontext
-2673.97,2680.9,,Additions & timing by UAR
-0.5,4.02,,"font color=""#ffff00"" size=14>www.tvsubtitles.net</font>"
-0.5,4.02,,end
+2554.87,2557.2,Buffy,What are you doing?
+2557.23,2559.69,Sid,It's not enough.
+2559.72,2562.15,Sid,He'll come back.
+2562.19,2567.48,Sid,"You have to get the heart,"
+2562.19,2567.48,Sid,then all of this will be over.
+2567.51,2571.39,Buffy,Let me.
+2567.51,2571.39,Sid,I got it.
+2571.43,2573.85,Sid,Thanks.
+2604.08,2607.34,Buffy,It's over.
+2622.97,2625.61,Snyder,I don't get it.
+2625.65,2629.69,Snyder,What is it? Avantgarde?
+2629.72,2633.71,Willow,"O ruler of my country, Oedipus,"
+2629.72,2633.71,Willow,"you see our company around the altar,"
+2633.74,2636.22,Willow,"and l, the priest of Zeus."
+2633.74,2636.22,Xander,Haha.
+2636.25,2638.32,Xander,They prophesied that
+2636.25,2638.32,Xander,"I would kill my father,"
+2638.32,2640.99,Xander,but he is dead
+2638.32,2640.99,Xander,and hidden deep in the soil.
+2641.03,2643.53,Xander,But surely I must fear my mother's bed.
+2643.56,2646.22,Buffy,"Oh, Oedipus, Oedipus, unhappy Oedipus."
+2646.26,2649.6,Buffy,That is all I can call you
+2646.26,2649.6,Buffy,and all that I ever shall call you.
+2650.23,2652.74,Xander,Darkness! And horror of darkness.
+2652.83,2657.24,Xander,"Unfolding, restless, visitant,"
+2652.83,2657.24,Xander,sped by an ill wind in haste.
+2657.27,2662.34,Xander,Madness and... madness
+2657.27,2662.34,Xander,aaand... stabbing pain and
+2662.43,2664.72,Xander,"and... um, oh..."
+2666.64,2668.52,Xander,Oh...
+2668.6,2672.52,Xander,"Memory of, uh... ill deeds I have done."

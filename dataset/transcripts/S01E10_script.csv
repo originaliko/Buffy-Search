@@ -1,10 +1,10 @@
-0.54,3.04,,"In every generation, there is a Chosen One."
-3.12,8.34,,"She alone will stand against the vampires,"
-3.12,8.34,,"the demons, and the forces of darkness."
-8.42,10.51,,She is the Slayer.
-100.74,102.91,,No! No!
-103.7,105.78,,No!
-103.7,105.78,,Yes.
+0.54,3.04,Narrator,"In every generation, there is a Chosen One."
+3.12,8.34,Narrator,"She alone will stand against the vampires,"
+3.12,8.34,Narrator,"the demons, and the forces of darkness."
+8.42,10.51,Narrator,She is the Slayer.
+100.74,102.91,Buffy,No! No!
+103.7,105.78,Buffy,No!
+103.7,105.78,Joyce,Yes.
 105.87,108.16,Joyce,It's time to get up for school.
 108.25,108.75,Buffy,Mom?
 108.75,111,Joyce,Are you all right?
@@ -811,7 +811,4 @@
 2637.37,2639.34,Willow,grotesque!
 2639.37,2641.94,Willow,"Still dug her, huh?"
 2641.98,2643.78,Xander,I'm sick. I need help.
-2643.81,2646.09,,Don't I know it!
-2646.16,2651.4,,Subtitles by: Julie Clayton
-2646.16,2651.4,,Corrections and timing: UAR
-0.5,4.02,,end
+2643.81,2646.09,Willow,Don't I know it!

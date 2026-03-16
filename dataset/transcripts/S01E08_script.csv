@@ -1,8 +1,29 @@
-0.84,3.64,,"In every generation, there is a Chosen One."
-3.72,8.73,,"She alone will stand against the vampires,"
-3.72,8.73,,the demons and the forces of darkness.
-8.81,10.89,,She is the Slayer.
-84.98,86.69,,No.
+0.84,3.64,Narrator,"In every generation, there is a Chosen One."
+3.72,8.73,Narrator,"She alone will stand against the vampires,"
+3.72,8.73,Narrator,"the demons and the forces of darkness."
+8.81,10.89,Narrator,"She is the Slayer."
+17.0,17.5,Moloch,"Carlo, Caro Mio (<i>My dear</i>)".
+30.0,31.5,Moloch,Mi ami? (<i>Do you love me?</i>)
+32.0,34.2,Moloch,Ti darò tutto(<i>I will give you everything</i>) 
+34.7,39,Moloch,Tutto quello che desidero è il tuo amore. (<i>All I want is your love</i>) 
+44,46,Carlo,Tu hai il mio amore (<i>You have my love</i>)
+50.5,52.3,Thelonius,"E fuori.(<i>He's out.)"
+52.7,53.9,Thelonius,"E il diavolo, (<i>It is the devil)"
+54.0,55.4,Thelonius,"Molocco. (<i>Moloch</i>)
+55.5,57.5,Thelonius,"E fuori nel mondo, (<i>He is out in the world</i>)"
+58.0,60.4,Thelonius,"facendo tante cose male. (<i>Doing so many bad things</i>)"
+61.0,64.0,Thelonius,"Abbiamo bisogno di fare il circolo. (<i>We need to form the circle</i>)"
+71.0,74.0,Thelonius,"Per potere di questo circolo di Kayless... (<i>By the power of this circle of Kayless...</i>)"
+84.98,86.69,Moloch,No.
+87.0,88.6,Thelonius,"Per potere di questo circolo di Kayless, (<i>By the power of this circle of Kayless,</i>)"
+89.0,90,Thelonius,"ti commando! (<i>I command you!</i>)"
+91.0,92.5,Thelonius,"Vieni! (<i>Come!</i>)"
+94.1,95.6,Thelonius,"Ti commando! (<i>I command you!</i>)"
+98.0,99,Thelonius,"Vieni! (<i>Come!</i>)"
+102.0,104,Thelonius,"Vieni! (<i>Come!</i>)"
+110.0,103,Thelonius,"Vieni, demonio! Vieni! (<i>Come, Demon! Come!</i>)"
+130.0,134.6,Thelonius,"Preghiamo che questo libro è mai letto più... (<i>Let us pray that this book is never read again.../i>)"
+135.0,139,Thelonius,"Che il demonio Molocco è mai lasciato più fuori nel mondo. (<i>May the devil Molocco be left out in the world no longer.</i>)"
 149.8,151.59,Buffy,"Oh, great. A book."
 154.8,160.43,Giles,"Oh, I haven't gone through the new arrivals."
 154.8,160.43,Giles,Put it in... that pile.
@@ -858,19 +879,15 @@
 2611.2,2613.3,Willow,What does that say about me?
 2613.3,2616.26,Buffy,It doesn't say anything about you.
 2616.29,2619.15,Willow,"I mean, I thought I was really falling..."
-2619.19,2622.78,,"Hey, did you forget? The one boy I've"
-2619.19,2622.78,,had the hots for since I've moved here...
-2622.82,2624.27,,turned out to be a vampire.
-2624.3,2627.81,,Right. And the teacher I had a crush on?
-2624.3,2627.81,,Giant praying mantis?
-2628.4,2630.17,,That's true.
-2630.69,2633.07,,That's life on the Hellmouth.
-2630.69,2633.07,,Let's face it.
-2633.11,2635.74,,None of us are ever gonna have
-2633.11,2635.74,,"a happy, normal relationship."
-2636.07,2637.95,,We're doomed.
-2636.07,2637.95,,Yeah.
-2642.62,2648.51,,Subtitles by: Doreen Trenerry
-2642.62,2648.51,,Corrections and timing: UAR
-0.5,4.02,,"font color=""#ffff00"" size=14>www.tvsubtitles.net</font>"
-0.5,4.02,,end
+2619.19,2622.78,Buffy,"Hey, did you forget? The one boy I've"
+2619.19,2622.78,Buffy,had the hots for since I've moved here...
+2622.82,2624.27,Buffy,turned out to be a vampire.
+2624.3,2627.81,Xander,Right. And the teacher I had a crush on?
+2624.3,2627.81,Xander,Giant praying mantis?
+2628.4,2630.17,Willow,That's true.
+2630.69,2633.07,Xander,That's life on the Hellmouth.
+2630.69,2633.07,Buffy,Let's face it.
+2633.11,2635.74,Buff,"None of us are ever gonna have"
+2633.11,2635.74,Buffy,"a happy, normal relationship."
+2636.07,2637.95,Xander,We're doomed.
+2636.07,2637.95,,Yeah. 
