@@ -21,8 +21,8 @@ CHARACTERS = {
 }
 
 CATCHPHRASES = [
-    "Vampire", "Slayer", "Hellmouth", "Chosen", "Watcher",
-    "Bloody hell", "Bored now", "Grr argh",
+    "I'm buffy", "Vampire", "Slayer", "Hellmouth", "Chosen One", "Watcher",
+    "Bloody hell", "Bored now", "Five by five"
 ]
 
 # ── DERIVED LOOKUP ───────────────────────────────────────────────────────────
