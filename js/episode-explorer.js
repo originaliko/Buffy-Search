@@ -28,9 +28,8 @@ function renderDots(container, lines, colorMap) {
     const dot = document.createElement('div');
     dot.className = 'dot';
     dot.style.background = colorMap[entry.character] || OTHER_COLOR;
-    dot.title = entry.character
-      ? `${entry.character}: ${entry.line}`
-      : entry.line;
+    if (entry.character) dot.dataset.char = entry.character;
+    dot.dataset.line = entry.line;
     container.appendChild(dot);
   });
 }
@@ -72,20 +71,105 @@ export function initExplorer(stats) {
 
   el.innerHTML = `
     <h2>Episode Explorer</h2>
-    <p class="subtitle">Each dot is one line of dialogue — hover to read it</p>
+    <p class="subtitle">Each dot is one line of dialogue — hover or tap to read it</p>
     <div class="char-legend">${legendHTML}</div>
     <div class="ep-controls">
       ${seasonBtnsHTML}
       <select class="ep-select" id="ep-select"></select>
     </div>
     <div class="dot-grid" id="dot-grid"></div>
+    <div class="dot-line-display" id="dot-line-display"><span class="dl-placeholder">Hover a dot to read the line</span></div>
     <div class="ep-info-bar" id="ep-info-bar"></div>
   `;
 
   const dotGrid = el.querySelector('#dot-grid');
   const epSelect = el.querySelector('#ep-select');
   const infoBar = el.querySelector('#ep-info-bar');
+  const lineDisplay = el.querySelector('#dot-line-display');
   const seasonBtns = el.querySelectorAll('.season-btn');
+
+  let selectedDot = null;
+
+  function showDotLine(char, line) {
+    lineDisplay.innerHTML = '';
+    if (char) {
+      const charEl = document.createElement('span');
+      charEl.className = 'dl-char';
+      charEl.textContent = char;
+      lineDisplay.appendChild(charEl);
+    }
+    const lineEl = document.createElement('span');
+    lineEl.className = 'dl-text';
+    lineEl.textContent = line;
+    lineDisplay.appendChild(lineEl);
+  }
+
+  function showDotRun(clickedDot) {
+    const char = clickedDot.dataset.char;
+    const allDots = Array.from(dotGrid.querySelectorAll('.dot'));
+    const idx = allDots.indexOf(clickedDot);
+
+    let start = idx;
+    let end = idx;
+    while (start > 0 && allDots[start - 1].dataset.char === char && allDots[start - 1].dataset.line) start--;
+    while (end < allDots.length - 1 && allDots[end + 1].dataset.char === char && allDots[end + 1].dataset.line) end++;
+
+    if (start === end) {
+      showDotLine(char || null, clickedDot.dataset.line);
+      return;
+    }
+
+    lineDisplay.innerHTML = '';
+    if (char) {
+      const charEl = document.createElement('span');
+      charEl.className = 'dl-char';
+      charEl.textContent = char;
+      lineDisplay.appendChild(charEl);
+    }
+    const runEl = document.createElement('div');
+    runEl.className = 'dl-run-lines';
+    for (let i = start; i <= end; i++) {
+      const lineEl = document.createElement('span');
+      lineEl.className = i === idx ? 'dl-run-line dl-run-active' : 'dl-run-line';
+      lineEl.textContent = allDots[i].dataset.line;
+      runEl.appendChild(lineEl);
+    }
+    lineDisplay.appendChild(runEl);
+  }
+
+  function resetLineDisplay() {
+    if (selectedDot) return; // keep run visible while a dot is selected
+    lineDisplay.innerHTML = '<span class="dl-placeholder">Hover a dot to read the line</span>';
+  }
+
+  dotGrid.addEventListener('mouseover', e => {
+    if (selectedDot) return; // don't override a pinned run on hover
+    const dot = e.target.closest('.dot');
+    if (!dot || !dot.dataset.line) return;
+    showDotLine(dot.dataset.char || null, dot.dataset.line);
+  });
+  dotGrid.addEventListener('mouseleave', resetLineDisplay);
+  dotGrid.addEventListener('click', e => {
+    const dot = e.target.closest('.dot');
+    if (!dot || !dot.dataset.line) return;
+    // clicking the same dot again deselects
+    if (selectedDot === dot) {
+      selectedDot.classList.remove('selected');
+      selectedDot = null;
+      lineDisplay.innerHTML = '<span class="dl-placeholder">Hover a dot to read the line</span>';
+      return;
+    }
+    if (selectedDot) selectedDot.classList.remove('selected');
+    selectedDot = dot;
+    dot.classList.add('selected');
+    showDotRun(dot);
+  });
+
+  // Clear selection when episode changes
+  function clearSelection() {
+    if (selectedDot) { selectedDot.classList.remove('selected'); selectedDot = null; }
+    lineDisplay.innerHTML = '<span class="dl-placeholder">Hover a dot to read the line</span>';
+  }
 
   let dialoguesData = null;
   let isLoading = false;
@@ -98,9 +182,10 @@ export function initExplorer(stats) {
   }
 
   function showEpisode(epId) {
-        const ep = episodes.find(e => e.id === epId);
+    const ep = episodes.find(e => e.id === epId);
     if (!ep) return;
-        if (dialoguesData) {
+    clearSelection();
+    if (dialoguesData) {
       renderDots(dotGrid, dialoguesData[epId] || [], colorMap);
     } else {
       renderPlaceholderDots(dotGrid, ep.line_count);

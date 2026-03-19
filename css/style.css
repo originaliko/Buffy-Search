@@ -3,7 +3,8 @@
   --night:  #0D0D0F;
   --dusk:   #1A1A24;
   --fog:    #2A2A38;
-  --mist:   #3D3D55;
+  --mist_old:   #3D3D55;
+  --mist:   #656572;
   --blood:  #8B0000;
   --stake:  #C8860A;
   --pale:   #E8E0D5;
@@ -38,7 +39,7 @@ body::before {
 /* ── TYPOGRAPHY ─────────────────────────────────────────────────────────────── */
 h1 {
   font-family: 'Playfair Display', serif;
-  font-size: clamp(2.5rem, 7vw, 4.5rem);
+  font-size: clamp(3.4rem, 7vw, 4.5rem);
   font-weight: 700;
   letter-spacing: -2px;
   line-height: 0.9;
@@ -259,10 +260,59 @@ section {
   min-height: 80px;
 }
 .dot {
-  width: 6px;
-  height: 6px;
+  width: 14px;
+  height: 14px;
   border-radius: 50%;
-  cursor: default;
+  cursor: pointer;
+}
+.dot.selected {
+  outline: 2px solid var(--pale);
+  outline-offset: 1px;
+}
+
+.dot-line-display {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-top: 8px;
+  padding: 10px 16px;
+  background: var(--dusk);
+  border: 1px solid var(--fog);
+  border-radius: 3px;
+  min-height: 42px;
+  font-size: 13px;
+}
+.dot-line-display .dl-char {
+  color: var(--stake);
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dot-line-display .dl-text {
+  color: var(--pale);
+}
+.dot-line-display .dl-placeholder {
+  color: var(--mist);
+  font-style: italic;
+}
+.dl-run-lines {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  flex: 1;
+}
+.dl-run-line {
+  color: var(--pale);
+  font-size: 13px;
+  padding: 2px 0;
+}
+.dl-run-active {
+  color: var(--pale);
+  background: rgba(200, 134, 10, 0.12);
+  border-left: 2px solid var(--stake);
+  padding: 2px 8px;
+  border-radius: 0 2px 2px 0;
 }
 
 .ep-info-bar {
@@ -451,3 +501,13 @@ section {
 .site-footer a:hover { color: var(--stake); }
 .site-footer .iko { display: inline-flex; align-items: center;}
 .site-footer svg { height: 20px; width: auto; fill: var(--ghost);}
+
+@media screen and (max-width: 767px){
+  .stat-grid{
+    display: flex;
+    flex-direction: column;
+  }
+  .fl-grid {    
+    grid-template-columns: repeat(1, 1fr);
+  }
+}
