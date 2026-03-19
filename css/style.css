@@ -272,7 +272,7 @@ section {
 
 .dot-line-display {
   display: flex;
-  align-items: center;
+  align-items: stretch;
   gap: 12px;
   margin-top: 8px;
   padding: 10px 16px;
@@ -283,11 +283,16 @@ section {
   font-size: 13px;
 }
 .dot-line-display .dl-char {
-  color: var(--stake);
+  color: var(--pale);
   text-transform: uppercase;
   letter-spacing: 1px;
-  white-space: nowrap;
-  flex-shrink: 0;
+  white-space: nowrap;  
+  padding: 2px 8px;
+  border-radius: 2px;
+  font-size: 11px;
+  margin-top: 2px;
+  display: flex;
+  align-items: center;  
 }
 .dot-line-display .dl-text {
   color: var(--pale);
