@@ -408,6 +408,16 @@ section {
 }
 .chart-callout.low::after { content: '▲'; top: -14px; bottom: auto; }
 
+.chart-first-ring {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  border: 1.5px solid;
+  transform: translate(-50%, -50%);
+  pointer-events: none;
+}
+
 /* ── FIRST & LAST LINES ─────────────────────────────────────────────────────── */
 .fl-grid {
   display: grid;
@@ -437,6 +447,23 @@ section {
 .fl-block .tag { font-size: 13px; color: var(--ghost); text-transform: uppercase; letter-spacing: 1px; margin-bottom: 5px; }
 .fl-block .quote { font-size: 13px; font-style: italic; line-height: 1.5; }
 .fl-block .ep-ref { font-size: 13px; color: var(--mist); margin-top: 4px; }
+
+.fl-secondary-cards { display: contents; }
+.fl-secondary-cards.fl-secondary-hidden { display: none; }
+.fl-show-more-wrap { display: flex; justify-content: center; margin-top: 20px; }
+.fl-show-more {
+  background: none;
+  border: 1px solid var(--fog);
+  color: var(--ghost);
+  font-family: inherit;
+  font-size: 13px;
+  padding: 8px 20px;
+  border-radius: 2px;
+  cursor: pointer;
+  letter-spacing: 1px;
+  transition: border-color 0.15s, color 0.15s;
+}
+.fl-show-more:hover { border-color: var(--ghost); color: var(--pale); }
 
 /* ── SEARCH ─────────────────────────────────────────────────────────────────── */
 .search-controls { display: flex; flex-direction: column; gap: 12px; margin-bottom: 20px; }
