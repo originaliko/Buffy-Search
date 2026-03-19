@@ -20,6 +20,26 @@ CHARACTERS = {
     "Riley":    {"color": "#5C7A5C", "aliases": ["RILEY", "Riley Finn"]},
 }
 
+# Secondary characters: tracked for first appearance only (no color, no stats)
+# Keys are display names; values are raw transcript name variants to match.
+SECONDARY_CHARACTERS = {
+    "Harmony":       ["Harmony", "HARMONY"],
+    "Amy":           ["Amy", "AMY"],
+    "Jenny Calendar":["Ms. Calendar", "Jenny", "Jenny Calendar"],
+    "Snyder":        ["Snyder", "SNYDER", "Principal Snyder"],
+    "Drusilla":      ["Drusilla", "DRUSILLA"],
+    "Jonathan":      ["Jonathan", "JONATHAN"],
+    "Wesley":        ["Wesley", "WESLEY"],
+    "Warren":        ["WARREN", "Warren"],
+    "Andrew":        ["ANDREW", "Andrew"],
+    "Robin Wood":    ["PRINCIPAL WOOD", "ROBIN WOOD", "Robin Wood"],
+}
+
+SECONDARY_ALIAS_MAP = {}
+for _canonical, _aliases in SECONDARY_CHARACTERS.items():
+    for _alias in _aliases:
+        SECONDARY_ALIAS_MAP[_alias.lower()] = _canonical
+
 CATCHPHRASES = [
     "I'm buffy", "Vampire", "Slayer", "Hellmouth", "Chosen One", "Watcher",
     "Bloody hell", "Bored now", "Five by five"
@@ -109,6 +129,10 @@ def accumulate_episode(rows, ep_id, alias_map, stats):
                     stats["char_first"][canonical] = {"line": row["line"], "ep_id": ep_id}
                 stats["char_last"][canonical] = {"line": row["line"], "ep_id": ep_id}
 
+            sec_canonical = SECONDARY_ALIAS_MAP.get(row["character"].strip().lower())
+            if sec_canonical and sec_canonical not in stats["sec_char_first"]:
+                stats["sec_char_first"][sec_canonical] = {"line": row["line"], "ep_id": ep_id}
+
         for phrase in CATCHPHRASES:
             if phrase_matches(phrase, row["line"]):
                 stats["phrase_totals"][phrase] = stats["phrase_totals"].get(phrase, 0) + 1
@@ -185,6 +209,18 @@ def build_stats_json(stats, episode_meta):
                              "episode_title": ep.get("title", "")}
         first_last_out.append(entry)
 
+    for name in SECONDARY_CHARACTERS:
+        if name not in stats["sec_char_first"]:
+            continue
+        fl = stats["sec_char_first"][name]
+        ep = episode_meta.get(fl["ep_id"], {})
+        first_last_out.append({
+            "character": name,
+            "first": {"line": fl["line"], "episode_id": fl["ep_id"],
+                      "episode_title": ep.get("title", "")},
+            "last": None,
+        })
+
     return {
         "meta": {
             "total_lines": total_lines,
@@ -221,6 +257,7 @@ def main():
         "char_episodes": {},
         "char_first": {},
         "char_last": {},
+        "sec_char_first": {},
         "phrase_totals": {},
         "phrase_by_char": {},
         "ep_line_count": {},
