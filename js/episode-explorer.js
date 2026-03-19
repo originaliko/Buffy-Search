@@ -90,14 +90,19 @@ export function initExplorer(stats) {
 
   let selectedDot = null;
 
-  function showDotLine(char, line) {
+  const ENDS_WITH_PUNCT = /[.!?,;:\u2026\u201D"']$/;
+
+  function makeCharPill(char, color) {
+    const charEl = document.createElement('span');
+    charEl.className = 'dl-char';
+    charEl.textContent = char;
+    if (color) charEl.style.background = color;
+    return charEl;
+  }
+
+  function showDotLine(char, line, color) {
     lineDisplay.innerHTML = '';
-    if (char) {
-      const charEl = document.createElement('span');
-      charEl.className = 'dl-char';
-      charEl.textContent = char;
-      lineDisplay.appendChild(charEl);
-    }
+    if (char) lineDisplay.appendChild(makeCharPill(char, color));
     const lineEl = document.createElement('span');
     lineEl.className = 'dl-text';
     lineEl.textContent = line;
@@ -106,6 +111,7 @@ export function initExplorer(stats) {
 
   function showDotRun(clickedDot) {
     const char = clickedDot.dataset.char;
+    const color = clickedDot.style.background;
     const allDots = Array.from(dotGrid.querySelectorAll('.dot'));
     const idx = allDots.indexOf(clickedDot);
 
@@ -114,26 +120,39 @@ export function initExplorer(stats) {
     while (start > 0 && allDots[start - 1].dataset.char === char && allDots[start - 1].dataset.line) start--;
     while (end < allDots.length - 1 && allDots[end + 1].dataset.char === char && allDots[end + 1].dataset.line) end++;
 
-    if (start === end) {
-      showDotLine(char || null, clickedDot.dataset.line);
+    // Merge lines that don't end with punctuation into the following line
+    const runDots = allDots.slice(start, end + 1);
+    const merged = []; // { text, indices: [original indices] }
+    let i = 0;
+    while (i < runDots.length) {
+      let text = runDots[i].dataset.line;
+      const indices = [start + i];
+      while (!ENDS_WITH_PUNCT.test(text.trimEnd()) && i + 1 < runDots.length) {
+        i++;
+        text = text.trimEnd() + ' ' + runDots[i].dataset.line;
+        indices.push(start + i);
+      }
+      merged.push({ text, indices });
+      i++;
+    }
+
+    if (merged.length === 1) {
+      showDotLine(char || null, merged[0].text, color);
       return;
     }
 
     lineDisplay.innerHTML = '';
-    if (char) {
-      const charEl = document.createElement('span');
-      charEl.className = 'dl-char';
-      charEl.textContent = char;
-      lineDisplay.appendChild(charEl);
-    }
+    if (char) lineDisplay.appendChild(makeCharPill(char, color));
+
     const runEl = document.createElement('div');
     runEl.className = 'dl-run-lines';
-    for (let i = start; i <= end; i++) {
+    merged.forEach(entry => {
       const lineEl = document.createElement('span');
-      lineEl.className = i === idx ? 'dl-run-line dl-run-active' : 'dl-run-line';
-      lineEl.textContent = allDots[i].dataset.line;
+      const isActive = entry.indices.includes(idx);
+      lineEl.className = isActive ? 'dl-run-line dl-run-active' : 'dl-run-line';
+      lineEl.textContent = entry.text;
       runEl.appendChild(lineEl);
-    }
+    });
     lineDisplay.appendChild(runEl);
   }
 
@@ -146,7 +165,7 @@ export function initExplorer(stats) {
     if (selectedDot) return; // don't override a pinned run on hover
     const dot = e.target.closest('.dot');
     if (!dot || !dot.dataset.line) return;
-    showDotLine(dot.dataset.char || null, dot.dataset.line);
+    showDotLine(dot.dataset.char || null, dot.dataset.line, dot.style.background);
   });
   dotGrid.addEventListener('mouseleave', resetLineDisplay);
   dotGrid.addEventListener('click', e => {
