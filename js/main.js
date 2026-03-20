@@ -5,6 +5,7 @@ import { initHero }          from './hero.js';
 import { initExplorer }      from './episode-explorer.js';
 import { initCharacters }    from './characters.js';
 import { initRatings }       from './ratings.js';
+import { initPalette }       from './palette.js';
 import { initCatchphrases }  from './catchphrases.js';
 import { initFirstLast }     from './firstlast.js';
 import { initSearch }        from './search.js';
@@ -64,6 +65,7 @@ async function boot() {
   initCharacters(stats);
   initExplorer(stats);
   initRatings(stats);
+  initPalette(stats);
   initCatchphrases(stats);
   initFirstLast(stats);
   initSearch(stats);

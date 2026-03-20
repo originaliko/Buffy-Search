@@ -408,6 +408,101 @@ section {
 }
 .chart-callout.low::after { content: '▲'; top: -14px; bottom: auto; }
 
+/* ── COLOUR PALETTES ────────────────────────────────────────────────────────── */
+.palette-wrap {
+  background: var(--dusk);
+  border: 1px solid var(--fog);
+  border-radius: 3px;
+  overflow: hidden;
+}
+.palette-img {
+  display: block;
+  width: 100%;
+  height: auto;
+  max-width: 846px;
+  margin: 24px auto;
+}
+.palette-ep-label {
+  padding: 10px 16px;
+  font-size: 13px;
+  color: var(--ghost);
+  border-top: 1px solid var(--fog);
+}
+.palette-stats-bar {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 20px;
+  padding: 10px 16px;
+  font-size: 13px;
+  color: var(--ghost);
+  border-top: 1px solid var(--fog);
+}
+.palette-stats-bar:empty { display: none; }
+.palette-stats-bar span { color: var(--stake); }
+.psb-badges {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  width: 100%;
+  margin-top: 2px;
+}
+.psb-badge {
+  font-size: 11px;
+  color: var(--pale);
+  background: rgba(200, 134, 10, 0.12);
+  border: 1px solid var(--stake);
+  padding: 2px 8px;
+  border-radius: 2px;
+  letter-spacing: 0.5px;
+}
+
+.palette-records {
+  margin-top: 12px;
+  background: var(--dusk);
+  border: 1px solid var(--fog);
+  border-radius: 3px;
+  overflow: hidden;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px;
+}
+.palette-records:empty { display: none; }
+.pr-row {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  padding: 8px 16px;
+  background: var(--dusk);
+  border: 1px solid var(--fog);
+  border-radius: 3px;
+  flex: 1 1 calc(50% - 16px);
+}
+.pr-row:last-child { border-bottom: none; }
+.pr-label {
+  font-size: 11px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  color: var(--ghost);
+  min-width: 110px;
+  flex-shrink: 0;
+}
+.pr-chips { display: flex; gap: 6px; flex-wrap: wrap; }
+.pr-chip {
+  background: var(--fog);
+  border: 1px solid transparent;
+  color: var(--ghost);
+  font-family: inherit;
+  font-size: 12px;
+  padding: 3px 10px;
+  border-radius: 2px;
+  cursor: pointer;
+  letter-spacing: 0.5px;
+  transition: color 0.15s, border-color 0.15s;
+}
+.pr-chip:hover { color: var(--pale); border-color: var(--ghost); }
+.pr-chip.active { color: var(--pale); border-color: var(--stake); background: rgba(200, 134, 10, 0.10); }
+
 .chart-first-ring {
   position: absolute;
   width: 20px;
