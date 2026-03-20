@@ -70,12 +70,16 @@ export function initExplorer(stats) {
   ).join('');
 
   el.innerHTML = `
-    <h2>Episode Explorer</h2>
-    <p class="subtitle">Each dot is one line of dialogue — hover or tap to read it</p>
+    <h2>Dialogue Explorer</h2>
+    <p class="subtitle">Each dot is one line of dialogue — hover or tap to read it<span class="explorer-instruction"> - or click the ▶ button!</span></p>
     <div class="char-legend">${legendHTML}</div>
     <div class="ep-controls">
       ${seasonBtnsHTML}
       <select class="ep-select" id="ep-select"></select>
+      <button class="play-btn" id="play-btn" aria-label="Play episode" title="Play episode">▶</button>
+      <button class="speed-btn" id="speed-minus" title="Slower">−</button>
+      <span class="speed-display" id="speed-display">1.0s</span>
+      <button class="speed-btn" id="speed-plus" title="Faster">+</button>
     </div>
     <div class="dot-grid" id="dot-grid"></div>
     <div class="dot-line-display" id="dot-line-display"><span class="dl-placeholder">Hover a dot to read the line</span></div>
@@ -86,9 +90,80 @@ export function initExplorer(stats) {
   const epSelect = el.querySelector('#ep-select');
   const infoBar = el.querySelector('#ep-info-bar');
   const lineDisplay = el.querySelector('#dot-line-display');
-  const seasonBtns = el.querySelectorAll('.season-btn');
+  const playBtn      = el.querySelector('#play-btn');
+  const speedMinus   = el.querySelector('#speed-minus');
+  const speedPlus    = el.querySelector('#speed-plus');
+  const speedDisplay = el.querySelector('#speed-display');
+  const seasonBtns   = el.querySelectorAll('.season-btn');
 
-  let selectedDot = null;
+  let selectedDot  = null;
+  let playInterval = null;
+  let playIndex    = 0;
+  let playSpeed    = 1000; // ms
+
+  function updateSpeedDisplay() {
+    speedDisplay.textContent = (playSpeed / 1000).toFixed(1) + 's';
+  }
+
+  speedMinus.addEventListener('click', () => {
+    playSpeed = Math.min(playSpeed + 100, 3000);
+    updateSpeedDisplay();
+    if (playInterval) { clearInterval(playInterval); playInterval = setInterval(() => stepFn(), playSpeed); }
+  });
+
+  speedPlus.addEventListener('click', () => {
+    playSpeed = Math.max(playSpeed - 100, 200);
+    updateSpeedDisplay();
+    if (playInterval) { clearInterval(playInterval); playInterval = setInterval(() => stepFn(), playSpeed); }
+  });
+
+  let stepFn = () => {}; // reference updated when playback starts
+
+  function stopPlayback() {
+    if (!playInterval) return;
+    clearInterval(playInterval);
+    playInterval = null;
+    playBtn.textContent = '▶';
+    dotGrid.querySelectorAll('.dot.playing').forEach(d => d.classList.remove('playing'));
+  }
+
+  function startPlayback() {
+    const allDots = Array.from(dotGrid.querySelectorAll('.dot')).filter(d => d.dataset.line);
+    if (!allDots.length) return;
+
+    // If a dot is selected, resume from there; otherwise start from beginning
+    playIndex = selectedDot ? allDots.indexOf(selectedDot) : 0;
+    if (playIndex < 0) playIndex = 0;
+    clearSelection();
+
+    playBtn.textContent = '⏸';
+
+    function step() {
+      if (playIndex >= allDots.length) {
+        stopPlayback();
+        lineDisplay.innerHTML = '<span class="dl-placeholder">Hover a dot to read the line</span>';
+        return;
+      }
+      dotGrid.querySelectorAll('.dot.playing').forEach(d => d.classList.remove('playing'));
+      const dot = allDots[playIndex];
+      dot.classList.add('playing');
+      dot.scrollIntoView({ block: 'nearest' });
+      showDotLine(dot.dataset.char || null, dot.dataset.line, dot.style.background);
+      playIndex++;
+    }
+
+    stepFn = step;
+    step();
+    playInterval = setInterval(step, playSpeed);
+  }
+
+  playBtn.addEventListener('click', () => {
+    if (playInterval) {
+      stopPlayback();
+    } else {
+      startPlayback();
+    }
+  });
 
   const ENDS_WITH_PUNCT = /[.!?,;:\u2026\u201D"']$/;
 
@@ -157,12 +232,12 @@ export function initExplorer(stats) {
   }
 
   function resetLineDisplay() {
-    if (selectedDot) return; // keep run visible while a dot is selected
+    if (selectedDot || playInterval) return;
     lineDisplay.innerHTML = '<span class="dl-placeholder">Hover a dot to read the line</span>';
   }
 
   dotGrid.addEventListener('mouseover', e => {
-    if (selectedDot) return; // don't override a pinned run on hover
+    if (selectedDot || playInterval) return;
     const dot = e.target.closest('.dot');
     if (!dot || !dot.dataset.line) return;
     showDotLine(dot.dataset.char || null, dot.dataset.line, dot.style.background);
@@ -171,6 +246,7 @@ export function initExplorer(stats) {
   dotGrid.addEventListener('click', e => {
     const dot = e.target.closest('.dot');
     if (!dot || !dot.dataset.line) return;
+    if (playInterval) { stopPlayback(); return; }
     // clicking the same dot again deselects
     if (selectedDot === dot) {
       selectedDot.classList.remove('selected');
@@ -184,8 +260,9 @@ export function initExplorer(stats) {
     showDotRun(dot);
   });
 
-  // Clear selection when episode changes
+  // Clear selection and stop playback when episode changes
   function clearSelection() {
+    stopPlayback();
     if (selectedDot) { selectedDot.classList.remove('selected'); selectedDot = null; }
     lineDisplay.innerHTML = '<span class="dl-placeholder">Hover a dot to read the line</span>';
   }
