@@ -1,0 +1,104 @@
+[
+  {
+    "id": "s2e22-what-left",
+    "lines": [
+      { "speaker": "Angelus", "avatar": "angel", "color": "#8B0000", "line": "No weapons, no friends, no hope. Take all that away, and what's left?", "avatar": "angel" },
+      { "speaker": "Buffy", "line": "Me.", "duration": 4500 }
+    ]
+  },
+  {
+    "id": "s3e08-loves-bitch",
+    "lines": [
+      { "speaker": "Spike", "line": "You're not friends. You'll never be friends. You'll be in love till it kills you both. You'll fight, and you'll shag, and you'll hate each other till it makes you quiver, but you'll never be friends.", "duration": 9000 },
+      { "speaker": "Spike", "line": "Love isn't brains, children, it's blood — blood screaming inside you to work its will.", "duration": 6000 }
+    ]
+  },
+  {
+    "id": "s1e12-i-quit",
+    "lines": [
+      { "speaker": "Giles", "line": "You were destined to fight the Master. It says so in the Codex." },
+      { "speaker": "Buffy", "line": "I quit." },
+      { "speaker": "Giles", "line": "I beg your pardon?" },
+      { "speaker": "Buffy", "line": "I resign. I'm fired. You can find someone else to stop the Master from taking over." },
+      { "speaker": "Giles", "line": "I'm afraid that's not possible." },
+      { "speaker": "Buffy", "line": "Then find someone who doesn't have a social life. Me, I'm going." }
+    ]
+  },
+  {
+    "id": "s5e22-hardest-thing",
+    "lines": [
+      { "speaker": "Buffy", "line": "Dawn, listen to me. I love you. I will always love you. But this is the work that I have to do.", "duration": 7000 },
+      { "speaker": "Buffy", "line": "Tell Giles I... I figured it out. And I'm okay.", "duration": 5000 },
+      { "speaker": "Buffy", "line": "The hardest thing in this world is to live in it.", "duration": 5000 },
+      { "speaker": "Buffy", "line": "Be brave. Live.", "duration": 5000 }
+    ]
+  },
+  {
+    "id": "s2e14-innocence-giles",
+    "lines": [
+      { "speaker": "Buffy", "line": "I told him... I thought it didn't matter. That he was different, that the curse was over." },
+      { "speaker": "Giles", "line": "It's not your fault." },
+      { "speaker": "Buffy", "line": "I was stupid." },
+      { "speaker": "Giles", "line": "You were in love. It's a mitigating circumstance. Trust me, I've seen it before.", "duration": 5000 }
+    ]
+  },
+  {
+    "id": "s6e19-bored-now",
+    "lines": [
+      { "speaker": "Willow", "line": "Bored now.", "duration": 5000 }
+    ]
+  },
+  {
+    "id": "s1e01-library",
+    "lines": [
+      { "speaker": "Giles", "line": "I've been waiting. I know who you are, of course." },
+      { "speaker": "Buffy", "line": "Good. Then you know I'm the one girl in all the world who would really rather not spend a Friday night in a library." },
+      { "speaker": "Giles", "line": "Fate rarely calls upon us at a moment of our choosing." },
+      { "speaker": "Buffy", "line": "So you're my watcher?" },
+      { "speaker": "Giles", "line": "I have that... burden, yes." }
+    ]
+  },
+  {
+    "id": "s3e17-faith-five-by-five",
+    "lines": [
+      { "speaker": "Buffy", "line": "Are you okay?" },
+      { "speaker": "Faith", "line": "Five by five." },
+      { "speaker": "Buffy", "line": "What does that even mean?" },
+      { "speaker": "Faith", "line": "It means I'm good. Wicked good. Living the dream.", "duration": 5000 }
+    ]
+  },
+  {
+    "id": "s2e03-oz-willow",
+    "lines": [
+      { "speaker": "Oz", "line": "I'm gonna ask you to go out with me tomorrow night. And I'm kinda nervous about it, actually. It's interesting." },
+      { "speaker": "Willow", "line": "Oh. I'm going to say yes!" },
+      { "speaker": "Oz", "line": "Yeah, I thought you might.", "duration": 4000 }
+    ]
+  },
+  {
+    "id": "s3e09-anya-introduction",
+    "lines": [
+      { "speaker": "Anya", "line": "For a thousand years I wielded the power of the Wish. I brought ruin to the heads of unfaithful men." },
+      { "speaker": "Xander", "line": "Well, hey. That's swell." },
+      { "speaker": "Anya", "line": "I was incredible.", "duration": 4000 }
+    ]
+  },
+  {
+    "id": "s4e10-hush-after",
+    "lines": [
+      { "speaker": "Willow", "line": "So, we can talk again. That's good, right?" },
+      { "speaker": "Buffy", "line": "Yeah. Although... some things are easier to say without words." },
+      { "speaker": "Willow", "line": "What does that mean?" },
+      { "speaker": "Buffy", "line": "I'm not sure. But Giles made a very convincing mime." }
+    ]
+  },
+  {
+    "id": "s2e06-band-candy-spike-drusilla",
+    "lines": [
+      { "speaker": "Drusilla", "line": "My stars are singing to me, Spike. Can you hear them?" },
+      { "speaker": "Spike", "line": "I hear them, love. Always." },
+      { "speaker": "Drusilla", "line": "They say a new age is coming. Something old is waking up." },
+      { "speaker": "Spike", "line": "Then we'll be ready for it.", "duration": 4000 }
+    ]
+  }
+]
