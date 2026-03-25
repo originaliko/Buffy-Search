@@ -99,7 +99,7 @@ export function initQuotes(stats) {
       slot.innerHTML = '';
     }
 
-    const color = lineObj.color || colorMap[speaker.toLowerCase()] || null;
+    const color = lineObj.color || colorMap[speaker.toLowerCase()] || '#444444';
 
     const speakerEl = document.createElement('div');
     speakerEl.className = 'dl-speaker';
@@ -112,7 +112,7 @@ export function initQuotes(stats) {
       const nameEl = document.createElement('span');
       nameEl.className = 'dl-char';
       nameEl.textContent = speaker.charAt(0).toUpperCase() + speaker.slice(1);
-      if (color) nameEl.style.background = color;
+      nameEl.style.background = color;
       group.appendChild(nameEl);
     }
 
