@@ -2,7 +2,7 @@
   {
     "id": "s2e22-what-left",
     "lines": [
-      { "speaker": "Angelus", "avatar": "angel", "color": "#8B0000", "line": "No weapons, no friends, no hope. Take all that away, and what's left?", "avatar": "angel" },
+      { "speaker": "Angelus", "avatar": "angel", "color": "#8B0000", "line": "No weapons, no friends, no hope. Take all that away, and what's left?"},
       { "speaker": "Buffy", "line": "Me.", "duration": 4500 }
     ]
   },
@@ -27,9 +27,9 @@
   {
     "id": "s5e22-hardest-thing",
     "lines": [
-      { "speaker": "Buffy", "line": "Dawn, listen to me. I love you. I will always love you. But this is the work that I have to do.", "duration": 7000 },
-      { "speaker": "Buffy", "line": "Tell Giles I... I figured it out. And I'm okay.", "duration": 5000 },
-      { "speaker": "Buffy", "line": "The hardest thing in this world is to live in it.", "duration": 5000 },
+      { "speaker": "Buffy", "line": "Dawn, listen to me. I love you. I will always love you. But this is the work that I have to do.", "duration": 5000 },
+      { "speaker": "Buffy", "line": "Tell Giles I... I figured it out. And I'm okay.", "duration": 3000 },
+      { "speaker": "Buffy", "line": "The hardest thing in this world is to live in it.", "duration": 3000 },
       { "speaker": "Buffy", "line": "Be brave. Live.", "duration": 5000 }
     ]
   },

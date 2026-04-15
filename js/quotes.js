@@ -34,11 +34,27 @@ export function initQuotes(stats) {
   let lastSpeaker = null;
   let lastSceneIdx = -1;
   let side        = 'right'; // first flip → 'left'
-
+/*
   fetch('data/quotes.json')
     .then(r => r.json())
     .then(data => { scenes = data; playNextScene(); })
     .catch(() => {}); // fail silently
+*/
+
+  fetch('data/quotes.json')
+    .then(r => r.json())
+    .then(data => {
+      scenes = data;
+      const hash = window.location.hash.slice(1);
+      const hashIdx = hash ? scenes.findIndex(s => s.id === hash) : -1;
+      if (hashIdx !== -1) {
+        startScene(hashIdx);
+      } else {
+        playNextScene();
+      }
+    })
+    .catch(() => {}); // fail silently
+
 
   const FADE_DURATION = 600; // ms, must match CSS animation
 
@@ -54,7 +70,24 @@ export function initQuotes(stats) {
     }
   }
 
-  function startScene() {
+  function startScene(forcedIdx) {
+    slotLeft.classList.remove('qs-fading');
+    slotRight.classList.remove('qs-fading');
+    slotLeft.innerHTML  = '';
+    slotRight.innerHTML = '';
+    lastSpeaker = null;
+    side = 'right';
+    let idx;
+    if (forcedIdx !== undefined) {
+      idx = forcedIdx;
+    } else {
+      do { idx = Math.floor(Math.random() * scenes.length); } while (scenes.length > 1 && idx === lastSceneIdx);
+    }
+    lastSceneIdx = idx;
+    playLine(scenes[idx].lines, 0);
+  }
+
+  /*function startScene() {
     slotLeft.classList.remove('qs-fading');
     slotRight.classList.remove('qs-fading');
     slotLeft.innerHTML  = '';
@@ -65,7 +98,7 @@ export function initQuotes(stats) {
     do { idx = Math.floor(Math.random() * scenes.length); } while (scenes.length > 1 && idx === lastSceneIdx);
     lastSceneIdx = idx;
     playLine(scenes[idx].lines, 0);
-  }
+  }*/
 
   function playLine(lines, idx) {
     if (idx >= lines.length) {
